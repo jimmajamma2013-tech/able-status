@@ -3,11 +3,12 @@
   "readyForVerdict": [
     "fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.",
     "lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)",
-    "lane F Current Moment @ efab8ee34b — the parity slice COMMITTED (one candidate law for Room and Reel, a parity test, the 834 door uncovered); PUSHED; r2 RUNNING on Account B (Opus) → docs/audits/cold-review/2026-09-16-lane-f-current-moment-r2.md"
+    "lane F Current Moment @ efab8ee34b + r2 verdict — r2 RETURN 5·5: parity holds for one input shape only (F16–F18: a fresh video, two in-window releases, a cover-less release make Room and Reel disagree — different object population and trust rule); F19 the M2-A face-exclusion probe red at 390/1440 (the opening stack lifted the title onto a face; not pre-existing). FIX ROUND RUNNING (Account B, Opus) → r3 by a different instance",
+    "fold-bc-20260916 @ 0b07d58071 — the Account B window preserved the Fable builder's staged commit-2 tree (no correctness claim); the Opus builder resumed on top (pid 90809) and is finishing commit 2 → then r2 on the candidate (five claims: 0 third-party requests undecided at 390/834/1440 · Enable mounts · one sound owner · per-kind section lists differ · 0 P0)"
   ],
   "running": [
     "Account B (OPUS — Fable on this account is spent; both headless builders ended with the limit message) · builder: the B+C RETURN commit 2 (the renderer obeys composeWork) resumed from its staged state in fold-bc-20260916",
-    "Account B (Opus) · verifier: lane F r2 on efab8ee34b, ATTEMPT 2 — attempt 1 exited silently after ~3.3 MB of transcript with no verdict written (cause indeterminate); this one writes its verdict incrementally"
+    "Account B (Opus) · builder: lane F fix round closing r2 (one object population + one trust rule for Room and Reel; parity S1–S3; the face probe) in agent-a4b8bacec2f27ab91 — launched 20:5x by the Account A seat; log /tmp/claude-b-f3.log"
   ],
   "blockers": [
     "Greptile has posted nothing since 2026-09-06 (0 reviews/comments on the standing window PR #28 across ~700 canonical commits) — James: check app.greptile.com connection + credits",
@@ -50,24 +51,19 @@
     ],
     "verifierLaunch": "nohup env CLAUDE_CONFIG_DIR=$HOME/.claude-account-b claude -p \"$(cat <packet>)\" --model claude-fable-5-1 --dangerously-skip-permissions --output-format text < /dev/null > /tmp/<log> 2>&1 &  (packet shape: /tmp/packet-b-a3.md)"
   },
+  "rootSeat": "⚠️ TWO SEATS OBSERVED ACTING AS ROOT: the Account B window committed 0b07d58071 on fold-bc-20260916 at 20:40 as author `t <t@t>` (set `git config user.name/email` there) and pushed it; the Account A seat (this file's author) is at 82% session and from here launches nothing new on Account A. ONE root: whichever seat James is typing in. Every launch is recorded in `running` below BEFORE it is made — read it before dispatching, never duplicate a lane.",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
   "remoteCanonicalHead": "3a41951e9c53554bb235baaf048045a6770ab85b",
   "localCanonicalHead": "3a41951e9c53554bb235baaf048045a6770ab85b",
   "canonicalAgree": true,
-  "candidateHead": "3f354a9c744599daef4a24f29fb63032cc6da465",
-  "lastVerifiedAt": "2026-09-16T19:32:48.486Z",
+  "candidateHead": "0b07d58071032a5049112f8af2e32c17e21b5af5",
+  "lastVerifiedAt": "2026-09-16T19:55:01.551Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "3a41951e9c53554bb235baaf048045a6770ab85b",
     "subject": "docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps"
   },
-  "meters": "resets Sep 22 at 10:59pm   \u001b[2m22% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 20% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-16T19:32:49.275Z",
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-16T19:32:53.502Z"
-  }
+  "meters": "resets Sep 22 at 10:59pm   \u001b[2m21% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 21% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-16T19:55:56.249Z"
 }
