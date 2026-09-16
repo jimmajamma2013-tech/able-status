@@ -10,6 +10,8 @@ _2026-09-16T20:21:07.856Z · published by fable-root (Account A, Claude Fable 5.
 - lastVerifiedAt: 2026-09-16T20:21:06.736Z
 - subject: docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T20:21:12.497Z)
+
 ## candidates ready for verdict / fold
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
 - fold-bc-20260916 @ 4984346294 — BOTH r1 findings closed by commits (3f354a9c74 the mechanical consent law; 4984346294 the renderer obeys composeWork: per-kind section lists differ, data-emphasis carried; builder names its own residue: the demo hero lost its Able preview, the mix hero points to artist SoundCloud while the stage holds Apple/Bandcamp, quickLaunch unrendered pending lane A's resolver, desktop still a stretched phone); PUSHED; r2 RUNNING on Account B (Opus)
