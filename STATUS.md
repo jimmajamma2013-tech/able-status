@@ -1,16 +1,14 @@
 # ABLE · LIVE STATUS
-_2026-09-16T18:56:19.136Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T19:00:30.446Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 5628902697f06e56a9c4dbbf5cdc8ca9c09b9796  (fresh `git ls-remote`)
-- localCanonicalHead: 5628902697f06e56a9c4dbbf5cdc8ca9c09b9796  · agrees
+- remoteCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  (fresh `git ls-remote`)
+- localCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  · agrees
 - candidateBranch: fold-bc-20260916 · candidateHead: 3f354a9c744599daef4a24f29fb63032cc6da465
-- lastVerifiedAt: 2026-09-16T18:55:30.009Z
-- subject: docs(learn): nine classes filed in root's inbox; the kernel carries the packet law and the admission contract
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T18:56:23.828Z)
+- lastVerifiedAt: 2026-09-16T19:00:29.335Z
+- subject: docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps
 
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.
