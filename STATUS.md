@@ -10,6 +10,8 @@ _2026-09-16T18:56:19.136Z · published by fable-root (Account A, Claude Fable 5.
 - lastVerifiedAt: 2026-09-16T18:55:30.009Z
 - subject: docs(learn): nine classes filed in root's inbox; the kernel carries the packet law and the admission contract
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T18:56:23.828Z)
+
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.
 - lane F Current Moment @ 170694a19a (65dd934739 + its verdict) — r1 PASS 6/10 fold-eligible; F1 Room/Reel present-tense parity + F3 the 834 consent-door collision are the lane's next slice, RUNNING on Account B (Fable); a hard gate before the reference Work
