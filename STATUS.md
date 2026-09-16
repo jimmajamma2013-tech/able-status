@@ -10,6 +10,8 @@ _2026-09-16T20:00:05.352Z · published by fable-root (Account A, Claude Fable 5.
 - lastVerifiedAt: 2026-09-16T20:00:04.214Z
 - subject: docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T20:00:14.174Z)
+
 ## candidates ready for verdict / fold
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
 - lane F Current Moment @ efab8ee34b + r2 verdict — r2 RETURN 5·5: parity holds for one input shape only (F16–F18: a fresh video, two in-window releases, a cover-less release make Room and Reel disagree — different object population and trust rule); F19 the M2-A face-exclusion probe red at 390/1440 (the opening stack lifted the title onto a face; not pre-existing). FIX ROUND RUNNING (Account B, Opus) → r3 by a different instance
