@@ -1,5 +1,5 @@
 # ABLE · LIVE STATUS
-_2026-09-16T20:00:05.352Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T20:00:52.080Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
@@ -7,10 +7,8 @@ _2026-09-16T20:00:05.352Z · published by fable-root (Account A, Claude Fable 5.
 - remoteCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  (fresh `git ls-remote`)
 - localCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  · agrees
 - candidateBranch: fold-bc-20260916 · candidateHead: 49843462940a2a3a87eb1f26d7667cbdd8ae554d
-- lastVerifiedAt: 2026-09-16T20:00:04.214Z
+- lastVerifiedAt: 2026-09-16T20:00:51.137Z
 - subject: docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T20:00:14.174Z)
 
 ## candidates ready for verdict / fold
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
