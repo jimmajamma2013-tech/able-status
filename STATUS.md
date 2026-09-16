@@ -1,5 +1,5 @@
 # ABLE · LIVE STATUS
-_2026-09-16T18:22:37.709Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T18:36:33.988Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
@@ -7,17 +7,15 @@ _2026-09-16T18:22:37.709Z · published by fable-root (Account A, Claude Fable 5.
 - remoteCanonicalHead: f2efbeef2433ed79ef14a389d834273fefc0537b  (fresh `git ls-remote`)
 - localCanonicalHead: f2efbeef2433ed79ef14a389d834273fefc0537b  · agrees
 - candidateBranch: fold-bc-20260916 · candidateHead: 379dd975efc501c521cd10906ff0584318e01ab6
-- lastVerifiedAt: 2026-09-16T18:21:53.040Z
+- lastVerifiedAt: 2026-09-16T18:35:45.498Z
 - subject: docs: the 20:1x order + two addenda; kernel SHA line; seat re-stamped
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T18:22:42.003Z)
 
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.
 - lane F Current Moment @ 170694a19a (65dd934739 + its verdict) — r1 PASS 6/10 fold-eligible; F1 Room/Reel present-tense parity + F3 the 834 consent-door collision are the lane's next slice, RUNNING on Account B (Fable); a hard gate before the reference Work
+- lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
 
 ## running lanes
-- Account A · lane A fix round after r2 RETURN 5 (six live orderings → wrappers; scan population; one capability truth) in agent-ab219d02ba00bd9c5 → r3
 - Account B (Fable → Opus when it empties) · builder: the B+C RETURN in fold-bc-20260916 (mechanical consent law; renderer obeys composeWork)
 - Account B (Fable) · builder: Current Moment parity in agent-a4b8bacec2f27ab91
 
@@ -37,15 +35,15 @@ _2026-09-16T18:22:37.709Z · published by fable-root (Account A, Claude Fable 5.
 
 ## meters
 ```
-[1mB[0m  weekly  69%  ·  Fable  86%  ·  session  13%   [2m  reserve[0m
-     resets Sep 22 at 10:59pm   [2m31% of the week left · the labour lane — heavy work belongs here[0m
-     [2mband 65–70% → 0 builder(s): architect / integrator / reviewer only[0m
+[1mB[0m  weekly  71%  ·  Fable  90%  ·  session  21%   [2m  reserve[0m
+     resets Sep 22 at 11pm   [2m29% of the week left · the labour lane — heavy work belongs here[0m
+     [2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 18% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 19% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
