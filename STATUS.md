@@ -1,5 +1,5 @@
 # ABLE · LIVE STATUS
-_2026-09-16T20:00:52.080Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T20:21:07.856Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
@@ -7,19 +7,17 @@ _2026-09-16T20:00:52.080Z · published by fable-root (Account A, Claude Fable 5.
 - remoteCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  (fresh `git ls-remote`)
 - localCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  · agrees
 - candidateBranch: fold-bc-20260916 · candidateHead: 49843462940a2a3a87eb1f26d7667cbdd8ae554d
-- lastVerifiedAt: 2026-09-16T20:00:51.137Z
+- lastVerifiedAt: 2026-09-16T20:21:06.736Z
 - subject: docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T20:00:55.912Z)
 
 ## candidates ready for verdict / fold
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
-- lane F Current Moment @ efab8ee34b + r2 verdict — r2 RETURN 5·5: parity holds for one input shape only (F16–F18: a fresh video, two in-window releases, a cover-less release make Room and Reel disagree — different object population and trust rule); F19 the M2-A face-exclusion probe red at 390/1440 (the opening stack lifted the title onto a face; not pre-existing). FIX ROUND RUNNING (Account B, Opus) → r3 by a different instance
 - fold-bc-20260916 @ 4984346294 — BOTH r1 findings closed by commits (3f354a9c74 the mechanical consent law; 4984346294 the renderer obeys composeWork: per-kind section lists differ, data-emphasis carried; builder names its own residue: the demo hero lost its Able preview, the mix hero points to artist SoundCloud while the stage holds Apple/Bandcamp, quickLaunch unrendered pending lane A's resolver, desktop still a stretched phone); PUSHED; r2 RUNNING on Account B (Opus)
+- lane F Current Moment @ 36257f1b88 — r2's blockers closed by the builder (one object population + one trust rule; parity S1–S3 each planted red; the face probe 0% at 390/834/1440 and back on disk; the 834 door clear). Residue it names: the Room's receipt says film while the record block shows the 2025 album; 1440 title wraps 6px from the face box; F20/F21 open. r3 RUNNING (Account B, Opus)
 
 ## running lanes
-- Account B (Opus) · builder: lane F fix round closing r2 (one object population + one trust rule for Room and Reel; parity S1–S3; the face probe) in agent-a4b8bacec2f27ab91 — launched 20:5x by the Account A seat; log /tmp/claude-b-f3.log
 - Account B (Opus) · verifier: fold-bc r2 on 4984346294 (five claims) — launched by the Account A seat; log /tmp/claude-b-bc2.log
+- Account B (Opus) · verifier: lane F r3 on 36257f1b88 (five claims) — log /tmp/claude-b-f4.log
 
 ## blockers
 - Greptile has posted nothing since 2026-09-06 (0 reviews/comments on the standing window PR #28 across ~700 canonical commits) — James: check app.greptile.com connection + credits
@@ -38,8 +36,8 @@ _2026-09-16T20:00:52.080Z · published by fable-root (Account A, Claude Fable 5.
 
 ## meters
 ```
-resets Sep 22 at 10:59pm   [2m21% of the week left · the labour lane — heavy work belongs here[0m
-     [2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
+[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
+     [33m⚠ session 74% — 6 point(s) from the dispatch stop.[0m
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m

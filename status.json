@@ -2,12 +2,12 @@
   "seat": "fable-root (Account A, Claude Fable 5.1)",
   "readyForVerdict": [
     "lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)",
-    "lane F Current Moment @ efab8ee34b + r2 verdict — r2 RETURN 5·5: parity holds for one input shape only (F16–F18: a fresh video, two in-window releases, a cover-less release make Room and Reel disagree — different object population and trust rule); F19 the M2-A face-exclusion probe red at 390/1440 (the opening stack lifted the title onto a face; not pre-existing). FIX ROUND RUNNING (Account B, Opus) → r3 by a different instance",
-    "fold-bc-20260916 @ 4984346294 — BOTH r1 findings closed by commits (3f354a9c74 the mechanical consent law; 4984346294 the renderer obeys composeWork: per-kind section lists differ, data-emphasis carried; builder names its own residue: the demo hero lost its Able preview, the mix hero points to artist SoundCloud while the stage holds Apple/Bandcamp, quickLaunch unrendered pending lane A's resolver, desktop still a stretched phone); PUSHED; r2 RUNNING on Account B (Opus)"
+    "fold-bc-20260916 @ 4984346294 — BOTH r1 findings closed by commits (3f354a9c74 the mechanical consent law; 4984346294 the renderer obeys composeWork: per-kind section lists differ, data-emphasis carried; builder names its own residue: the demo hero lost its Able preview, the mix hero points to artist SoundCloud while the stage holds Apple/Bandcamp, quickLaunch unrendered pending lane A's resolver, desktop still a stretched phone); PUSHED; r2 RUNNING on Account B (Opus)",
+    "lane F Current Moment @ 36257f1b88 — r2's blockers closed by the builder (one object population + one trust rule; parity S1–S3 each planted red; the face probe 0% at 390/834/1440 and back on disk; the 834 door clear). Residue it names: the Room's receipt says film while the record block shows the 2025 album; 1440 title wraps 6px from the face box; F20/F21 open. r3 RUNNING (Account B, Opus)"
   ],
   "running": [
-    "Account B (Opus) · builder: lane F fix round closing r2 (one object population + one trust rule for Room and Reel; parity S1–S3; the face probe) in agent-a4b8bacec2f27ab91 — launched 20:5x by the Account A seat; log /tmp/claude-b-f3.log",
-    "Account B (Opus) · verifier: fold-bc r2 on 4984346294 (five claims) — launched by the Account A seat; log /tmp/claude-b-bc2.log"
+    "Account B (Opus) · verifier: fold-bc r2 on 4984346294 (five claims) — launched by the Account A seat; log /tmp/claude-b-bc2.log",
+    "Account B (Opus) · verifier: lane F r3 on 36257f1b88 (five claims) — log /tmp/claude-b-f4.log"
   ],
   "blockers": [
     "Greptile has posted nothing since 2026-09-06 (0 reviews/comments on the standing window PR #28 across ~700 canonical commits) — James: check app.greptile.com connection + credits",
@@ -57,18 +57,12 @@
   "localCanonicalHead": "3a41951e9c53554bb235baaf048045a6770ab85b",
   "canonicalAgree": true,
   "candidateHead": "49843462940a2a3a87eb1f26d7667cbdd8ae554d",
-  "lastVerifiedAt": "2026-09-16T20:00:51.137Z",
+  "lastVerifiedAt": "2026-09-16T20:21:06.736Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "3a41951e9c53554bb235baaf048045a6770ab85b",
     "subject": "docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps"
   },
-  "meters": "resets Sep 22 at 10:59pm   \u001b[2m21% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 21% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-16T20:00:52.080Z",
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-16T20:00:55.912Z"
-  }
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ session 74% — 6 point(s) from the dispatch stop.\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 21% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-16T20:21:07.856Z"
 }
