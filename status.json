@@ -37,5 +37,11 @@
     "subject": "docs: the 20:1x order + two addenda; kernel SHA line; seat re-stamped"
   },
   "meters": "\u001b[1mB\u001b[0m  weekly  69%  ·  Fable  86%  ·  session  13%   \u001b[2m  reserve\u001b[0m\n     resets Sep 22 at 10:59pm   \u001b[2m31% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 65–70% → 0 builder(s): architect / integrator / reviewer only\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 18% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-16T18:22:37.709Z"
+  "updatedAt": "2026-09-16T18:22:37.709Z",
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-16T18:22:42.003Z"
+  }
 }
