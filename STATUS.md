@@ -1,5 +1,5 @@
 # ABLE · LIVE STATUS
-_2026-09-16T19:00:30.446Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T19:16:35.045Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
@@ -7,19 +7,17 @@ _2026-09-16T19:00:30.446Z · published by fable-root (Account A, Claude Fable 5.
 - remoteCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  (fresh `git ls-remote`)
 - localCanonicalHead: 3a41951e9c53554bb235baaf048045a6770ab85b  · agrees
 - candidateBranch: fold-bc-20260916 · candidateHead: 3f354a9c744599daef4a24f29fb63032cc6da465
-- lastVerifiedAt: 2026-09-16T19:00:29.335Z
+- lastVerifiedAt: 2026-09-16T19:16:33.920Z
 - subject: docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T19:00:36.893Z)
 
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.
-- lane F Current Moment @ 170694a19a (65dd934739 + its verdict) — r1 PASS 6/10 fold-eligible; F1 Room/Reel present-tense parity + F3 the 834 consent-door collision are the lane's next slice, RUNNING on Account B (Fable); a hard gate before the reference Work
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
+- lane F Current Moment @ efab8ee34b — the parity slice COMMITTED (one candidate law for Room and Reel, a parity test, the 834 door uncovered); PUSHED; r2 RUNNING on Account B (Opus) → docs/audits/cold-review/2026-09-16-lane-f-current-moment-r2.md
 
 ## running lanes
 - Account B (Fable → Opus when it empties) · builder: the B+C RETURN in fold-bc-20260916 (mechanical consent law; renderer obeys composeWork)
-- Account B (Fable) · builder: Current Moment parity in agent-a4b8bacec2f27ab91
+- Account B (Opus) · verifier: lane F r2 on efab8ee34b (five claims)
 
 ## blockers
 - Greptile has posted nothing since 2026-09-06 (0 reviews/comments on the standing window PR #28 across ~700 canonical commits) — James: check app.greptile.com connection + credits
@@ -37,8 +35,8 @@ _2026-09-16T19:00:30.446Z · published by fable-root (Account A, Claude Fable 5.
 
 ## meters
 ```
-[1mB[0m  weekly  73%  ·  Fable  93%  ·  session  29%   [2m  reserve[0m
-     resets Sep 22 at 10:59pm   [2m27% of the week left · the labour lane — heavy work belongs here[0m
+[1mB[0m  weekly  75%  ·  Fable  98%  ·  session  39%   [2m  reserve[0m
+     resets Sep 22 at 10:59pm   [2m25% of the week left · the labour lane — heavy work belongs here[0m
      [2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
