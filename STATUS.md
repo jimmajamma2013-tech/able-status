@@ -1,8 +1,14 @@
 # ABLE · LIVE STATUS
-_2026-09-16T17:41:27.807Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T17:42:37.732Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
-`able-rebuild-v1` @ `64845be2487f66099c7b1aff3dd40809df585c00` — docs: the 19:0x assessment — the process refuses small architectural lies, three current truths, the live-status bridge
+- repository: jimmajamma2013-tech/able-music
+- canonicalBranch: able-rebuild-v1
+- remoteCanonicalHead: 64845be2487f66099c7b1aff3dd40809df585c00  (fresh `git ls-remote`)
+- localCanonicalHead: 64845be2487f66099c7b1aff3dd40809df585c00  · agrees
+- candidateBranch: fold-bc-20260916 · candidateHead: NOT ON REMOTE
+- lastVerifiedAt: 2026-09-16T17:42:36.719Z
+- subject: docs: the 19:0x assessment — the process refuses small architectural lies, three current truths, the live-status bridge
 
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ fe11f9056d — lanes B (provider stage + one sound owner) and C (work types + groove list) merged; tsc 0, build:check 0, eye-check PASS 0 P0 ×17 on Deluxe Work / Scarlett Groove Work / Room, lineage 0; fresh verdict r1 RUNNING → verdict file docs/audits/cold-review/2026-09-16-fold-bc-r1.md on that branch
