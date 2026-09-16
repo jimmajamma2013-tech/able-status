@@ -1,16 +1,14 @@
 # ABLE · LIVE STATUS
-_2026-09-16T18:36:33.988Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T18:56:19.136Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: f2efbeef2433ed79ef14a389d834273fefc0537b  (fresh `git ls-remote`)
-- localCanonicalHead: f2efbeef2433ed79ef14a389d834273fefc0537b  · agrees
-- candidateBranch: fold-bc-20260916 · candidateHead: 379dd975efc501c521cd10906ff0584318e01ab6
-- lastVerifiedAt: 2026-09-16T18:35:45.498Z
-- subject: docs: the 20:1x order + two addenda; kernel SHA line; seat re-stamped
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T18:36:38.295Z)
+- remoteCanonicalHead: 5628902697f06e56a9c4dbbf5cdc8ca9c09b9796  (fresh `git ls-remote`)
+- localCanonicalHead: 5628902697f06e56a9c4dbbf5cdc8ca9c09b9796  · agrees
+- candidateBranch: fold-bc-20260916 · candidateHead: 3f354a9c744599daef4a24f29fb63032cc6da465
+- lastVerifiedAt: 2026-09-16T18:55:30.009Z
+- subject: docs(learn): nine classes filed in root's inbox; the kernel carries the packet law and the admission contract
 
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.
@@ -37,8 +35,8 @@ _2026-09-16T18:36:33.988Z · published by fable-root (Account A, Claude Fable 5.
 
 ## meters
 ```
-[1mB[0m  weekly  71%  ·  Fable  90%  ·  session  21%   [2m  reserve[0m
-     resets Sep 22 at 11pm   [2m29% of the week left · the labour lane — heavy work belongs here[0m
+[1mB[0m  weekly  73%  ·  Fable  93%  ·  session  29%   [2m  reserve[0m
+     resets Sep 22 at 10:59pm   [2m27% of the week left · the labour lane — heavy work belongs here[0m
      [2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
