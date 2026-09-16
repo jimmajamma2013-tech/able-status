@@ -1,14 +1,14 @@
 # ABLE · LIVE STATUS
-_2026-09-16T17:59:51.053Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T18:08:09.698Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 9a5d5658691050d225d56bcb2af23e9cfaf79050  (fresh `git ls-remote`)
-- localCanonicalHead: 9a5d5658691050d225d56bcb2af23e9cfaf79050  · agrees
-- candidateBranch: fold-bc-20260916 · candidateHead: 68d909a92fdd4f0403e8ec19b1ff05b9d3a8a528
-- lastVerifiedAt: 2026-09-16T17:59:49.967Z
-- subject: docs(boot): WHERE-WE-ARE keeps the current cards; the rest moves whole to HISTORY (boot cost)
+- remoteCanonicalHead: 94e65ba0759c70389e5c0c6f8c2f393944efc505  (fresh `git ls-remote`)
+- localCanonicalHead: 94e65ba0759c70389e5c0c6f8c2f393944efc505  · agrees
+- candidateBranch: fold-bc-20260916 · candidateHead: 379dd975efc501c521cd10906ff0584318e01ab6
+- lastVerifiedAt: 2026-09-16T18:07:25.502Z
+- subject: feat(status): the live-status bridge publishes one state file to `status`; Greptile ledger: ten silent days
 
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 68d909a92f (merge fe11f9056d + the counted-facts mirror fix) — PUSHED; PR open for Greptile; fresh verdict r1 RUNNING → docs/audits/cold-review/2026-09-16-fold-bc-r1.md
@@ -40,15 +40,15 @@ _2026-09-16T17:59:51.053Z · published by fable-root (Account A, Claude Fable 5.
 
 ## meters
 ```
-resets Sep 22 at 10:59pm   [2m34% of the week left · the labour lane — heavy work belongs here[0m
+[1mB[0m  weekly  66%  ·  Fable  81%  ·  session   1%   [2m  reserve[0m
+     resets Sep 22 at 10:59pm   [2m34% of the week left · the labour lane — heavy work belongs here[0m
      [2mband 65–70% → 0 builder(s): architect / integrator / reviewer only[0m
-     [31m⛔ SESSION 100% ≥ 80% — no new dispatch on B until the five-hour window rolls (the 13:4x class).[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 14% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 16% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
