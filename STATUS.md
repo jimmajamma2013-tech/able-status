@@ -1,14 +1,14 @@
 # ABLE · LIVE STATUS
-_2026-09-16T18:14:49.767Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
+_2026-09-16T18:22:37.709Z · published by fable-root (Account A, Claude Fable 5.1) · this file is a pointer, the evidence is in the repo_
 
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 94e65ba0759c70389e5c0c6f8c2f393944efc505  (fresh `git ls-remote`)
-- localCanonicalHead: 94e65ba0759c70389e5c0c6f8c2f393944efc505  · agrees
+- remoteCanonicalHead: f2efbeef2433ed79ef14a389d834273fefc0537b  (fresh `git ls-remote`)
+- localCanonicalHead: f2efbeef2433ed79ef14a389d834273fefc0537b  · agrees
 - candidateBranch: fold-bc-20260916 · candidateHead: 379dd975efc501c521cd10906ff0584318e01ab6
-- lastVerifiedAt: 2026-09-16T18:14:48.808Z
-- subject: feat(status): the live-status bridge publishes one state file to `status`; Greptile ledger: ten silent days
+- lastVerifiedAt: 2026-09-16T18:21:53.040Z
+- subject: docs: the 20:1x order + two addenda; kernel SHA line; seat re-stamped
 
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.
@@ -35,8 +35,8 @@ _2026-09-16T18:14:49.767Z · published by fable-root (Account A, Claude Fable 5.
 
 ## meters
 ```
-[1mB[0m  weekly  66%  ·  Fable  81%  ·  session   1%   [2m  reserve[0m
-     resets Sep 22 at 10:59pm   [2m34% of the week left · the labour lane — heavy work belongs here[0m
+[1mB[0m  weekly  69%  ·  Fable  86%  ·  session  13%   [2m  reserve[0m
+     resets Sep 22 at 10:59pm   [2m31% of the week left · the labour lane — heavy work belongs here[0m
      [2mband 65–70% → 0 builder(s): architect / integrator / reviewer only[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
