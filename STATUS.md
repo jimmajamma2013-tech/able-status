@@ -10,6 +10,8 @@ _2026-09-16T19:32:49.275Z · published by fable-root (Account A, Claude Fable 5.
 - lastVerifiedAt: 2026-09-16T19:32:48.486Z
 - subject: docs(resume): the TOP card any seat resumes from — where every lane is, the uncommitted integrated fold, the next steps
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-16T19:32:53.502Z)
+
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 379dd975ef — r1 RETURN (product 3 · assurance 4): Apple contacted before a finger (providerConsent.ts:100-104 + useProviderMount.ts:27); eleven kinds render one order (page.tsx:1382-1389). Fix round RUNNING on Account B (Fable) → r2 by a different instance. PR #37 open for Greptile.
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
