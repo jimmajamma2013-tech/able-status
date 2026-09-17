@@ -1,11 +1,11 @@
 # ABLE · LIVE STATUS
-_2026-09-17T10:01:16.337Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T10:04:32.258Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T10:01:16.337Z**
+- **publishedAt: 2026-09-17T10:04:32.258Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **1** (pid 9236 up 51:18)
+- runningBuilders: **1** (pid 9236 up 54:34)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -21,13 +21,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 2c5a901963bb33c9a4ebd43e72fc5f0920e4c1fe  (fresh `git ls-remote`)
-- localCanonicalHead: 2c5a901963bb33c9a4ebd43e72fc5f0920e4c1fe  · agrees
+- remoteCanonicalHead: cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a  (fresh `git ls-remote`)
+- localCanonicalHead: cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a  · agrees
 - candidateBranch: none — four lane branches await verdicts; see machine.deliveredUnfolded · candidateHead: UNKNOWN
-- lastVerifiedAt: 2026-09-17T10:01:15.201Z
-- subject: fix(status): a paused queue must not read as a finished one
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T10:01:37.698Z)
+- lastVerifiedAt: 2026-09-17T10:03:48.288Z
+- subject: docs(review): 35 findings on two branches, every one survived refutation
 
 ## candidates ready for verdict / fold
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
@@ -56,7 +54,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## meters
 ```
-resets Sep 22 at 11pm   [2m11% of the week left · the labour lane — heavy work belongs here[0m
+resets Sep 22 at 10:59pm   [2m11% of the week left · the labour lane — heavy work belongs here[0m
      [2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
