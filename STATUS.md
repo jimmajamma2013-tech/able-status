@@ -86,6 +86,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T13:47:40.115Z
 - subject: feat(control-room): watch every lane write, and ask the local models, in one window
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T13:48:04.745Z)
+
 ## candidates ready for verdict / fold
 - fold-bc-20260916 @ 4984346294 — r2 RETURN on B3 alone; B1 (consent) CLOSED controlled at three widths on four Works, B2 CLOSED in substance (6/6 kinds render distinct sequences). Fix running.
 - lane F @ 36257f1b88 — r3 RETURN on F22+F23; the resolver-level parity (one population, one trust rule, id-level, three shapes) is CLOSED on the record. Fix running.
