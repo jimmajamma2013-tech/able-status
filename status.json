@@ -190,5 +190,11 @@
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
   "publishedAt": "2026-09-17T14:36:53.857Z",
-  "statusAgeSeconds": 0
+  "statusAgeSeconds": 0,
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T14:37:14.785Z"
+  }
 }
