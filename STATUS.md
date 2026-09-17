@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,22 +16,23 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 1 job is running (going 00:07).
-- ⚠️ The written description below may be out of date — it lists 0 but 1 job is actually running:
+- 2 jobs are running (going 35:44, going 08:24).
+- ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
 
 
 ## Waiting for you
 
+- CI IS DEAD on canonical
 - GPT's GitHub connector: the private repo has ONE collaborator
 - Greptile: check app.greptile.com — nothing posted since 06 Sep
 - which Claude capacity to buy · actions 949–1000
 
 ## The numbers, in plain words
 
-- **1 job** being built right now
+- **2 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
-- Claude account A has used **46%** of its week — it refills **Sep 18 at 7pm**
+- Claude account A has used **47%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -39,7 +40,7 @@ should not be trusted. It is supposed to update itself._
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 46% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 47% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -55,20 +56,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T17:57:49.911Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T18:33:26.876Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T17:57:49.911Z**
+- **publishedAt: 2026-09-17T18:33:26.876Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **1** (pid 64321 up 00:07)
+- runningBuilders: **2** (pid 64321 up 35:44 · pid 98546 up 08:24)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
 - verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
-- meters weekly: A **46%** · B **91%** · band: ≤55% → 2 builder(s)
+- meters weekly: A **47%** · B **91%** · band: ≤55% → 2 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -80,13 +81,12 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 73d15db0457ac0330d7528e61e23261d4e990854  (fresh `git ls-remote`)
 - localCanonicalHead: 73d15db0457ac0330d7528e61e23261d4e990854  · agrees
 - candidateBranch: fold-int-20260916 · candidateHead: 23b2575e535f46ec0e3d5613358efeac76b1c5dd
-- lastVerifiedAt: 2026-09-17T17:57:48.916Z
+- lastVerifiedAt: 2026-09-17T18:32:30.952Z
 - subject: docs(taste): the link-in-bio line and the two speed tests with today's measured start state; two identity verdicts
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T17:58:07.140Z)
 
 ## candidates ready for verdict / fold
 - c-identity-census-20260917 @ c9a1319901 — r3 PASS (product 7 · assurance 7): the Work-identity census is GENERATED by an AST sweep anyone can re-run, guarded against staleness, complete as a list within three stated limits; FOLD-ELIGIBLE for the next integrated fold. The sentence that may NOT be said: 'point 46 complete for Works' — 119 of 394 groups are ruled, the rest counted as joins and unread; the verifier's seeded sample puts real joins at 5 of 20 of the unread
+- factory-20260917 @ cfaecd64bc (the peer seat factory-a, Account A) — infrastructure, not product: path-scoped rules (measured: headless sessions paid 181–184k first-turn tokens; the branch's probe 72k), nine trigger skills, the doorway from CLAUDE.md, CI-IS-DEAD.md; verdict running; FOLDS AFTER ④ by root, because it changes what every lane sees at boot
 - THE INTEGRATED FOLD ④ @ 0511c6e8d9 — r1 RETURN (a fresh Opus instance; product 4 · assurance 6). B1: lane F's lens made the Deluxe the Room's lead and the Deluxe's Work document names nobody (the edition join the Room lead uses through originalOf is missing on the Work document) — Work → People → Relationship dead-ends on the lead Work; one-served-lineage exits 1. B2: workCompositionAdapter.ts keeps two temporary stand-ins beside the canonical provider modules — the kernel's forbidden form. DUAL/WIDE confirmed not (honest). Anti-template: both halves hold for Chris Clark vs Maribou; Jon Hopkins' public route serves the legacy engine (named). r2 FIX BUILDING on C with the verdict's own closes; a different fresh instance re-stamps.
 - c-census-green-20260917 @ 99b432933a — r1 PASS (product 8 · assurance 7 · MIN 7): FOLD-ELIGIBLE for the next integrated fold; two non-blocking findings (an unrouted twin sentence in mergeForwardCacheWrite.ts:56,58; names now de-duplicated in the merged-forward log, unmentioned in the body)
 - fold-bc-20260916 @ 8275960165 — r3 PASS (B3 closed; nothing r2 held regressed); FOLD-ELIGIBLE for the integrated fold ④ only
@@ -97,7 +97,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - LANE MATERIALS — STRANDED again: 26 dirty files in /Users/jamescuthbert/Able/.claude/worktrees/agent-ad409ed963fb3ce99, no commit (its in-session builder died with the 14:40Z window kill); needs a resume builder
 
 ## running lanes
-- 1 headless claude process(es) in the table at 2026-09-17T17:57:49.911Z (pid 64321 up 00:07) — 0 of them recorded as lanes above
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the factory branch factory-20260917 @ cfaecd64bc — a second Account A window (seat factory-a): path-scoped rules to cut the ~180k-token headless boot to ~72k, nine trigger skills, the Control Room doorway imported from CLAUDE.md; CI-IS-DEAD.md; verdict to land at ~/able-work/verify-factory-20260917/docs/audits/2026-09-17-software-factory/VERDICT-r1.md
+- 2 headless claude process(es) in the table at 2026-09-17T18:33:26.876Z (pid 64321 up 35:44, pid 98546 up 08:24) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping. The chain: F26 (C, running) → the integrated fold's fresh verdict (packet ready at /tmp/packet-int-verdict.md; on C if its guard allows the moment F26 lands, else on A at ~19:40) → canonical → RETURN-EXACT + the sounding door → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit resumes only after the verdict. The local lane runs the identity triage meanwhile.
@@ -108,6 +109,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - OWED: one bounded independent verdict on the status bridge itself (oldest open debt on this seat). And the kernel §2 names claimSoundOwner/releaseSoundOwner in audioBus.ts which do not exist in src/ — a doc-vs-code mismatch the cand-play verifier found.
 
 ## needs James
+- CI IS DEAD on canonical (measured 2026-09-17: every run of the day on able-rebuild-v1 fails 2–3 s in with an EMPTY step list on every job — Type check, Vitest, both Playwright suites, the two-tier invariant — so npm ci never ran). The likely cause is exhausted GitHub Actions minutes or a spending limit on the private repo; only the account owner can read billing: github.com/settings/billing (Actions minutes and the spending limit) on jimmajamma2013-tech. Until it is fixed every CI-only gate is decorative; the local gates and fresh verdicts are the real ones and are what ran today.
 - GPT's GitHub connector: the private repo has ONE collaborator (jimmajamma2013-tech); the ChatGPT GitHub App must be installed on THAT account with able-music selected (github.com/settings/installations → ChatGPT → Configure). Until then GPT reads the PUBLIC mirror: https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md
 - Greptile: check app.greptile.com — nothing posted since 06 Sep
 - which Claude capacity to buy · actions 949–1000
@@ -125,11 +127,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  82%  ·  Fable  82%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  83%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 46% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 47% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
