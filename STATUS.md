@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+3 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -18,6 +18,7 @@ should not be trusted. It is supposed to update itself._
 
 - A · INTEGRATION BUILDER
 - C · BUILDER
+- C · VERIFIER
 
 ## Waiting for you
 
@@ -27,7 +28,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **2 jobs** being built right now
+- **3 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
 - Claude account A has used **36%** of its week — it refills **Sep 18 at 7pm**
@@ -54,13 +55,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T15:22:46.694Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T15:32:03.336Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T15:22:46.694Z**
+- **publishedAt: 2026-09-17T15:32:03.336Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 70387 up 15:10 · pid 82986 up 00:48)
+- runningBuilders: **3** (pid 70387 up 24:27 · pid 82986 up 10:05 · pid 97998 up 02:55)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -76,20 +77,18 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: d209087f8a03874eb5d49295c7433e88d1f95749  (fresh `git ls-remote`)
-- localCanonicalHead: d209087f8a03874eb5d49295c7433e88d1f95749  · agrees
+- remoteCanonicalHead: 56f2068638e68d05a35b2620c308ba8957f5cd38  (fresh `git ls-remote`)
+- localCanonicalHead: 56f2068638e68d05a35b2620c308ba8957f5cd38  · agrees
 - candidateBranch: fold-int-20260916 · candidateHead: NOT ON REMOTE
-- lastVerifiedAt: 2026-09-17T15:22:45.757Z
-- subject: docs(control-room): the room is installed — 02 and 05 land, the screenshots mirror, ABLE NOW has one state object
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T15:23:03.452Z)
+- lastVerifiedAt: 2026-09-17T15:31:15.770Z
+- subject: docs(control-room): the process freeze, verbatim — the last planning document, and 00 carries the standing instruction
 
 ## candidates ready for verdict / fold
-- c-census-green-20260917 @ 99b432933a (product commit b0f860a404) — the seven standing red census tests closed by routing through the one language composer; builder confidence 8/10, not self-certified; r1 VERDICT RUNNING on C
+- c-census-green-20260917 @ 99b432933a — r1 PASS (product 8 · assurance 7 · MIN 7): FOLD-ELIGIBLE for the next integrated fold; two non-blocking findings (an unrouted twin sentence in mergeForwardCacheWrite.ts:56,58; names now de-duplicated in the merged-forward log, unmentioned in the body)
+- c-identity-census-20260917 @ cd7efdbd11 — pushed; r1 VERDICT RUNNING on C
 - fold-bc-20260916 @ 8275960165 — r3 PASS (B3 closed; nothing r2 held regressed); FOLD-ELIGIBLE for the integrated fold ④ only
 - lane A provider data @ 48fe3fc28c — r3 PASS 8·7; waits in the integrated fold ④
 - BANDCAMP-IDS @ 3499e78b57 (origin/worktree-agent-afa25af8ff9958d25) — r1 PASS; folds behind the consent law in ④
-- c-identity-census-20260917 @ cd7efdbd11 — Phase 4 identity-resolver census, facade, shadow ledger; landed, verdict owed (not pushed to origin yet)
 - lane F @ 8bca66c4d0 — r4 RETURN (product 6 · assurance 7): F25 the cookie notice still covers the lead title at every landscape size, F24 three sizes missing from the probe; the three-item fix round r5 is RUNNING on C
 - cand-claim-20260917 @ 0345ac0544 — the two-defect fix is STRANDED as 25 staged files in /Users/jamescuthbert/able-work/cand-claim (its builder died with the 14:40Z window kill); needs a resume builder to commit, then ONE fresh verdict
 - night-claim-screen-20260917 @ fba480c587 — RETURNED by lane review (35 findings); does not enter a candidate until its fixes land
@@ -98,14 +97,14 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - A · claude-opus-5 · INTEGRATION BUILDER — the integrated fold ④ — rebuild fold-int-20260916 from canonical d209087f8a by merge, merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp bff0ffcb77 (known conflicts: actSpec.ts, four eye-check receipts, SEATS.md), then the hard gate: providerOrder.ts and providerCapabilities.ts absorbed into resolveProviderHierarchy and the domain capability projection; proof floor at 390/834/1440; RECORD.md with five claims; no self-certification (pid 82986 · log /tmp/claude-a-int.log)
 - C · claude-fable-5-1 · BUILDER — lane F r5 — the r4 work order: F25 the title x/y-disjoint from the consent notice by construction, F25's first-visit probe on the public route (red on the parent, green after), F24 three more sizes (pid 70387 · log /tmp/claude-c-f6.log)
+- C · claude-fable-5-1 · VERIFIER — c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor (pid 97998 · log /tmp/claude-c-identity-v.log)
 - FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the local-model trial: a deterministic scorer against the committed oracles for devstral · qwen3-coder · gpt-oss on tasks A/B/C, then the six empty REPORT.md sections filled with measured numbers
-- 2 headless claude process(es) in the table at 2026-09-17T15:22:46.694Z (pid 70387 up 15:10, pid 82986 up 00:48) — 2 of them recorded as lanes above
+- 3 headless claude process(es) in the table at 2026-09-17T15:32:03.336Z (pid 70387 up 24:27, pid 82986 up 10:05, pid 97998 up 02:55) — 3 of them recorded as lanes above
 
 ## blockers
 - THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure counts delivered-but-unfolded product branches (lane A · fold-bc · Bandcamp · c-census · c-identity = 5) against a threshold of 2. The integrated fold ④ is the one action that clears it.
 - Account B rests at 91% weekly with Fable spent (resets Sep 22) — nothing dispatched there. Account C is at 77% weekly (23% left, floor 12%; resets Sep 19 23:00): the guard now says Opus for its next dispatches; the two Fable lanes above were the last Fable ones on C.
-- Both root windows were killed at 14:40Z (the A controller mid-push, the B seat with it). The A seat resumed at ~14:45Z; the B seat has not. Its stranded work is listed above, not lost.
+- Both root windows were killed at 14:40Z. The A seat resumed at ~14:45Z; the B seat has not. The stranded work is SNAPSHOTTED as refs (no gates, worktrees untouched): refs/wip/A/2026-09-17-materials = 752c850b62 (20 files) · refs/wip/A/2026-09-17-cand-claim-fix = 42a442f92f (24 files).
 - OWED: one bounded independent verdict on the status bridge itself (oldest open debt on this seat). And the kernel §2 names claimSoundOwner/releaseSoundOwner in audioBus.ts which do not exist in src/ — a doc-vs-code mismatch the cand-play verifier found.
 
 ## needs James
@@ -126,7 +125,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  78%  ·  Fable  72%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  78%  ·  Fable  73%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
