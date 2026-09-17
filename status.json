@@ -227,5 +227,11 @@
   "runningRendered": [
     "A · claude-opus-5 · VERIFIER — THE WORK OPENING WITH QUICKLAUNCH r1 on quicklaunch-20260917 @ dd66cad4a2 — five claims on a served build: the opening order at 390 on three Works, one active provider mark with the rest quiet text and 'Listen elsewhere' absent, consent-zero on the Work, nothing verified lost, the floor; plus two weighed: one provider room instead of a tiered stack, and the wide composition it names as its own MIN (pid 95382 · log /tmp/claude-a-quicklaunch-verdict.log)",
     "1 headless claude process(es) in the table at 2026-09-17T22:16:54.511Z (pid 95382 up 00:27) — 1 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T22:17:10.689Z"
+  }
 }
