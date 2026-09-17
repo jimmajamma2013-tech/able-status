@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -17,6 +17,7 @@ should not be trusted. It is supposed to update itself._
 ## Being worked on right now
 
 - A · INTEGRATION BUILDER
+- C · BUILDER
 
 ## Waiting for you
 
@@ -26,7 +27,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **1 job** being built right now
+- **2 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
 - Claude account A has used **43%** of its week — it refills **Sep 18 at 7pm**
@@ -53,13 +54,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T16:17:30.797Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T16:20:05.331Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T16:17:30.797Z**
+- **publishedAt: 2026-09-17T16:20:05.331Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **1** (pid 82986 up 55:32)
+- runningBuilders: **2** (pid 76231 up 01:15 · pid 82986 up 58:07)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -78,14 +79,12 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 97657fc9b15358520af3cbd80da7c598362a2f46  (fresh `git ls-remote`)
 - localCanonicalHead: 97657fc9b15358520af3cbd80da7c598362a2f46  · agrees
 - candidateBranch: fold-int-20260916 · candidateHead: NOT ON REMOTE
-- lastVerifiedAt: 2026-09-17T16:16:37.629Z
+- lastVerifiedAt: 2026-09-17T16:20:04.346Z
 - subject: docs(verdicts): three Account C verdicts received — c-census PASS, c-identity RETURN on the record, lane F r5 PASS
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T16:17:47.504Z)
 
 ## candidates ready for verdict / fold
 - lane F @ 318bee7a6c — r5 PASS (product 6 · assurance 7): F25 closed by construction, the title-size taste call ACCEPTED; FOLD-ELIGIBLE for the ONE integrated fold ④ with F26 (the landscape title breaks mid-word at widths 700–844) carried as a named gate item inside the fold; F27, the consent-band race and 844×390 carried
-- c-identity-census-20260917 @ c30b9a0bb8 — r2 landed (census scoped to Work, 22 rows added, shadow over eight rooms, counts corrected); r2 VERDICT RUNNING on C
+- c-identity-census-20260917 @ c30b9a0bb8 — r2 RETURN (product 7 · assurance 5): fourteen more single-line title joins the census missed; the code measured harmless by bytes. r3 building on C: a deterministic structural sweep generates the census, so the class cannot recur
 - c-census-green-20260917 @ 99b432933a — r1 PASS (product 8 · assurance 7 · MIN 7): FOLD-ELIGIBLE for the next integrated fold; two non-blocking findings (an unrouted twin sentence in mergeForwardCacheWrite.ts:56,58; names now de-duplicated in the merged-forward log, unmentioned in the body)
 - fold-bc-20260916 @ 8275960165 — r3 PASS (B3 closed; nothing r2 held regressed); FOLD-ELIGIBLE for the integrated fold ④ only
 - lane A provider data @ 48fe3fc28c — r3 PASS 8·7; waits in the integrated fold ④
@@ -96,13 +95,14 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## running lanes
 - A · claude-opus-5 · INTEGRATION BUILDER — the integrated fold ④ — rebuild fold-int-20260916 from canonical d209087f8a by merge, merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp bff0ffcb77 (known conflicts: actSpec.ts, four eye-check receipts, SEATS.md), then the hard gate: providerOrder.ts and providerCapabilities.ts absorbed into resolveProviderHierarchy and the domain capability projection; proof floor at 390/834/1440; RECORD.md with five claims; no self-certification (pid 82986 · log /tmp/claude-a-int.log)
+- C · claude-fable-5-1 · BUILDER — identity census r3 — the census becomes a deterministic STRUCTURAL sweep (every title/name/slug-keyed map, every normalised equality, every slugify call site), generated rows, two planted controls, the LIMIT paragraph corrected, the mirror guard made real (pid 76231 · log /tmp/claude-c-identity-r3.log)
 - FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff
 - FINISHED, UNRECORDED — pid 97998 is not in the process table and the seat has not written its outcome yet: c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor
 - FINISHED, UNRECORDED — pid 54445 is not in the process table and the seat has not written its outcome yet: c-identity r2 on c30b9a0bb8 — the Work-scoped census complete by an independent sweep, the retitle honest, served bytes re-diffed after the rename, the shadow deterministic over eight rooms, floor
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the directive scoreboard: three researchers scanning Maribou's real presentation with sources; nine agents measuring every flagship surface at 390/834/1440 against the directive on the served canonical build (:4911); two skeptics per finding; the journey walk (object travel, exact Back, continuous sound); the no-template test against three other artists; an Opus synthesis into SCOREBOARD.md, MATERIAL-CENSUS.md and ranked packets; a critic
-- 1 headless claude process(es) in the table at 2026-09-17T16:17:30.797Z (pid 82986 up 55:32) — 1 of them recorded as lanes above
+- 2 headless claude process(es) in the table at 2026-09-17T16:20:05.331Z (pid 76231 up 01:15, pid 82986 up 58:07) — 2 of them recorded as lanes above
 
 ## blockers
+- THE DIRECTIVE SCOREBOARD AUDIT IS PAUSED BY RULE at Account A session 70% (ceiling 78%): all nine surface measurements, the three material researchers and most refutations are journaled (run wf_ddf8e9b5-96c, 70 agents); the journey walk, the no-template test, the Opus synthesis and the critic resume from cache when A's five-hour window resets (~19:45 BST). The integrated fold builder on A must not be killed by a window reaching 100% — the 13:4x class.
 - THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure counts delivered-but-unfolded product branches (lane A · fold-bc · Bandcamp · c-census · c-identity = 5) against a threshold of 2. The integrated fold ④ is the one action that clears it.
 - Account B rests at 91% weekly with Fable spent (resets Sep 22) — nothing dispatched there. Account C is at 77% weekly (23% left, floor 12%; resets Sep 19 23:00): the guard now says Opus for its next dispatches; the two Fable lanes above were the last Fable ones on C.
 - Both root windows were killed at 14:40Z. The A seat resumed at ~14:45Z; the B seat has not. The stranded work is SNAPSHOTTED as refs (no gates, worktrees untouched): refs/wip/A/2026-09-17-materials = 752c850b62 (20 files) · refs/wip/A/2026-09-17-cand-claim-fix = 42a442f92f (24 files).
