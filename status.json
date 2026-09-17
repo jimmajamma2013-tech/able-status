@@ -247,5 +247,11 @@
     "A · claude-opus-5 · VERIFIER — RETURN-EXACT + THE SOUNDING DOOR r1 on return-exact-20260917 @ 234b0a7933 (the founder's two phone defects: Back from Releases landed 2,680 px down; 'still playing with no way to switch off'): five claims from the builder's RECORD re-run on a served build at 390/834/1440, the founder's own Releases → Back crossing, the door reaches a pause within one screen, no mini-player, one sound owner, the floor (pid 83844 · log /tmp/claude-a-return-verdict.log)",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the factory branch factory-20260917 @ cfaecd64bc — a second Account A window (seat factory-a): path-scoped rules to cut the ~180k-token headless boot to ~72k, nine trigger skills, the Control Room doorway imported from CLAUDE.md; CI-IS-DEAD.md; verdict to land at ~/able-work/verify-factory-20260917/docs/audits/2026-09-17-software-factory/VERDICT-r1.md",
     "2 headless claude process(es) in the table at 2026-09-17T20:08:37.068Z (pid 75854 up 05:09, pid 83844 up 00:59) — 1 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T20:08:54.770Z"
+  }
 }
