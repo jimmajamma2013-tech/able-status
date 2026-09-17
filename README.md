@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,7 +16,6 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- A · BUILDER
 - A · VERIFIER
 
 ## Waiting for you
@@ -29,7 +28,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **2 jobs** being built right now
+- **1 job** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
 - Claude account A has used **61%** of its week — it refills **Sep 18 at 7pm**
@@ -56,13 +55,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T21:33:30.974Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T21:51:05.808Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T21:33:30.974Z**
+- **publishedAt: 2026-09-17T21:51:05.808Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 3970 up 01:14 · pid 85811 up 01:02:28)
+- runningBuilders: **1** (pid 3970 up 18:48)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -78,13 +77,14 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 1958d770173f8d3ac7da2c25212f9d79fa05f214  (fresh `git ls-remote`)
-- localCanonicalHead: 1958d770173f8d3ac7da2c25212f9d79fa05f214  · agrees
+- remoteCanonicalHead: 01c788238c028e687d189348a400ca4be9a02dc7  (fresh `git ls-remote`)
+- localCanonicalHead: 01c788238c028e687d189348a400ca4be9a02dc7  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-17T21:32:36.817Z
-- subject: docs(decisions): message 13 — can the lane move at ten, answered with the meters; the controller seat moves to Opus 5
+- lastVerifiedAt: 2026-09-17T21:51:03.710Z
+- subject: test(consent): the planted consent-zero arrival spec — red on the Room at three sizes, green on the Work, with a positive control
 
 ## candidates ready for verdict / fold
+- quicklaunch-20260917 @ dd66cad4a2 — THE WORK OPENING RECOMPOSED WITH QUICKLAUNCH delivered and pushed: identity → sound → one human seam → QuickLaunch (one active provider mark, the rest quiet text) → depth through doors; 'Listen elsewhere' retired; its own floor green (tsc 0, build 0, eye-check 0 P0 on three Works at three sizes, five journeys at 390 and 1440, lineage 0); its own MIN is the wide composition. Its fresh verdict is QUEUED behind the exact-Back re-stamp on A
 - return-exact-20260917 @ 5dc4733dfe — the r1 RETURN closed in one round (B1 the door was inert: one registry now decides and the DOM attribute follows it; B2 the destination carries a reachable stop for the current sound; B3 the sentence composed through soundLanguage); its own floor: tsc 0, build:check 0, the walk Δscroll 0 at both widths, lineage 0, eye-check 0 P0 on three planes — the r2 re-stamp is RUNNING and decides the fold
 - THE INTEGRATED FOLD ④ @ c600dfd033 (pushed) — r1's two blockers closed at 05b9287474 (B1: the lead Work draws its people through originalOf, one-served-lineage exits 0 on the served HEAD; B2: the adapter's two stand-ins deleted, 0 hits for any table or kind derivation outside the domain, 27 of 30 releases compose identically and the three that changed are declared). Named, not proven: providers/manifestationKind.ts still derives a kind outside the domain; Deezer's embed capability disagrees with the stage; Mother draws no All-credits door; lineage does not yet ride the merge step. r2 VERDICT RUNNING on A.
 - fold-bc-20260916 @ 8275960165 — r3 PASS (B3 closed; nothing r2 held regressed); FOLD-ELIGIBLE for the integrated fold ④ only
@@ -95,9 +95,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - LANE MATERIALS — STRANDED again: 26 dirty files in /Users/jamescuthbert/Able/.claude/worktrees/agent-ad409ed963fb3ce99, no commit (its in-session builder died with the 14:40Z window kill); needs a resume builder
 
 ## running lanes
-- A · claude-fable-5-1 · BUILDER — THE WORK OPENING RECOMPOSED WITH QUICKLAUNCH (identity → sound → one human seam → QuickLaunch with one active mark → depth through doors; 'Listen elsewhere' retired) in quicklaunch-20260917 cut from canonical 60d0fd4cd5; task contract /tmp/packet-a-quicklaunch.md; journeys J1–J5 as Playwright on a served build; five claims for a fresh verifier (pid 85811 · log /tmp/claude-a-quicklaunch.log)
 - A · claude-opus-5 · VERIFIER — exact Back + the sounding door r2 RE-STAMP on return-exact-20260917 @ 5dc4733dfe (the r1 fix round: one registry decides the door, the Work transport owns its stop, the sentence routed through soundLanguage): five claims on a served build at 390/834/1440, plus the builder's own disclosures attacked (the eye-checks ran before a late hook extraction; the film crossing at 1440 passed once, unexplained) (pid 3970 · log /tmp/claude-a-return-verdict-r2.log)
-- 2 headless claude process(es) in the table at 2026-09-17T21:33:30.974Z (pid 3970 up 01:14, pid 85811 up 01:02:28) — 2 of them recorded as lanes above
+- 1 headless claude process(es) in the table at 2026-09-17T21:51:05.809Z (pid 3970 up 18:48) — 1 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -115,11 +114,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later.
 
 ## next actions (in order)
-- exact Back + the sounding door: the r1 fix round (A, Fable, pid in running) closes B1–B3 → a different fresh instance re-stamps r2 on the new SHA → PASS merges it onto canonical (same base as ④ plus this fold; one merge, one floor)
-- THE WORK OPENING + QUICKLAUNCH is BUILDING on A (quicklaunch-20260917 from 60d0fd4cd5) → its five claims → fresh verdict → fold behind exact Back
-- Materials from the REAL sleeve (Gemini's highest lever: the field from the artwork's concrete grey and mustard) → the Groove List → DUAL at 834 and WIDE at 1440 (the dimension that caps product at 4) → People/Relationship → Film V2
-- the factory branch after a verifier PASSES its exact repaired SHA (three RETURNs so far) · the two speed tests re-measured after QuickLaunch · the two-day comparison on every metric in the master record's table, 2026-09-19 ~21:00 BST
-- the boot ceiling: cite `node scripts/factory/boot-budget.mjs` (factory branch) or `npm run boot-cost` (canonical, 41.1k at 27b5d6a99c), never a remembered number; the only large reduction left is CLAUDE.md, James's file
+- the exact-Back r2 re-stamp (A, Opus, running) decides the fold; PASS folds return-exact-20260917 @ 5dc4733dfe onto canonical with scripts/fold-commit.mjs (one attempt, proofs computed)
+- the QuickLaunch verdict (A, Opus) dispatches the moment the re-stamp exits — quicklaunch-20260917 @ dd66cad4a2, five claims, the served walk at 390/834/1440
+- DUAL at 834 and WIDE at 1440 — the packet is written from the probe's numbers rather than adjectives and dispatches at the Fable roll (~00:40 BST): the Room and the Work must stop carrying the 390 block order at 834 and 1440, re-measured by node scripts/room-composition-probe.mjs
+- the consent-zero fork on the Room's arrival warm-up — the packet measures Able's own-origin preview path and implements it only if the tap stays instant, otherwise it stops and reports numbers for a founder ruling
+- Materials from the REAL sleeve → the Groove List → People/Relationship → Film V2 · the factory branch after a PASS on its exact repaired SHA · the two-day comparison 2026-09-19 ~21:00 BST
 
 ## meters
 ```
@@ -130,7 +129,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
   [1mClaude C[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
 [1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 61% → [1m1 builder(s)[0m · one builder + an occasional verifier
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
