@@ -54,29 +54,25 @@
   "rootSeat": "⚠️ TWO SEATS OBSERVED ACTING AS ROOT: the Account B window committed 0b07d58071 on fold-bc-20260916 at 20:40 as author `t <t@t>` (set `git config user.name/email` there) and pushed it; the Account A seat (this file's author) is at 82% session and from here launches nothing new on Account A. ONE root: whichever seat James is typing in. Every launch is recorded in `running` below BEFORE it is made — read it before dispatching, never duplicate a lane.",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "11dc4a4bc4e7d467db139399d3b5ce32e3fe132a",
-  "localCanonicalHead": "11dc4a4bc4e7d467db139399d3b5ce32e3fe132a",
+  "remoteCanonicalHead": "2c5a901963bb33c9a4ebd43e72fc5f0920e4c1fe",
+  "localCanonicalHead": "2c5a901963bb33c9a4ebd43e72fc5f0920e4c1fe",
   "canonicalAgree": true,
   "candidateHead": "UNKNOWN",
-  "lastVerifiedAt": "2026-09-17T09:57:31.089Z",
+  "lastVerifiedAt": "2026-09-17T10:01:15.201Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "11dc4a4bc4e7d467db139399d3b5ce32e3fe132a",
-    "subject": "docs(fold): four branches measured by trial merge — one collision, and its cause"
+    "sha": "2c5a901963bb33c9a4ebd43e72fc5f0920e4c1fe",
+    "subject": "fix(status): a paused queue must not read as a finished one"
   },
   "meters": "resets Sep 22 at 11pm   \u001b[2m11% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 25% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T09:57:32.094Z",
+  "updatedAt": "2026-09-17T10:01:16.337Z",
   "machine": {
-    "derivedAt": "2026-09-17T09:57:32.094Z",
-    "runningBuilders": 2,
+    "derivedAt": "2026-09-17T10:01:16.337Z",
+    "runningBuilders": 1,
     "runningBuilderDetail": [
       {
         "pid": "9236",
-        "elapsed": "47:34"
-      },
-      {
-        "pid": "74614",
-        "elapsed": "01:11:01"
+        "elapsed": "51:18"
       }
     ],
     "queueDepth": {
@@ -100,8 +96,8 @@
       },
       {
         "branch": "ci-p2-lanes-ci-20260917",
-        "sha": "9f514ba934",
-        "ahead": 4
+        "sha": "a1181e412f",
+        "ahead": 5
       },
       {
         "branch": "night-claim-screen-20260917",
@@ -122,7 +118,7 @@
     "deliveredUnfoldedCount": 5,
     "verdictsPending": [
       "ci-p2-ci-waste-20260917 @ f4bdfae07f",
-      "ci-p2-lanes-ci-20260917 @ 9f514ba934",
+      "ci-p2-lanes-ci-20260917 @ a1181e412f",
       "night-claim-screen-20260917 @ fba480c587",
       "night-consent-20260916 @ bbe92a379b",
       "night-doors-20260916 @ 1d3f87f51a"
@@ -134,12 +130,6 @@
     },
     "builderBand": "≤55% → 2 builder(s)"
   },
-  "publishedAt": "2026-09-17T09:57:32.094Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T09:57:46.970Z"
-  }
+  "publishedAt": "2026-09-17T10:01:16.337Z",
+  "statusAgeSeconds": 0
 }

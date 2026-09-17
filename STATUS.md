@@ -1,17 +1,17 @@
 # ABLE · LIVE STATUS
-_2026-09-17T09:57:32.094Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T10:01:16.337Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T09:57:32.094Z**
+- **publishedAt: 2026-09-17T10:01:16.337Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 9236 up 47:34 · pid 74614 up 01:11:01)
+- runningBuilders: **1** (pid 9236 up 51:18)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
-- deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ 9f514ba934 (+4) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
-- verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ 9f514ba934 · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
+- deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
+- verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
 - meters weekly: A **25%** · B **89%** · band: ≤55% → 2 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
@@ -21,13 +21,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 11dc4a4bc4e7d467db139399d3b5ce32e3fe132a  (fresh `git ls-remote`)
-- localCanonicalHead: 11dc4a4bc4e7d467db139399d3b5ce32e3fe132a  · agrees
+- remoteCanonicalHead: 2c5a901963bb33c9a4ebd43e72fc5f0920e4c1fe  (fresh `git ls-remote`)
+- localCanonicalHead: 2c5a901963bb33c9a4ebd43e72fc5f0920e4c1fe  · agrees
 - candidateBranch: none — four lane branches await verdicts; see machine.deliveredUnfolded · candidateHead: UNKNOWN
-- lastVerifiedAt: 2026-09-17T09:57:31.089Z
-- subject: docs(fold): four branches measured by trial merge — one collision, and its cause
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T09:57:46.970Z)
+- lastVerifiedAt: 2026-09-17T10:01:15.201Z
+- subject: fix(status): a paused queue must not read as a finished one
 
 ## candidates ready for verdict / fold
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
