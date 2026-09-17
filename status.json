@@ -4,16 +4,17 @@
     "cand-play-20260917 @ 2223ef94fe — canonical + the play-button P0. Clean merge, 7 src files plus useFilmStart.ts and two new tests. VERDICT IN FLIGHT on A.",
     "cand-claim-20260917 @ 0345ac0544 — canonical + consent-P0 + three-doors-P0, both clean, three-doors test present. Its two known defects are being fixed now, then it needs ONE fresh verdict on the post-fix SHA.",
     "night-claim-screen-20260917 @ fba480c587 — RETURNED by lane review (35 findings, all survived adversarial refutation). Does not enter a candidate until its fixes land.",
-    "BANDCAMP-IDS @ 3499e78b57 — 17/17 album refs resolved through the promotion path, both controls, ids on ProviderObjectRef; PUSHED; builder's honest residue: the Work view's eye-check is red before AND after (126→169 P0, all inside provider iframes — an instrument question), tracks proven on a fixture only, the promotion gate not widened. r1 RUNNING on C."
+    "BANDCAMP-IDS @ 3499e78b57 — 17/17 album refs resolved through the promotion path, both controls, ids on ProviderObjectRef; PUSHED; builder's honest residue: the Work view's eye-check is red before AND after (126→169 P0, all inside provider iframes — an instrument question), tracks proven on a fixture only, the promotion gate not widened. r1 RUNNING on C.",
+    "lane F @ 8bca66c4d0 — r3's F22 (probe widened to 13 sizes, 0% everywhere) and F23 (record block never outranks the lead; test planted 3/4 red) closed by the builder; PUSHED; builder names a NEW first-visit overlap at 1024×768 (consent notice over the title tail) and leaves F20/F21 open; r4 RUNNING on C"
   ],
   "running": [
     "A · Fable · in-session BUILDER (the Account A seat's) — fold-bc r2's one blocker B3: the renderer re-sorts a band composeWork had ordered (served on mother-2020) — in /Users/jamescuthbert/able-work/fold-bc-20260916",
     "A · Fable · in-session BUILDER (the Account A seat's) — LANE MATERIALS resumed from 15 stranded files: eight environment modes over the derived atmosphere; Relationship/Maker/Receipt leave generic black — in agent-ad409ed963fb3ce99",
     "A · Fable · VERIFIER on cand-play-20260917 @ 2223ef94fe — the founder-reported play-button P0, merged onto current canonical with zero conflicts. Five claims: the defect gone measured the way it was found (both engines, tap not mouse), the working tap not broken, pause + reduced motion, the new tests actually discriminate, floor. Log /tmp/night-verify-play.log",
     "A · Fable · BUILDER on cand-claim-20260917 @ 0345ac0544 — closing the two defects two separate reviews found independently: the cleared domain ablemusic.co in a user-facing removal door, and the demoted phosphor green on the claim route; plus the three doors above the fold at 320 and 360. Log /tmp/night-fix-claim.log",
-    "C · Fable · lane F fix round (the other seat) — closing r3 F22 (the face collision moved to unmeasured sizes) and F23 (the record block outranking the lead)",
     "C · Fable · VERIFIER: Bandcamp ids r1 on 3499e78b57 (five claims incl. the promotion-gate plant and the eye-check cross-origin question) — log /tmp/claude-c-bcv.log",
-    "C · Fable · BUILDER: Phase 4 points 46–49 — the identity-resolver census, one facade with unchanged behaviour, shadow mode + disagreement ledger over real Maribou objects (the Blackoak class) — new worktree /Users/jamescuthbert/able-work/c-identity; log /tmp/claude-c-identity.log"
+    "C · Fable · BUILDER: Phase 4 points 46–49 — the identity-resolver census, one facade with unchanged behaviour, shadow mode + disagreement ledger over real Maribou objects (the Blackoak class) — new worktree /Users/jamescuthbert/able-work/c-identity; log /tmp/claude-c-identity.log",
+    "C · Fable · VERIFIER: lane F r4 on 8bca66c4d0 (F22 at all 13 sizes, F23 on the S1 copy, the builder's own new 1024×768 consent-over-title regression, present-tense parity, floor) — log /tmp/claude-c-f5.log"
   ],
   "blockers": [
     "THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure reads 4 delivered-but-unfolded product branches against a threshold of 2. It resumes when the candidates above fold.",
@@ -69,37 +70,33 @@
   "localCanonicalHead": "f1af69381774c9ba20ce9b480032d1933e8edb61",
   "canonicalAgree": true,
   "candidateHead": "2223ef94fe042720164ee364dad17efa45625d59",
-  "lastVerifiedAt": "2026-09-17T14:14:02.750Z",
+  "lastVerifiedAt": "2026-09-17T14:25:03.302Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "f1af69381774c9ba20ce9b480032d1933e8edb61",
     "subject": "feat(capacity): the reserve floors become a machine — no account is driven to zero before its reset"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  71%  ·  Fable  60%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 31% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T14:14:03.711Z",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  72%  ·  Fable  62%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 32% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T14:25:04.191Z",
   "machine": {
-    "derivedAt": "2026-09-17T14:14:03.711Z",
-    "runningBuilders": 5,
+    "derivedAt": "2026-09-17T14:25:04.191Z",
+    "runningBuilders": 4,
     "runningBuilderDetail": [
       {
-        "pid": "40179",
-        "elapsed": "28:11"
+        "pid": "7977",
+        "elapsed": "01:31"
+      },
+      {
+        "pid": "10529",
+        "elapsed": "00:10"
       },
       {
         "pid": "48461",
-        "elapsed": "21:44"
-      },
-      {
-        "pid": "82942",
-        "elapsed": "01:27"
-      },
-      {
-        "pid": "84767",
-        "elapsed": "00:10"
+        "elapsed": "32:45"
       },
       {
         "pid": "84769",
-        "elapsed": "00:10"
+        "elapsed": "11:11"
       }
     ],
     "queueDepth": {
@@ -158,7 +155,7 @@
     ],
     "verdictsPendingCount": 6,
     "meterWeekly": {
-      "A": 31,
+      "A": 32,
       "B": 91
     },
     "builderBand": "≤55% → 2 builder(s)",
@@ -173,12 +170,6 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T14:14:03.711Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T14:14:23.503Z"
-  }
+  "publishedAt": "2026-09-17T14:25:04.191Z",
+  "statusAgeSeconds": 0
 }
