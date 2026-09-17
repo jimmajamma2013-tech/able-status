@@ -67,6 +67,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T11:41:25.708Z
 - subject: fix(status): the page is written for James first, and it stopped contradicting itself
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T11:41:44.660Z)
+
 ## candidates ready for verdict / fold
 - cand-20260917 @ 619a17d461 — THE INTEGRATION CANDIDATE, built from current canonical plus the consent P0 and the three-doors P0. VERDICT IN: RETURN, advisory 7/10, from a fresh instance that built none of it. PASS on 3 of 5 claims: consent IS genuinely enforced on the send path, the merge IS honest with nothing lost or double-applied, and the removal door DOES reach the real removal flow carrying its subject. RETURN on 2: after "This is mine" the other door hides below the first screen on small phones and no removal door is offered there; and the removal door lands on a page painted in the banned phosphor green that prints the cleared domain privacy@ablemusic.co. Full record: cand-20260917/VERDICT.md
 

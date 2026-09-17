@@ -132,5 +132,11 @@
     "thirdProfile": "the third Claude profile is NOT a separate account — it bills to account A"
   },
   "publishedAt": "2026-09-17T11:41:26.805Z",
-  "statusAgeSeconds": 0
+  "statusAgeSeconds": 0,
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T11:41:44.660Z"
+  }
 }
