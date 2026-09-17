@@ -232,5 +232,11 @@
     "local · devstral:24b (Ollama, 127.0.0.1) · TRIAGE — the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens (pid 36063 · log /tmp/local-triage.log)",
     "FINISHED, UNRECORDED — pid 22130 is not in the process table and the seat has not written its outcome yet: F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record",
     "0 headless claude process(es) in the table at 2026-09-17T17:27:17.011Z — 1 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T17:27:36.356Z"
+  }
 }
