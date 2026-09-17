@@ -82,6 +82,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T15:22:45.757Z
 - subject: docs(control-room): the room is installed — 02 and 05 land, the screenshots mirror, ABLE NOW has one state object
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T15:23:03.452Z)
+
 ## candidates ready for verdict / fold
 - c-census-green-20260917 @ 99b432933a (product commit b0f860a404) — the seven standing red census tests closed by routing through the one language composer; builder confidence 8/10, not self-certified; r1 VERDICT RUNNING on C
 - fold-bc-20260916 @ 8275960165 — r3 PASS (B3 closed; nothing r2 held regressed); FOLD-ELIGIBLE for the integrated fold ④ only
