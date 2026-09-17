@@ -6,6 +6,8 @@
     "night-claim-screen-20260917 @ fba480c587 — RETURNED by lane review (35 findings, all survived adversarial refutation). Does not enter a candidate until its fixes land."
   ],
   "running": [
+    "A · Fable · in-session BUILDER (the Account A seat's) — fold-bc r2's one blocker B3: the renderer re-sorts a band composeWork had ordered (served on mother-2020) — in /Users/jamescuthbert/able-work/fold-bc-20260916",
+    "A · Fable · in-session BUILDER (the Account A seat's) — LANE MATERIALS resumed from 15 stranded files: eight environment modes over the derived atmosphere; Relationship/Maker/Receipt leave generic black — in agent-ad409ed963fb3ce99",
     "A · Fable · VERIFIER on cand-play-20260917 @ 2223ef94fe — the founder-reported play-button P0, merged onto current canonical with zero conflicts. Five claims: the defect gone measured the way it was found (both engines, tap not mouse), the working tap not broken, pause + reduced motion, the new tests actually discriminate, floor. Log /tmp/night-verify-play.log",
     "A · Fable · BUILDER on cand-claim-20260917 @ 0345ac0544 — closing the two defects two separate reviews found independently: the cleared domain ablemusic.co in a user-facing removal door, and the demoted phosphor green on the claim route; plus the three doors above the fold at 320 and 360. Log /tmp/night-fix-claim.log",
     "C · Fable · lane F fix round (the other seat) — closing r3 F22 (the face collision moved to unmeasured sizes) and F23 (the record block outranking the lead)",
@@ -53,39 +55,44 @@
     "verifierLaunch": "nohup env CLAUDE_CONFIG_DIR=$HOME/.claude-account-b claude -p \"$(cat <packet>)\" --model claude-fable-5-1 --dangerously-skip-permissions --output-format text < /dev/null > /tmp/<log> 2>&1 &  (packet shape: /tmp/packet-b-a3.md)"
   },
   "rootSeat": "CONTROLLER = the Account A seat (this file's author). Four builders dispatched 2026-09-17 ~00:0x, all on Fable, all recorded below BEFORE launch. ⛔ Read `running` before dispatching anything: a second window launching into the same worktree is the pile-up class. Account B is RESTING at 90% weekly (10% left to Sep 22) — nothing goes there. `node scripts/capacity-guard.mjs --account A|B|C` answers ALLOW/REFUSE against the floors (weekly reserve 12%, session ceiling 78%) and names the model to use.",
+  "controllers": {
+    "rule": "TWO SEATS ARE ACTING AS ROOT (the Account A window and the Account B window). Division from 2026-09-17 ~00:2x: the A seat owns the 20:1x STRUCTURAL chain (lane A done → B+C candidate → lane F → Materials → Bandcamp → the integrated fold → the reference Work); the B seat owns the NIGHT P0/TRUST track (play button · consent-P0 · three-doors-P0 · the claim screen) and the paused 14-packet queue. Both READ `running` before any launch and WRITE their launch here first. Account A carries FOUR agents right now (two per seat) — over its band of two; nothing more on A until two finish. Account B rests (10% left). Account C: two lanes, the A seat's.",
+    "aSeat": "fable-root (Account A window, Claude Fable 5.1)",
+    "bSeat": "fold-root-20260916 (Account B window, Opus 5 1M)"
+  },
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
   "remoteCanonicalHead": "f1af69381774c9ba20ce9b480032d1933e8edb61",
   "localCanonicalHead": "f1af69381774c9ba20ce9b480032d1933e8edb61",
   "canonicalAgree": true,
   "candidateHead": "2223ef94fe042720164ee364dad17efa45625d59",
-  "lastVerifiedAt": "2026-09-17T13:53:07.751Z",
+  "lastVerifiedAt": "2026-09-17T13:56:44.048Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "f1af69381774c9ba20ce9b480032d1933e8edb61",
     "subject": "feat(capacity): the reserve floors become a machine — no account is driven to zero before its reset"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  70%  ·  Fable  56%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 28% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T13:53:12.820Z",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  71%  ·  Fable  59%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 28% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T13:56:45.102Z",
   "machine": {
-    "derivedAt": "2026-09-17T13:53:12.820Z",
+    "derivedAt": "2026-09-17T13:56:45.102Z",
     "runningBuilders": 4,
     "runningBuilderDetail": [
       {
         "pid": "40179",
-        "elapsed": "07:20"
+        "elapsed": "10:53"
       },
       {
         "pid": "40181",
-        "elapsed": "07:20"
+        "elapsed": "10:53"
       },
       {
         "pid": "46281",
-        "elapsed": "02:15"
+        "elapsed": "05:48"
       },
       {
         "pid": "48461",
-        "elapsed": "00:53"
+        "elapsed": "04:26"
       }
     ],
     "queueDepth": {
@@ -145,7 +152,7 @@
     "verdictsPendingCount": 6,
     "meterWeekly": {
       "A": 28,
-      "B": 90
+      "B": 91
     },
     "builderBand": "≤55% → 2 builder(s)",
     "resets": {
@@ -159,12 +166,6 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T13:53:12.820Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T13:53:31.150Z"
-  }
+  "publishedAt": "2026-09-17T13:56:45.102Z",
+  "statusAgeSeconds": 0
 }
