@@ -1,12 +1,12 @@
 # ABLE — what is happening right now
 
-**Last updated just now.**
+**Last updated 1 minute ago.**
 _If that says more than about 10 minutes while work is running, this page has fallen behind and
 should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-Nothing is being built at this moment, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,7 +16,7 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 ## Being worked on right now
 
-- Nothing is being built at this moment.
+- C · BUILDER
 
 ## Waiting for you
 
@@ -26,7 +26,7 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 ## The numbers, in plain words
 
-- **0 jobs** being built right now
+- **1 job** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
 - Claude account A has used **45%** of its week — it refills **Sep 18 at 7pm**
@@ -53,13 +53,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T16:56:53.404Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T17:12:56.424Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T16:56:53.404Z**
+- **publishedAt: 2026-09-17T17:12:56.424Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **0**
+- runningBuilders: **1** (pid 22130 up 08:08)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -77,8 +77,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - canonicalBranch: able-rebuild-v1
 - remoteCanonicalHead: 338ab707f1a243a82e7473b4c1b2cce7b5fb0f82  (fresh `git ls-remote`)
 - localCanonicalHead: 338ab707f1a243a82e7473b4c1b2cce7b5fb0f82  · agrees
-- candidateBranch: fold-int-20260916 · candidateHead: dcacb66993d7e93c87cdf049f333cd807ca665b7
-- lastVerifiedAt: 2026-09-17T16:56:51.048Z
+- candidateBranch: fold-int-20260916 · candidateHead: 0b8e30700b640c1e778bcfacae95c52f81f3abab
+- lastVerifiedAt: 2026-09-17T17:12:49.000Z
 - subject: docs(taste): the Maribou Room plan, 210 points, agreed and sharpened; the Work opening recomposed; the walk measured
 
 ## candidates ready for verdict / fold
@@ -93,14 +93,15 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - LANE MATERIALS — STRANDED again: 26 dirty files in /Users/jamescuthbert/Able/.claude/worktrees/agent-ad409ed963fb3ce99, no commit (its in-session builder died with the 14:40Z window kill); needs a resume builder
 
 ## running lanes
+- C · claude-fable-5-1 · BUILDER — F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record (pid 22130 · log /tmp/claude-c-f26.log)
 - FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff
 - FINISHED, UNRECORDED — pid 97998 is not in the process table and the seat has not written its outcome yet: c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor
 - FINISHED, UNRECORDED — pid 54445 is not in the process table and the seat has not written its outcome yet: c-identity r2 on c30b9a0bb8 — the Work-scoped census complete by an independent sweep, the retitle honest, served bytes re-diffed after the rename, the shadow deterministic over eight rooms, floor
-- 0 headless claude process(es) in the table at 2026-09-17T16:56:53.404Z — 0 of them recorded as lanes above
+- 1 headless claude process(es) in the table at 2026-09-17T17:12:56.424Z (pid 22130 up 08:08) — 1 of them recorded as lanes above
 
 ## blockers
+- THE ORDER FROM THE FOUNDER (2026-09-17 ~18:0x): do not reopen the Room plan, invent another constitution, or start another broad audit before the fold lands. The scoreboard audit stays paused (its nine measurements, three material censuses and 29 refutations are journaled in run wf_ddf8e9b5-96c) and resumes only after the fold's verdict.
 - ACCOUNT A IS AT ITS SESSION CEILING (77% of the five-hour window; the guard's ceiling is 78%): no new builder or in-session fan-out on A until the window rolls (~19:40 BST). The root seat's own work on A stays light (git reconciliation, packets, publishing). Account C carries the identity r3 builder and sits ~8% above its weekly floor; Account B rests.
-- THE DIRECTIVE SCOREBOARD AUDIT IS PAUSED BY RULE at Account A session 70% (ceiling 78%): all nine surface measurements, the three material researchers and most refutations are journaled (run wf_ddf8e9b5-96c, 70 agents); the journey walk, the no-template test, the Opus synthesis and the critic resume from cache when A's five-hour window resets (~19:45 BST). The integrated fold builder on A must not be killed by a window reaching 100% — the 13:4x class.
 - THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure counts delivered-but-unfolded product branches (lane A · fold-bc · Bandcamp · c-census · c-identity = 5) against a threshold of 2. The integrated fold ④ is the one action that clears it.
 - Account B rests at 91% weekly with Fable spent (resets Sep 22) — nothing dispatched there. Account C is at 77% weekly (23% left, floor 12%; resets Sep 19 23:00): the guard now says Opus for its next dispatches; the two Fable lanes above were the last Fable ones on C.
 - Both root windows were killed at 14:40Z. The A seat resumed at ~14:45Z; the B seat has not. The stranded work is SNAPSHOTTED as refs (no gates, worktrees untouched): refs/wip/A/2026-09-17-materials = 752c850b62 (20 files) · refs/wip/A/2026-09-17-cand-claim-fix = 42a442f92f (24 files).
@@ -112,11 +113,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - which Claude capacity to buy · actions 949–1000
 
 ## next actions (in order)
-- 19:40 BST, when A's window rolls: (1) root merges lane F 318bee7a6c into fold-int (two receipts re-run, actSpec.ts keeps both sides as the builder did twice) → (2) ONE bounded Fable builder closes F26 inside the fold (one divisor or wrap rule + a no-broken-word assertion) → (3) ONE fresh adversarial verdict on the fold (five claims + the attached acceptances; the 203-size scan expects 0; the anti-template-but-still-Able gate) → PASS folds ④ to canonical
-- then the two founder-measured packets, in order: RETURN-EXACT + ONE TRANSPORT (Back lands exactly; a persistent transport while sound plays — James: 'no way to switch off') and QUICKLAUNCH-STRIP (retire 'Listen elsewhere' on the Room; one active mark, the rest as text) — docs/audits/2026-09-17-directive-scoreboard/packets/
-- resume the directive scoreboard from cache (run wf_ddf8e9b5-96c: journey, no-template, the Opus synthesis, the critic) and rank the remaining packets: Materials from the REAL sleeve (mustard, dirty red, concrete, tobacco; the record's own lettering), the Groove List, the reference Work at DUAL/WIDE, People/Relationship, Film V2
-- the identity census r3 (C) → its verdict → folds with the next fold; c-census PASS folds with ④ or right after
-- the fourteen paused packets resume on A once at most one product branch waits for integration
+- F26 lands on fold-int (C) → root pushes by reference
+- ONE fresh adversarial verdict on the integrated fold (Account A when its window rolls ~19:40; five claims from the fold's record plus F26's, the attached acceptances at 390/834/1440, consent-zero, the play button, the anti-template-but-still-Able gate; the 203-size scan expects 0) → PASS folds ④ to canonical by merge; c-census and c-identity fold with it
+- RETURN-EXACT + the sounding door (Back lands exactly; 'still playing · Otherside · from Hallucinating Love' as a door, never a bar) — Fable on A
+- the Work opening recomposed with QuickLaunch replacing 'Listen elsewhere' (the founder's sequence: identity → sound → one human seam → QuickLaunch → depth) — Fable on A
+- Materials from the REAL sleeve (mustard, dirty red, concrete, tobacco; the record's own lettering for the title) → the Groove List → DUAL at 834 and WIDE at 1440 → People and the Relationship → Film V2; the scoreboard's synthesis resumes from cache only after the fold verdict, never before
 
 ## meters
 ```
@@ -124,7 +125,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  82%  ·  Fable  81%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  82%  ·  Fable  81%  ·  resets Sep 19 at 11pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
