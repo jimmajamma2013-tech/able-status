@@ -36,10 +36,10 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T11:09:57.832Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T11:12:40.399Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T11:09:57.832Z**
+- **publishedAt: 2026-09-17T11:12:40.399Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
 - runningBuilders: **0**
@@ -58,11 +58,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a  (fresh `git ls-remote`)
-- localCanonicalHead: cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a  · agrees
+- remoteCanonicalHead: 281a05ca81dc6cb418da8760b3e9b0d221d78d21  (fresh `git ls-remote`)
+- localCanonicalHead: 281a05ca81dc6cb418da8760b3e9b0d221d78d21  · agrees
 - candidateBranch: cand-20260917 · candidateHead: 619a17d461f6ca728714aa8ad7839946f6e6eb3c
-- lastVerifiedAt: 2026-09-17T11:09:56.904Z
-- subject: docs(review): 35 findings on two branches, every one survived refutation
+- lastVerifiedAt: 2026-09-17T11:12:39.425Z
+- subject: fix(status): the page is written for James first, and it stopped contradicting itself
 
 ## candidates ready for verdict / fold
 - cand-20260917 @ 619a17d461 — THE INTEGRATION CANDIDATE, built from current canonical plus the consent P0 and the three-doors P0. VERDICT IN: RETURN, advisory 7/10, from a fresh instance that built none of it. PASS on 3 of 5 claims: consent IS genuinely enforced on the send path, the merge IS honest with nothing lost or double-applied, and the removal door DOES reach the real removal flow carrying its subject. RETURN on 2: after "This is mine" the other door hides below the first screen on small phones and no removal door is offered there; and the removal door lands on a page painted in the banned phosphor green that prints the cleared domain privacy@ablemusic.co. Full record: cand-20260917/VERDICT.md
