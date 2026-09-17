@@ -16,9 +16,9 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 00:11, going 00:05).
-- ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
-
+- 2 jobs are running (going 45:01, going 13:45).
+- ⚠️ The written description below may be out of date — it lists 1 but 2 jobs are actually running:
+  - A · VERIFIER (factory-a's, read-only)
 
 ## Waiting for you
 
@@ -32,7 +32,7 @@ should not be trusted. It is supposed to update itself._
 - **2 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
-- Claude account A has used **48%** of its week — it refills **Sep 18 at 7pm**
+- Claude account A has used **52%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -40,7 +40,7 @@ should not be trusted. It is supposed to update itself._
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 48% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 52% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -56,20 +56,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T18:52:29.184Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T19:37:25.907Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T18:52:29.184Z**
+- **publishedAt: 2026-09-17T19:37:25.907Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 60654 up 00:11 · pid 60833 up 00:05)
+- runningBuilders: **2** (pid 60833 up 45:01 · pid 95289 up 13:45)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
 - verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
-- meters weekly: A **48%** · B **91%** · band: ≤55% → 2 builder(s)
+- meters weekly: A **52%** · B **91%** · band: ≤55% → 2 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -78,11 +78,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 73d15db0457ac0330d7528e61e23261d4e990854  (fresh `git ls-remote`)
-- localCanonicalHead: 73d15db0457ac0330d7528e61e23261d4e990854  · agrees
-- candidateBranch: fold-int-20260916 · candidateHead: c600dfd033e6c5c5ef535878565e6556055ef1d4
-- lastVerifiedAt: 2026-09-17T18:52:28.079Z
-- subject: docs(taste): the link-in-bio line and the two speed tests with today's measured start state; two identity verdicts
+- remoteCanonicalHead: e509cadc8b60c2e649248424c969fdb1e82ef6e3  (fresh `git ls-remote`)
+- localCanonicalHead: e509cadc8b60c2e649248424c969fdb1e82ef6e3  · agrees
+- candidateBranch: c-census-green-20260917 · candidateHead: 99b432933abdc11d1b9aac3ce522785695193952
+- lastVerifiedAt: 2026-09-17T19:37:24.984Z
+- subject: feat(fold): the integrated fold ④ lands on canonical — lane A + fold-bc + Bandcamp + lane F, one hierarchy, one sound owner (r2 PASS)
 
 ## candidates ready for verdict / fold
 - c-identity-census-20260917 @ c9a1319901 — r3 PASS (product 7 · assurance 7): the Work-identity census is GENERATED by an AST sweep anyone can re-run, guarded against staleness, complete as a list within three stated limits; FOLD-ELIGIBLE for the next integrated fold. The sentence that may NOT be said: 'point 46 complete for Works' — 119 of 394 groups are ruled, the rest counted as joins and unread; the verifier's seeded sample puts real joins at 5 of 20 of the unread
@@ -97,13 +97,13 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - LANE MATERIALS — STRANDED again: 26 dirty files in /Users/jamescuthbert/Able/.claude/worktrees/agent-ad409ed963fb3ce99, no commit (its in-session builder died with the 14:40Z window kill); needs a resume builder
 
 ## running lanes
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): THE INTEGRATED FOLD ④ r2 on fold-int @ c600dfd033 (a different fresh instance): B1 closed (the lead Work draws its people through the one edition authority; lineage exits 0), B2 closed (the adapter's stand-ins deleted; 27 of 30 releases compose identically, three changed and declared), nothing verified lost, the three sizes and both gates, the floor against canonical
+- A · claude-opus-5 · VERIFIER (factory-a's, read-only) — the software-factory branch factory-20260917 @ b4dddde2f4, r2 — attacks the RETURN-CLOSURE rows, the taste ledger, the always-loaded kernel, law-visibility.mjs, the boot arithmetic; writes docs/audits/2026-09-17-software-factory/VERDICT-r2.md and does not commit; folds behind the census and identity folds (pid 95289 · log /tmp/claude-verify-factory-r2.log)
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): RETURN-EXACT + THE SOUNDING DOOR (the founder's own walk: Back landed 2,680 px down; no reachable pause) in worktree return-exact-20260917 cut from the fold's tip — exact Back within 8 px, zero black frames, a quiet door to the sounding object on every plane while sound plays (never a mini-player), planted walks at 390 and 1440
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the factory branch factory-20260917 @ cfaecd64bc — a second Account A window (seat factory-a): path-scoped rules to cut the ~180k-token headless boot to ~72k, nine trigger skills, the Control Room doorway imported from CLAUDE.md; CI-IS-DEAD.md; verdict to land at ~/able-work/verify-factory-20260917/docs/audits/2026-09-17-software-factory/VERDICT-r1.md
-- 2 headless claude process(es) in the table at 2026-09-17T18:52:29.184Z (pid 60654 up 00:11, pid 60833 up 00:05) — 0 of them recorded as lanes above
+- 2 headless claude process(es) in the table at 2026-09-17T19:37:25.907Z (pid 60833 up 45:01, pid 95289 up 13:45) — 1 of them recorded as lanes above
 
 ## blockers
-- THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping. The chain: F26 (C, running) → the integrated fold's fresh verdict (packet ready at /tmp/packet-int-verdict.md; on C if its guard allows the moment F26 lands, else on A at ~19:40) → canonical → RETURN-EXACT + the sounding door → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit resumes only after the verdict. The local lane runs the identity triage meanwhile.
+- THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
 - ACCOUNT A IS AT ITS SESSION CEILING (77% of the five-hour window; the guard's ceiling is 78%): no new builder or in-session fan-out on A until the window rolls (~19:40 BST). The root seat's own work on A stays light (git reconciliation, packets, publishing). Account C carries the identity r3 builder and sits ~8% above its weekly floor; Account B rests.
 - THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure counts delivered-but-unfolded product branches (lane A · fold-bc · Bandcamp · c-census · c-identity = 5) against a threshold of 2. The integrated fold ④ is the one action that clears it.
 - Account B rests at 91% weekly with Fable spent (resets Sep 22) — nothing dispatched there. Account C is at 77% weekly (23% left, floor 12%; resets Sep 19 23:00): the guard now says Opus for its next dispatches; the two Fable lanes above were the last Fable ones on C.
@@ -117,11 +117,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - which Claude capacity to buy · actions 949–1000
 
 ## next actions (in order)
-- the fold's r2 verdict (A, a different fresh instance) → PASS folds ④ to canonical by merge (c-census and c-identity fold with it; the two receipts re-run) → then the factory branch after its own verdict
-- RETURN-EXACT + the sounding door is BUILDING on A now in its own worktree from the fold's tip; it folds right after ④ (at most one product branch waiting)
-- RETURN-EXACT + the sounding door (Back lands exactly; 'still playing · Otherside · from Hallucinating Love' as a door, never a bar) — Fable on A
-- the Work opening recomposed with QuickLaunch replacing 'Listen elsewhere' (the founder's sequence: identity → sound → one human seam → QuickLaunch → depth) — Fable on A
-- Materials from the REAL sleeve (mustard, dirty red, concrete, tobacco; the record's own lettering for the title) → the Groove List → DUAL at 834 and WIDE at 1440 → People and the Relationship → Film V2; the scoreboard's synthesis resumes from cache only after the fold verdict, never before
+- c-census-green-20260917 (99b432933a, r1 PASS 8·7) merged with canonical e509cadc8b in its worktree by root — the OpeningWorld.tsx import hunk kept both sides; tsc + the related vitest run there → c-identity-census-20260917 (7c97577436, r3 PASS) merged on top, the lessons.json hunk keeps both entries → push by reference → ONE fresh verdict on the merged head (A, Opus, five claims: census survives · identity survives · ④'s lineage still exits 0 · floor · three sizes) → fast-forward canonical
+- RETURN-EXACT + the sounding door is BUILDING on A (pid 60833) in return-exact-20260917 from c600dfd033; when its commit lands: push by reference → merge with canonical (same base as ④, expected clean) → fresh verdict → fold
+- the Work opening recomposed with QuickLaunch replacing 'Listen elsewhere' (the founder's sequence: identity → sound → one human seam → QuickLaunch → depth through doors) — Fable on A once the exact-Back builder exits (one builder per account)
+- Materials from the REAL sleeve (mustard, dirty red, concrete, tobacco; the record's own lettering for the title; resume refs/wip/A/2026-09-17-materials 752c850b62) → the Groove List → DUAL at 834 and WIDE at 1440 (the dimension that caps product at 4)
+- People/Relationship → Film V2 · the factory branch folds after its r2 verdict (running, pid 95289) · the two speed tests re-measured on the served Room after QuickLaunch
 
 ## meters
 ```
@@ -132,8 +132,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
   [1mClaude C[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 48% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 52% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
