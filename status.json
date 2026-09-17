@@ -49,20 +49,20 @@
   "rootSeat": "⚠️ TWO SEATS OBSERVED ACTING AS ROOT: the Account B window committed 0b07d58071 on fold-bc-20260916 at 20:40 as author `t <t@t>` (set `git config user.name/email` there) and pushed it; the Account A seat (this file's author) is at 82% session and from here launches nothing new on Account A. ONE root: whichever seat James is typing in. Every launch is recorded in `running` below BEFORE it is made — read it before dispatching, never duplicate a lane.",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "281a05ca81dc6cb418da8760b3e9b0d221d78d21",
-  "localCanonicalHead": "281a05ca81dc6cb418da8760b3e9b0d221d78d21",
+  "remoteCanonicalHead": "a40f7e4e10685ffdc68fd19f8406c2228c7e4518",
+  "localCanonicalHead": "a40f7e4e10685ffdc68fd19f8406c2228c7e4518",
   "canonicalAgree": true,
   "candidateHead": "619a17d461f6ca728714aa8ad7839946f6e6eb3c",
-  "lastVerifiedAt": "2026-09-17T11:41:25.708Z",
+  "lastVerifiedAt": "2026-09-17T11:49:29.669Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "281a05ca81dc6cb418da8760b3e9b0d221d78d21",
-    "subject": "fix(status): the page is written for James first, and it stopped contradicting itself"
+    "sha": "a40f7e4e10685ffdc68fd19f8406c2228c7e4518",
+    "subject": "fix(meters): the third Claude profile is not a third account, and now says so"
   },
-  "meters": "\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C (3rd profile)\u001b[0m  \u001b[31m⛔ NOT A SEPARATE ACCOUNT — it returns A’s meters exactly\u001b[0m\n     ~/.claude-account-c exists but is not separately logged in, so it falls through to A.\n     Anything run on it is CHARGED TO A. We own TWO Claude accounts, not three.\n     To make it real: run `claude auth login` with CLAUDE_CONFIG_DIR=~/.claude-account-c on a different subscription.\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 26% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T11:41:26.805Z",
+  "meters": "C is signed in as ablemusicapp@gmail.com  ← the same one\n     So a third subscription you own is NOT reachable from this machine, and anything\n     run on profile C is charged to A. This is a login mistake, not a missing account.\n     Fix (needs the founder — it is his credential): CLAUDE_CONFIG_DIR=~/.claude-account-c claude auth login\n     and sign in as the THIRD account, not the one A already holds.\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 26% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T11:49:30.583Z",
   "machine": {
-    "derivedAt": "2026-09-17T11:41:26.805Z",
+    "derivedAt": "2026-09-17T11:49:30.583Z",
     "runningBuilders": 0,
     "runningBuilderDetail": [],
     "queueDepth": {
@@ -129,14 +129,8 @@
       "A": "Sep 18 at 7pm",
       "B": "Sep 22 at 10:59pm"
     },
-    "thirdProfile": "the third Claude profile is NOT a separate account — it bills to account A"
+    "thirdProfile": "two of the three Claude profiles are signed into the SAME account, so one subscription is not reachable from this machine and work on that profile is billed to the wrong one. It is a login mistake, not a missing account — `npm run usage -- --all` prints which profile and the exact fix."
   },
-  "publishedAt": "2026-09-17T11:41:26.805Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T11:41:44.660Z"
-  }
+  "publishedAt": "2026-09-17T11:49:30.583Z",
+  "statusAgeSeconds": 0
 }
