@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,9 +16,9 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 45:01, going 13:45).
-- ⚠️ The written description below may be out of date — it lists 1 but 2 jobs are actually running:
-  - A · VERIFIER (factory-a's, read-only)
+- 1 job is running (going 58:12).
+- ⚠️ The written description below may be out of date — it lists 0 but 1 job is actually running:
+
 
 ## Waiting for you
 
@@ -29,10 +29,10 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **2 jobs** being built right now
+- **1 job** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
-- Claude account A has used **52%** of its week — it refills **Sep 18 at 7pm**
+- Claude account A has used **53%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -40,7 +40,7 @@ should not be trusted. It is supposed to update itself._
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 52% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 53% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -56,20 +56,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T19:37:25.907Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T19:50:36.770Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T19:37:25.907Z**
+- **publishedAt: 2026-09-17T19:50:36.770Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 60833 up 45:01 · pid 95289 up 13:45)
+- runningBuilders: **1** (pid 60833 up 58:12)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
 - verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
-- meters weekly: A **52%** · B **91%** · band: ≤55% → 2 builder(s)
+- meters weekly: A **53%** · B **91%** · band: ≤55% → 2 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -78,11 +78,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: e509cadc8b60c2e649248424c969fdb1e82ef6e3  (fresh `git ls-remote`)
-- localCanonicalHead: e509cadc8b60c2e649248424c969fdb1e82ef6e3  · agrees
+- remoteCanonicalHead: e974fc0ae7308215342db12137cdaa7f2d8e118d  (fresh `git ls-remote`)
+- localCanonicalHead: e974fc0ae7308215342db12137cdaa7f2d8e118d  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 99b432933abdc11d1b9aac3ce522785695193952
-- lastVerifiedAt: 2026-09-17T19:37:24.984Z
-- subject: feat(fold): the integrated fold ④ lands on canonical — lane A + fold-bc + Bandcamp + lane F, one hierarchy, one sound owner (r2 PASS)
+- lastVerifiedAt: 2026-09-17T19:50:35.590Z
+- subject: fix(status): the publisher refuses any STATUS_DIR that is not the status clone; the fold-merge gate lesson; live docs after ④
 
 ## candidates ready for verdict / fold
 - c-identity-census-20260917 @ c9a1319901 — r3 PASS (product 7 · assurance 7): the Work-identity census is GENERATED by an AST sweep anyone can re-run, guarded against staleness, complete as a list within three stated limits; FOLD-ELIGIBLE for the next integrated fold. The sentence that may NOT be said: 'point 46 complete for Works' — 119 of 394 groups are ruled, the rest counted as joins and unread; the verifier's seeded sample puts real joins at 5 of 20 of the unread
@@ -97,10 +97,10 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - LANE MATERIALS — STRANDED again: 26 dirty files in /Users/jamescuthbert/Able/.claude/worktrees/agent-ad409ed963fb3ce99, no commit (its in-session builder died with the 14:40Z window kill); needs a resume builder
 
 ## running lanes
-- A · claude-opus-5 · VERIFIER (factory-a's, read-only) — the software-factory branch factory-20260917 @ b4dddde2f4, r2 — attacks the RETURN-CLOSURE rows, the taste ledger, the always-loaded kernel, law-visibility.mjs, the boot arithmetic; writes docs/audits/2026-09-17-software-factory/VERDICT-r2.md and does not commit; folds behind the census and identity folds (pid 95289 · log /tmp/claude-verify-factory-r2.log)
+- FINISHED, UNRECORDED — pid 95289 is not in the process table and the seat has not written its outcome yet: the software-factory branch factory-20260917 @ b4dddde2f4, r2 — attacks the RETURN-CLOSURE rows, the taste ledger, the always-loaded kernel, law-visibility.mjs, the boot arithmetic; writes docs/audits/2026-09-17-software-factory/VERDICT-r2.md and does not commit; folds behind the census and identity folds
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): RETURN-EXACT + THE SOUNDING DOOR (the founder's own walk: Back landed 2,680 px down; no reachable pause) in worktree return-exact-20260917 cut from the fold's tip — exact Back within 8 px, zero black frames, a quiet door to the sounding object on every plane while sound plays (never a mini-player), planted walks at 390 and 1440
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the factory branch factory-20260917 @ cfaecd64bc — a second Account A window (seat factory-a): path-scoped rules to cut the ~180k-token headless boot to ~72k, nine trigger skills, the Control Room doorway imported from CLAUDE.md; CI-IS-DEAD.md; verdict to land at ~/able-work/verify-factory-20260917/docs/audits/2026-09-17-software-factory/VERDICT-r1.md
-- 2 headless claude process(es) in the table at 2026-09-17T19:37:25.907Z (pid 60833 up 45:01, pid 95289 up 13:45) — 1 of them recorded as lanes above
+- 1 headless claude process(es) in the table at 2026-09-17T19:50:36.771Z (pid 60833 up 58:12) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -134,6 +134,6 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 52% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 53% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```

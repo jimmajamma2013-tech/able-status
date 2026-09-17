@@ -132,31 +132,27 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-17T19:37:25.907Z",
+  "updatedAt": "2026-09-17T19:50:36.770Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "e509cadc8b60c2e649248424c969fdb1e82ef6e3",
-  "localCanonicalHead": "e509cadc8b60c2e649248424c969fdb1e82ef6e3",
+  "remoteCanonicalHead": "e974fc0ae7308215342db12137cdaa7f2d8e118d",
+  "localCanonicalHead": "e974fc0ae7308215342db12137cdaa7f2d8e118d",
   "canonicalAgree": true,
   "candidateHead": "99b432933abdc11d1b9aac3ce522785695193952",
-  "lastVerifiedAt": "2026-09-17T19:37:24.984Z",
+  "lastVerifiedAt": "2026-09-17T19:50:35.590Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "e509cadc8b60c2e649248424c969fdb1e82ef6e3",
-    "subject": "feat(fold): the integrated fold ④ lands on canonical — lane A + fold-bc + Bandcamp + lane F, one hierarchy, one sound owner (r2 PASS)"
+    "sha": "e974fc0ae7308215342db12137cdaa7f2d8e118d",
+    "subject": "fix(status): the publisher refuses any STATUS_DIR that is not the status clone; the fold-merge gate lesson; live docs after ④"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 52% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 53% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-17T19:37:25.907Z",
-    "runningBuilders": 2,
+    "derivedAt": "2026-09-17T19:50:36.771Z",
+    "runningBuilders": 1,
     "runningBuilderDetail": [
       {
         "pid": "60833",
-        "elapsed": "45:01"
-      },
-      {
-        "pid": "95289",
-        "elapsed": "13:45"
+        "elapsed": "58:12"
       }
     ],
     "queueDepth": {
@@ -209,7 +205,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 52,
+      "A": 53,
       "B": 91
     },
     "builderBand": "≤55% → 2 builder(s)",
@@ -224,9 +220,10 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T19:37:25.907Z",
+  "publishedAt": "2026-09-17T19:50:36.770Z",
   "statusAgeSeconds": 0,
-  "runningAlive": [
+  "runningAlive": [],
+  "runningDead": [
     {
       "account": "A",
       "model": "claude-opus-5",
@@ -237,7 +234,6 @@
       "pid": 95289
     }
   ],
-  "runningDead": [],
   "runningUnverified": [
     {
       "account": "A",
@@ -257,15 +253,9 @@
     }
   ],
   "runningRendered": [
-    "A · claude-opus-5 · VERIFIER (factory-a's, read-only) — the software-factory branch factory-20260917 @ b4dddde2f4, r2 — attacks the RETURN-CLOSURE rows, the taste ledger, the always-loaded kernel, law-visibility.mjs, the boot arithmetic; writes docs/audits/2026-09-17-software-factory/VERDICT-r2.md and does not commit; folds behind the census and identity folds (pid 95289 · log /tmp/claude-verify-factory-r2.log)",
+    "FINISHED, UNRECORDED — pid 95289 is not in the process table and the seat has not written its outcome yet: the software-factory branch factory-20260917 @ b4dddde2f4, r2 — attacks the RETURN-CLOSURE rows, the taste ledger, the always-loaded kernel, law-visibility.mjs, the boot arithmetic; writes docs/audits/2026-09-17-software-factory/VERDICT-r2.md and does not commit; folds behind the census and identity folds",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): RETURN-EXACT + THE SOUNDING DOOR (the founder's own walk: Back landed 2,680 px down; no reachable pause) in worktree return-exact-20260917 cut from the fold's tip — exact Back within 8 px, zero black frames, a quiet door to the sounding object on every plane while sound plays (never a mini-player), planted walks at 390 and 1440",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the factory branch factory-20260917 @ cfaecd64bc — a second Account A window (seat factory-a): path-scoped rules to cut the ~180k-token headless boot to ~72k, nine trigger skills, the Control Room doorway imported from CLAUDE.md; CI-IS-DEAD.md; verdict to land at ~/able-work/verify-factory-20260917/docs/audits/2026-09-17-software-factory/VERDICT-r1.md",
-    "2 headless claude process(es) in the table at 2026-09-17T19:37:25.907Z (pid 60833 up 45:01, pid 95289 up 13:45) — 1 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T19:37:42.456Z"
-  }
+    "1 headless claude process(es) in the table at 2026-09-17T19:50:36.771Z (pid 60833 up 58:12) — 0 of them recorded as lanes above"
+  ]
 }
