@@ -82,6 +82,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T16:20:04.346Z
 - subject: docs(verdicts): three Account C verdicts received — c-census PASS, c-identity RETURN on the record, lane F r5 PASS
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T16:20:21.993Z)
+
 ## candidates ready for verdict / fold
 - lane F @ 318bee7a6c — r5 PASS (product 6 · assurance 7): F25 closed by construction, the title-size taste call ACCEPTED; FOLD-ELIGIBLE for the ONE integrated fold ④ with F26 (the landscape title breaks mid-word at widths 700–844) carried as a named gate item inside the fold; F27, the consent-band race and 844×390 carried
 - c-identity-census-20260917 @ c30b9a0bb8 — r2 RETURN (product 7 · assurance 5): fourteen more single-line title joins the census missed; the code measured harmless by bytes. r3 building on C: a deterministic structural sweep generates the census, so the class cannot recur
