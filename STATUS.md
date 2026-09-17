@@ -81,6 +81,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T16:35:03.617Z
 - subject: docs(verdicts): three Account C verdicts received — c-census PASS, c-identity RETURN on the record, lane F r5 PASS
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T16:35:23.513Z)
+
 ## candidates ready for verdict / fold
 - THE INTEGRATED FOLD ④ @ dcacb66993 on fold-int-20260916 (pushed by reference) — lane A + fold-bc + Bandcamp merged by an Opus reconciliation builder; the two provider tables absorbed into the one resolver and the capability projection (94 of 110 cells reconciled, domain wins on purchase, measured table wins on control); the hero points into the stage; consent per provider; the play button still mounts on the first tap (14/14); build 0, tsc 0, vitest 1180/1180, lineage 0; RECORD with five claims. NOT claimed: DUAL at 834 and WIDE at 1440 on the Work (a widened phone — named for ⑥/⑧). Lane F 318bee7a6c still to merge (three conflicts: two receipts, actSpec.ts) and F26 to close inside the fold; then ONE fresh verdict.
 - lane F @ 318bee7a6c — r5 PASS (product 6 · assurance 7): F25 closed by construction, the title-size taste call ACCEPTED; FOLD-ELIGIBLE for the ONE integrated fold ④ with F26 (the landscape title breaks mid-word at widths 700–844) carried as a named gate item inside the fold; F27, the consent-band race and 844×390 carried
