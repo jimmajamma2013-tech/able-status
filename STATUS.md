@@ -89,6 +89,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T14:29:00.825Z
 - subject: feat(capacity): the reserve floors become a machine — no account is driven to zero before its reset
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T14:30:27.631Z)
+
 ## candidates ready for verdict / fold
 - cand-play-20260917 @ 2223ef94fe — canonical + the play-button P0. Clean merge, 7 src files plus useFilmStart.ts and two new tests. VERDICT IN FLIGHT on A.
 - cand-claim-20260917 @ 0345ac0544 — canonical + consent-P0 + three-doors-P0, both clean, three-doors test present. Its two known defects are being fixed now, then it needs ONE fresh verdict on the post-fix SHA.
