@@ -229,5 +229,11 @@
   "runningRendered": [
     "A · claude-opus-5 · VERIFIER — exact Back + the sounding door r2 RE-STAMP on return-exact-20260917 @ 5dc4733dfe (the r1 fix round: one registry decides the door, the Work transport owns its stop, the sentence routed through soundLanguage): five claims on a served build at 390/834/1440, plus the builder's own disclosures attacked (the eye-checks ran before a late hook extraction; the film crossing at 1440 passed once, unexplained) (pid 3970 · log /tmp/claude-a-return-verdict-r2.log)",
     "1 headless claude process(es) in the table at 2026-09-17T21:51:05.809Z (pid 3970 up 18:48) — 1 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T21:51:22.477Z"
+  }
 }

@@ -83,6 +83,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T21:51:03.710Z
 - subject: test(consent): the planted consent-zero arrival spec — red on the Room at three sizes, green on the Work, with a positive control
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T21:51:22.477Z)
+
 ## candidates ready for verdict / fold
 - quicklaunch-20260917 @ dd66cad4a2 — THE WORK OPENING RECOMPOSED WITH QUICKLAUNCH delivered and pushed: identity → sound → one human seam → QuickLaunch (one active provider mark, the rest quiet text) → depth through doors; 'Listen elsewhere' retired; its own floor green (tsc 0, build 0, eye-check 0 P0 on three Works at three sizes, five journeys at 390 and 1440, lineage 0); its own MIN is the wide composition. Its fresh verdict is QUEUED behind the exact-Back re-stamp on A
 - return-exact-20260917 @ 5dc4733dfe — the r1 RETURN closed in one round (B1 the door was inert: one registry now decides and the DOM attribute follows it; B2 the destination carries a reachable stop for the current sound; B3 the sentence composed through soundLanguage); its own floor: tsc 0, build:check 0, the walk Δscroll 0 at both widths, lineage 0, eye-check 0 P0 on three planes — the r2 re-stamp is RUNNING and decides the fold
