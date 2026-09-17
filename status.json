@@ -217,5 +217,11 @@
   "runningRendered": [
     "C · claude-fable-5-1 · BUILDER — F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record (pid 22130 · log /tmp/claude-c-f26.log)",
     "1 headless claude process(es) in the table at 2026-09-17T17:14:28.284Z (pid 22130 up 09:40) — 1 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T17:14:45.043Z"
+  }
 }
