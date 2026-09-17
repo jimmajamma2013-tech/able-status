@@ -53,16 +53,16 @@
   "localCanonicalHead": "cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a",
   "canonicalAgree": true,
   "candidateHead": "619a17d461f6ca728714aa8ad7839946f6e6eb3c",
-  "lastVerifiedAt": "2026-09-17T11:09:08.811Z",
+  "lastVerifiedAt": "2026-09-17T11:09:56.904Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a",
     "subject": "docs(review): 35 findings on two branches, every one survived refutation"
   },
   "meters": "resets Sep 22 at 10:59pm   \u001b[2m11% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 26% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T11:09:10.111Z",
+  "updatedAt": "2026-09-17T11:09:57.832Z",
   "machine": {
-    "derivedAt": "2026-09-17T11:09:10.111Z",
+    "derivedAt": "2026-09-17T11:09:57.833Z",
     "runningBuilders": 0,
     "runningBuilderDetail": [],
     "queueDepth": {
@@ -126,12 +126,6 @@
     },
     "builderBand": "≤55% → 2 builder(s)"
   },
-  "publishedAt": "2026-09-17T11:09:10.111Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T11:09:27.611Z"
-  }
+  "publishedAt": "2026-09-17T11:09:57.832Z",
+  "statusAgeSeconds": 0
 }
