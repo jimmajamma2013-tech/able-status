@@ -16,7 +16,7 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 3 jobs are running (going 00:24, going 52:48, going 41:41).
+- 3 jobs are running (going 01:04, going 53:28, going 42:21).
 - ⚠️ The written description below may be out of date — it lists 2 but 3 jobs are actually running:
   - A · BUILDER
   - A · BUILDER (fix round)
@@ -24,7 +24,7 @@ should not be trusted. It is supposed to update itself._
 ## Waiting for you
 
 - GITHUB ACTIONS — the cause is now GitHub's own sentence
-- GITHUB BRANCH PROTECTION on able-rebuild-v1
+- GITHUB BRANCH PROTECTION on able-rebuild-v1 needs GITHUB PRO first — measured: gh api …/branches/able-rebuild-v1/protection answers "Upgrade to GitHub Pro or make this repository public to enable this feature"
 - OPENAI CREDITS
 - REPORTED, not asked: the repo-local git identity `t <t@t>` was removed at 20:5x; commits are authored James Cuthbert from 27b5d6a99c on. One line restores the placeholder if it was deliberate.
 - WHEN THE FACTORY FOLDS
@@ -58,13 +58,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T21:23:51.869Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T21:24:31.139Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T21:23:51.869Z**
+- **publishedAt: 2026-09-17T21:24:31.139Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **3** (pid 83757 up 00:24 · pid 85811 up 52:48 · pid 99304 up 41:41)
+- runningBuilders: **3** (pid 83757 up 01:04 · pid 85811 up 53:28 · pid 99304 up 42:21)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -83,7 +83,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: de0407140ca0e555eac29055798253e075bb41ae  (fresh `git ls-remote`)
 - localCanonicalHead: de0407140ca0e555eac29055798253e075bb41ae  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-17T21:23:51.038Z
+- lastVerifiedAt: 2026-09-17T21:24:30.338Z
 - subject: feat(scripts): fold-commit — a verified branch lands on canonical in one commit attempt, with the two proofs and the census computed
 
 ## candidates ready for verdict / fold
@@ -98,7 +98,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - A · claude-fable-5-1 · BUILDER — THE WORK OPENING RECOMPOSED WITH QUICKLAUNCH (identity → sound → one human seam → QuickLaunch with one active mark → depth through doors; 'Listen elsewhere' retired) in quicklaunch-20260917 cut from canonical 60d0fd4cd5; task contract /tmp/packet-a-quicklaunch.md; journeys J1–J5 as Playwright on a served build; five claims for a fresh verifier (pid 85811 · log /tmp/claude-a-quicklaunch.log)
 - A · claude-fable-5-1 · BUILDER (fix round) — exact Back + the sounding door r1 RETURN closes (B1 the door is inert — registry vs DOM disagree; B2 the destination carries no pause; B3 a hand-typed sound sentence) in return-exact-20260917 on 234b0a7933; ≤45 min; a different fresh instance re-stamps (pid 99304 · log /tmp/claude-a-return-fix.log)
-- 3 headless claude process(es) in the table at 2026-09-17T21:23:51.869Z (pid 83757 up 00:24, pid 85811 up 52:48, pid 99304 up 41:41) — 2 of them recorded as lanes above
+- 3 headless claude process(es) in the table at 2026-09-17T21:24:31.140Z (pid 83757 up 01:04, pid 85811 up 53:28, pid 99304 up 42:21) — 2 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -110,7 +110,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## needs James
 - GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): "The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings." Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.
-- GITHUB BRANCH PROTECTION on able-rebuild-v1 (the factory seat's finding after four verifiers each routed around a local hook: anything that can run code can; the control that cannot be talked around is server-side): github.com/jimmajamma2013-tech/able-music/settings/branches → add a rule for able-rebuild-v1 → block force pushes and block deletions (leave required checks off until CI lives). ~2 minutes. The local guard stays as a tripwire, recorded as such, never as the boundary.
+- GITHUB BRANCH PROTECTION on able-rebuild-v1 needs GITHUB PRO first — measured: gh api …/branches/able-rebuild-v1/protection answers "Upgrade to GitHub Pro or make this repository public to enable this feature" (the repo is private on the free plan). So: on the same billing visit, upgrade the jimmajamma2013-tech account to GitHub Pro (about $4/month), then settings/branches → rule for able-rebuild-v1 → block force pushes and deletions. This is the control that cannot be talked around; four verifiers each routed around a local hook. ~4 minutes with the Actions fix.
 - OPENAI CREDITS (blocks the cross-family GPT attack; the key is on disk): platform.openai.com/settings/organization/billing → add credits. ~2 minutes.
 - REPORTED, not asked: the repo-local git identity `t <t@t>` was removed at 20:5x; commits are authored James Cuthbert from 27b5d6a99c on. One line restores the placeholder if it was deliberate.
 - WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later.
