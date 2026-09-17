@@ -20,10 +20,19 @@
       "pid": 22130,
       "log": "/tmp/claude-c-f26.log",
       "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916"
+    },
+    {
+      "account": "local",
+      "model": "devstral:24b (Ollama, 127.0.0.1)",
+      "role": "TRIAGE",
+      "task": "the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens",
+      "pid": 36063,
+      "log": "/tmp/local-triage.log",
+      "worktree": "/Users/jamescuthbert/able-work/c-identity"
     }
   ],
   "blockers": [
-    "THE ORDER FROM THE FOUNDER (2026-09-17 ~18:0x): do not reopen the Room plan, invent another constitution, or start another broad audit before the fold lands. The scoreboard audit stays paused (its nine measurements, three material censuses and 29 refutations are journaled in run wf_ddf8e9b5-96c) and resumes only after the fold's verdict.",
+    "THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping. The chain: F26 (C, running) → the integrated fold's fresh verdict (packet ready at /tmp/packet-int-verdict.md; on C if its guard allows the moment F26 lands, else on A at ~19:40) → canonical → RETURN-EXACT + the sounding door → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit resumes only after the verdict. The local lane runs the identity triage meanwhile.",
     "ACCOUNT A IS AT ITS SESSION CEILING (77% of the five-hour window; the guard's ceiling is 78%): no new builder or in-session fan-out on A until the window rolls (~19:40 BST). The root seat's own work on A stays light (git reconciliation, packets, publishing). Account C carries the identity r3 builder and sits ~8% above its weekly floor; Account B rests.",
     "THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure counts delivered-but-unfolded product branches (lane A · fold-bc · Bandcamp · c-census · c-identity = 5) against a threshold of 2. The integrated fold ④ is the one action that clears it.",
     "Account B rests at 91% weekly with Fable spent (resets Sep 22) — nothing dispatched there. Account C is at 77% weekly (23% left, floor 12%; resets Sep 19 23:00): the guard now says Opus for its next dispatches; the two Fable lanes above were the last Fable ones on C.",
@@ -113,27 +122,22 @@
   ],
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "338ab707f1a243a82e7473b4c1b2cce7b5fb0f82",
-  "localCanonicalHead": "338ab707f1a243a82e7473b4c1b2cce7b5fb0f82",
+  "remoteCanonicalHead": "73d15db0457ac0330d7528e61e23261d4e990854",
+  "localCanonicalHead": "73d15db0457ac0330d7528e61e23261d4e990854",
   "canonicalAgree": true,
   "candidateHead": "0b8e30700b640c1e778bcfacae95c52f81f3abab",
-  "lastVerifiedAt": "2026-09-17T17:14:27.034Z",
+  "lastVerifiedAt": "2026-09-17T17:26:15.818Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "338ab707f1a243a82e7473b4c1b2cce7b5fb0f82",
-    "subject": "docs(taste): the Maribou Room plan, 210 points, agreed and sharpened; the Work opening recomposed; the walk measured"
+    "sha": "73d15db0457ac0330d7528e61e23261d4e990854",
+    "subject": "docs(taste): the link-in-bio line and the two speed tests with today's measured start state; two identity verdicts"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  82%  ·  Fable  81%  ·  resets Sep 19 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 45% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T17:14:28.284Z",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  82%  ·  Fable  82%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 46% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T17:27:17.011Z",
   "machine": {
-    "derivedAt": "2026-09-17T17:14:28.284Z",
-    "runningBuilders": 1,
-    "runningBuilderDetail": [
-      {
-        "pid": "22130",
-        "elapsed": "09:40"
-      }
-    ],
+    "derivedAt": "2026-09-17T17:27:17.011Z",
+    "runningBuilders": 0,
+    "runningBuilderDetail": [],
     "queueDepth": {
       "product": 0,
       "ci": 0
@@ -184,7 +188,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 45,
+      "A": 46,
       "B": 91
     },
     "builderBand": "≤55% → 2 builder(s)",
@@ -199,9 +203,20 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T17:14:28.284Z",
+  "publishedAt": "2026-09-17T17:27:17.011Z",
   "statusAgeSeconds": 0,
   "runningAlive": [
+    {
+      "account": "local",
+      "model": "devstral:24b (Ollama, 127.0.0.1)",
+      "role": "TRIAGE",
+      "task": "the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens",
+      "pid": 36063,
+      "log": "/tmp/local-triage.log",
+      "worktree": "/Users/jamescuthbert/able-work/c-identity"
+    }
+  ],
+  "runningDead": [
     {
       "account": "C",
       "model": "claude-fable-5-1",
@@ -212,16 +227,10 @@
       "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916"
     }
   ],
-  "runningDead": [],
   "runningUnverified": [],
   "runningRendered": [
-    "C · claude-fable-5-1 · BUILDER — F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record (pid 22130 · log /tmp/claude-c-f26.log)",
-    "1 headless claude process(es) in the table at 2026-09-17T17:14:28.284Z (pid 22130 up 09:40) — 1 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T17:14:45.043Z"
-  }
+    "local · devstral:24b (Ollama, 127.0.0.1) · TRIAGE — the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens (pid 36063 · log /tmp/local-triage.log)",
+    "FINISHED, UNRECORDED — pid 22130 is not in the process table and the seat has not written its outcome yet: F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record",
+    "0 headless claude process(es) in the table at 2026-09-17T17:27:17.011Z — 1 of them recorded as lanes above"
+  ]
 }
