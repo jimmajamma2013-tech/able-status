@@ -142,5 +142,11 @@
     "thirdProfile": "two of the three Claude profiles are signed into the SAME account, so one subscription is not reachable from this machine and work on that profile is billed to the wrong one. It is a login mistake, not a missing account — `npm run usage -- --all` prints which profile and the exact fix."
   },
   "publishedAt": "2026-09-17T12:33:01.570Z",
-  "statusAgeSeconds": 0
+  "statusAgeSeconds": 0,
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T12:33:19.027Z"
+  }
 }
