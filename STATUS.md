@@ -1,6 +1,6 @@
 # ABLE — what is happening right now
 
-**Last updated just now.**
+**Last updated 1 minute ago.**
 _If that says more than about 10 minutes while work is running, this page has fallen behind and
 should not be trusted. It is supposed to update itself._
 
@@ -12,7 +12,7 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 - The build list is paused **on purpose** — not because anything broke. Nothing has been lost; every job is kept and will resume.
 - 6 pieces of finished work are waiting to be checked. That is why the list is paused: building faster than checking is how good work gets wiped out by accident.
-- The second Claude account has used 89% of its week, so it is being kept in reserve for emergencies rather than doing routine work.
+- The second Claude account has used 90% of its week, so it is being kept in reserve for emergencies rather than doing routine work.
 
 ## Being worked on right now
 
@@ -30,7 +30,7 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 - **14 jobs** waiting in the list (on hold on purpose)
 - **6 finished pieces** waiting to be checked and added in
 - Claude account A has used **26%** of its week — it refills **Sep 18 at 7pm**
-- Claude account B has used **89%** of its week — it refills **Sep 22 at 10:59pm**
+- Claude account B has used **90%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ two of the three Claude profiles are signed into the SAME account, so one subscription is not reachable from this machine and work on that profile is billed to the wrong one. It is a login mistake, not a missing account — `npm run usage -- --all` prints which profile and the exact fix.
 
 
@@ -39,10 +39,10 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T11:49:30.583Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T11:50:19.855Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T11:49:30.583Z**
+- **publishedAt: 2026-09-17T11:50:19.855Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
 - runningBuilders: **0**
@@ -52,7 +52,7 @@ _2026-09-17T11:49:30.583Z · published by fold-root-20260916 (Account A root, Cl
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **6** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3) · night-p0-play-button-20260917 @ d94f4d4f26 (+2)
 - verdictsPending: **6** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a · night-p0-play-button-20260917 @ d94f4d4f26
-- meters weekly: A **26%** · B **89%** · band: ≤55% → 2 builder(s)
+- meters weekly: A **26%** · B **90%** · band: ≤55% → 2 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -64,10 +64,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: a40f7e4e10685ffdc68fd19f8406c2228c7e4518  (fresh `git ls-remote`)
 - localCanonicalHead: a40f7e4e10685ffdc68fd19f8406c2228c7e4518  · agrees
 - candidateBranch: cand-20260917 · candidateHead: 619a17d461f6ca728714aa8ad7839946f6e6eb3c
-- lastVerifiedAt: 2026-09-17T11:49:29.669Z
+- lastVerifiedAt: 2026-09-17T11:50:18.591Z
 - subject: fix(meters): the third Claude profile is not a third account, and now says so
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T11:49:47.842Z)
 
 ## candidates ready for verdict / fold
 - cand-20260917 @ 619a17d461 — THE INTEGRATION CANDIDATE, built from current canonical plus the consent P0 and the three-doors P0. VERDICT IN: RETURN, advisory 7/10, from a fresh instance that built none of it. PASS on 3 of 5 claims: consent IS genuinely enforced on the send path, the merge IS honest with nothing lost or double-applied, and the removal door DOES reach the real removal flow carrying its subject. RETURN on 2: after "This is mine" the other door hides below the first screen on small phones and no removal door is offered there; and the removal door lands on a page painted in the banned phosphor green that prints the cleared domain privacy@ablemusic.co. Full record: cand-20260917/VERDICT.md
@@ -93,14 +91,14 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## meters
 ```
-C is signed in as ablemusicapp@gmail.com  ← the same one
+C is signed in as <an account address, redacted from the public page>  ← the same one
      So a third subscription you own is NOT reachable from this machine, and anything
      run on profile C is charged to A. This is a login mistake, not a missing account.
      Fix (needs the founder — it is his credential): CLAUDE_CONFIG_DIR=~/.claude-account-c claude auth login
      and sign in as the THIRD account, not the one A already holds.
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
 [1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 26% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
