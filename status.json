@@ -1,13 +1,22 @@
 {
   "seat": "fold-root-20260916 (Account A root, Claude Opus 5 1M)",
   "readyForVerdict": [
-    "cand-20260917 @ 619a17d461 — THE INTEGRATION CANDIDATE, built from current canonical plus the consent P0 and the three-doors P0. VERDICT IN: RETURN, advisory 7/10, from a fresh instance that built none of it. PASS on 3 of 5 claims: consent IS genuinely enforced on the send path, the merge IS honest with nothing lost or double-applied, and the removal door DOES reach the real removal flow carrying its subject. RETURN on 2: after \"This is mine\" the other door hides below the first screen on small phones and no removal door is offered there; and the removal door lands on a page painted in the banned phosphor green that prints the cleared domain privacy@ablemusic.co. Full record: cand-20260917/VERDICT.md"
+    "fold-bc-20260916 @ 4984346294 — r2 RETURN on B3 alone; B1 (consent) CLOSED controlled at three widths on four Works, B2 CLOSED in substance (6/6 kinds render distinct sequences). Fix running.",
+    "lane F @ 36257f1b88 — r3 RETURN on F22+F23; the resolver-level parity (one population, one trust rule, id-level, three shapes) is CLOSED on the record. Fix running."
   ],
-  "running": [],
+  "running": [
+    "Account A (Fable, in-session subagent) · builder: fold-bc r2's ONE blocking finding B3 — the renderer re-decides order for a band composeWork places after the provider stage (served on mother-2020) — in /Users/jamescuthbert/able-work/fold-bc-20260916",
+    "Account A (Fable, in-session subagent) · builder: LANE MATERIALS resumed from 15 uncommitted files — eight environment modes over the existing atmosphere kernels; Relationship/Maker/Receipt stop falling to generic black — in agent-ad409ed963fb3ce99",
+    "Account C (Fable, headless) · builder: lane F r3's two blockers — F22 the face collision moved to sizes the probe never measured (widen its viewport list), F23 under a film lead the record block names a record the resolver did not choose — in agent-a4b8bacec2f27ab91; log /tmp/claude-c-f4.log",
+    "Account C (Fable, headless) · builder: BANDCAMP-IDS resumed from 11 uncommitted files — numeric ids through the promotion path, positive AND negative controls — in agent-afa25af8ff9958d25; log /tmp/claude-c-bandcamp.log"
+  ],
   "blockers": [
     "THE QUEUES ARE PAUSED BY RULE, not by failure — 14 jobs held in QUEUE/tasks-paused.txt and QUEUE/tasks-ci-paused.txt, none lost. They resume when finished-but-unchecked work drops below 2.",
     "the integration candidate RETURNED on two defects, both also found independently by the lane review: the banned phosphor green and the cleared domain ablemusic.co are both live on a removal page a real artist would reach",
-    "OWED: one bounded independent verdict on the status bridge itself — it has taken four consecutive cold-review escapes and is the founder-facing surface least entitled to self-certify"
+    "OWED: one bounded independent verdict on the status bridge itself — it has taken four consecutive cold-review escapes and is the founder-facing surface least entitled to self-certify",
+    "Account B: weekly 90% used, Fable tap exhausted, 10% left until Sep 22 — resting by the capacity guard's floor, not by choice",
+    "Greptile has posted nothing since 2026-09-06 (PR #37 open for the candidate) — James: check app.greptile.com",
+    "GPT's connector still 404s on the private repo; it reads the public mirror instead — the GitHub App grant on jimmajamma2013-tech is James's one action"
   ],
   "needsJames": [
     "GPT's GitHub connector: the private repo has ONE collaborator (jimmajamma2013-tech); the ChatGPT GitHub App must be installed on THAT account with able-music selected (github.com/settings/installations → ChatGPT → Configure). Until then GPT reads the PUBLIC mirror: https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
@@ -15,10 +24,8 @@
     "which Claude capacity to buy · actions 949–1000"
   ],
   "next": [
-    "close the candidate verdict two RETURN claims — the below-the-fold door on small phones, and the phosphor green plus ablemusic.co on the removal page",
-    "re-cut a NEW candidate from the canonical of that moment; never re-verify the stale one",
-    "the same two defects were found independently by the lane review, so they are confirmed twice and are the highest-value fix on the board",
-    "then the paused queue resumes"
+    "④ THE INTEGRATED FOLD once the four land and two re-stamps pass: worktree /Users/jamescuthbert/able-work/fold-int-20260916 is reset to canonical and clean; merge lane A + fold-bc + lane F + MATERIALS + Bandcamp, then ONE build step (packet written at /tmp/packet-b-int.md): delete providers/providerOrder.ts and providerCapabilities.ts into lane A's resolver and capability projection, land QuickLaunch, the mix hero points where its stage points. Then ⑥ the reference Work.",
+    "Attached acceptances that the narrow fixes do NOT discharge: QuickLaunch present · real proof at 390/834/1440 with DUAL two-pane and WIDE multi-column · lane A's federation pieces survive · never 'done' at 390 alone."
   ],
   "candidateBranch": "cand-20260917",
   "resume": {
@@ -46,28 +53,32 @@
     ],
     "verifierLaunch": "nohup env CLAUDE_CONFIG_DIR=$HOME/.claude-account-b claude -p \"$(cat <packet>)\" --model claude-fable-5-1 --dangerously-skip-permissions --output-format text < /dev/null > /tmp/<log> 2>&1 &  (packet shape: /tmp/packet-b-a3.md)"
   },
-  "rootSeat": "⚠️ TWO SEATS OBSERVED ACTING AS ROOT: the Account B window committed 0b07d58071 on fold-bc-20260916 at 20:40 as author `t <t@t>` (set `git config user.name/email` there) and pushed it; the Account A seat (this file's author) is at 82% session and from here launches nothing new on Account A. ONE root: whichever seat James is typing in. Every launch is recorded in `running` below BEFORE it is made — read it before dispatching, never duplicate a lane.",
+  "rootSeat": "CONTROLLER = the Account A seat (this file's author). Four builders dispatched 2026-09-17 ~00:0x, all on Fable, all recorded below BEFORE launch. ⛔ Read `running` before dispatching anything: a second window launching into the same worktree is the pile-up class. Account B is RESTING at 90% weekly (10% left to Sep 22) — nothing goes there. `node scripts/capacity-guard.mjs --account A|B|C` answers ALLOW/REFUSE against the floors (weekly reserve 12%, session ceiling 78%) and names the model to use.",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "336e418c11ebe71680347baa43f7992ff94717e9",
-  "localCanonicalHead": "336e418c11ebe71680347baa43f7992ff94717e9",
+  "remoteCanonicalHead": "d0e43d00c99e108393624448a6024eb474d9ddd4",
+  "localCanonicalHead": "d0e43d00c99e108393624448a6024eb474d9ddd4",
   "canonicalAgree": true,
   "candidateHead": "619a17d461f6ca728714aa8ad7839946f6e6eb3c",
-  "lastVerifiedAt": "2026-09-17T12:33:00.486Z",
+  "lastVerifiedAt": "2026-09-17T13:47:40.115Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "336e418c11ebe71680347baa43f7992ff94717e9",
-    "subject": "fix(capacity): the page blamed the server for its own bug, and three cards lied"
+    "sha": "d0e43d00c99e108393624448a6024eb474d9ddd4",
+    "subject": "feat(control-room): watch every lane write, and ask the local models, in one window"
   },
-  "meters": "C is signed in as <an account address, redacted from the public page>  ← the same one\n     So a third subscription you own is NOT reachable from this machine, and anything\n     run on profile C is charged to A. This is a login mistake, not a missing account.\n     Fix (needs the founder — it is his credential): CLAUDE_CONFIG_DIR=~/.claude-account-c claude auth login\n     and sign in as the THIRD account, not the one A already holds.\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 26% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T12:33:01.570Z",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  70%  ·  Fable  56%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 26% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T13:47:41.029Z",
   "machine": {
-    "derivedAt": "2026-09-17T12:33:01.570Z",
-    "runningBuilders": 1,
+    "derivedAt": "2026-09-17T13:47:41.029Z",
+    "runningBuilders": 2,
     "runningBuilderDetail": [
       {
-        "pid": "91636",
-        "elapsed": "03:54"
+        "pid": "40179",
+        "elapsed": "01:49"
+      },
+      {
+        "pid": "40181",
+        "elapsed": "01:49"
       }
     ],
     "queueDepth": {
@@ -137,16 +148,10 @@
     "capacity": {
       "codex": "Codex / Astra UNKNOWN — The provider reports a reached account limit",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
-      "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
+      "local": "Local (Ollama) devstral:24b · qwen3-coder:30b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
-    "thirdProfile": "two of the three Claude profiles are signed into the SAME account, so one subscription is not reachable from this machine and work on that profile is billed to the wrong one. It is a login mistake, not a missing account — `npm run usage -- --all` prints which profile and the exact fix."
+    "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T12:33:01.570Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T12:33:19.027Z"
-  }
+  "publishedAt": "2026-09-17T13:47:41.029Z",
+  "statusAgeSeconds": 0
 }
