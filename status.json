@@ -198,5 +198,11 @@
   "runningUnverified": [],
   "runningRendered": [
     "1 headless claude process(es) in the table at 2026-09-17T17:57:49.911Z (pid 64321 up 00:07) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T17:58:07.140Z"
+  }
 }
