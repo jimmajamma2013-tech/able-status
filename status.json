@@ -15,33 +15,6 @@
     {
       "account": "C",
       "model": "claude-fable-5-1",
-      "role": "VERIFIER",
-      "task": "c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff",
-      "pid": 70388,
-      "log": "/tmp/claude-c-census-v.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-census"
-    },
-    {
-      "account": "C",
-      "model": "claude-fable-5-1",
-      "role": "VERIFIER",
-      "task": "c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor",
-      "pid": 97998,
-      "log": "/tmp/claude-c-identity-v.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-identity"
-    },
-    {
-      "account": "C",
-      "model": "claude-fable-5-1",
-      "role": "VERIFIER",
-      "task": "c-identity r2 on c30b9a0bb8 — the Work-scoped census complete by an independent sweep, the retitle honest, served bytes re-diffed after the rename, the shadow deterministic over eight rooms, floor",
-      "pid": 54445,
-      "log": "/tmp/claude-c-identity-v2.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-identity"
-    },
-    {
-      "account": "C",
-      "model": "claude-fable-5-1",
       "role": "BUILDER",
       "task": "F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record",
       "pid": 22130,
@@ -144,21 +117,21 @@
   "localCanonicalHead": "338ab707f1a243a82e7473b4c1b2cce7b5fb0f82",
   "canonicalAgree": true,
   "candidateHead": "0b8e30700b640c1e778bcfacae95c52f81f3abab",
-  "lastVerifiedAt": "2026-09-17T17:12:49.000Z",
+  "lastVerifiedAt": "2026-09-17T17:14:27.034Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "338ab707f1a243a82e7473b4c1b2cce7b5fb0f82",
     "subject": "docs(taste): the Maribou Room plan, 210 points, agreed and sharpened; the Work opening recomposed; the walk measured"
   },
   "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  82%  ·  Fable  81%  ·  resets Sep 19 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 45% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T17:12:56.424Z",
+  "updatedAt": "2026-09-17T17:14:28.284Z",
   "machine": {
-    "derivedAt": "2026-09-17T17:12:56.424Z",
+    "derivedAt": "2026-09-17T17:14:28.284Z",
     "runningBuilders": 1,
     "runningBuilderDetail": [
       {
         "pid": "22130",
-        "elapsed": "08:08"
+        "elapsed": "09:40"
       }
     ],
     "queueDepth": {
@@ -226,7 +199,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T17:12:56.424Z",
+  "publishedAt": "2026-09-17T17:14:28.284Z",
   "statusAgeSeconds": 0,
   "runningAlive": [
     {
@@ -239,47 +212,10 @@
       "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916"
     }
   ],
-  "runningDead": [
-    {
-      "account": "C",
-      "model": "claude-fable-5-1",
-      "role": "VERIFIER",
-      "task": "c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff",
-      "pid": 70388,
-      "log": "/tmp/claude-c-census-v.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-census"
-    },
-    {
-      "account": "C",
-      "model": "claude-fable-5-1",
-      "role": "VERIFIER",
-      "task": "c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor",
-      "pid": 97998,
-      "log": "/tmp/claude-c-identity-v.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-identity"
-    },
-    {
-      "account": "C",
-      "model": "claude-fable-5-1",
-      "role": "VERIFIER",
-      "task": "c-identity r2 on c30b9a0bb8 — the Work-scoped census complete by an independent sweep, the retitle honest, served bytes re-diffed after the rename, the shadow deterministic over eight rooms, floor",
-      "pid": 54445,
-      "log": "/tmp/claude-c-identity-v2.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-identity"
-    }
-  ],
+  "runningDead": [],
   "runningUnverified": [],
   "runningRendered": [
     "C · claude-fable-5-1 · BUILDER — F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record (pid 22130 · log /tmp/claude-c-f26.log)",
-    "FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff",
-    "FINISHED, UNRECORDED — pid 97998 is not in the process table and the seat has not written its outcome yet: c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor",
-    "FINISHED, UNRECORDED — pid 54445 is not in the process table and the seat has not written its outcome yet: c-identity r2 on c30b9a0bb8 — the Work-scoped census complete by an independent sweep, the retitle honest, served bytes re-diffed after the rename, the shadow deterministic over eight rooms, floor",
-    "1 headless claude process(es) in the table at 2026-09-17T17:12:56.424Z (pid 22130 up 08:08) — 1 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T17:14:01.975Z"
-  }
+    "1 headless claude process(es) in the table at 2026-09-17T17:14:28.284Z (pid 22130 up 09:40) — 1 of them recorded as lanes above"
+  ]
 }

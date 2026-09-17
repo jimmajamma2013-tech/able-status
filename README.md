@@ -1,6 +1,6 @@
 # ABLE — what is happening right now
 
-**Last updated 1 minute ago.**
+**Last updated just now.**
 _If that says more than about 10 minutes while work is running, this page has fallen behind and
 should not be trusted. It is supposed to update itself._
 
@@ -53,13 +53,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T17:12:56.424Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T17:14:28.284Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T17:12:56.424Z**
+- **publishedAt: 2026-09-17T17:14:28.284Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **1** (pid 22130 up 08:08)
+- runningBuilders: **1** (pid 22130 up 09:40)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -78,7 +78,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 338ab707f1a243a82e7473b4c1b2cce7b5fb0f82  (fresh `git ls-remote`)
 - localCanonicalHead: 338ab707f1a243a82e7473b4c1b2cce7b5fb0f82  · agrees
 - candidateBranch: fold-int-20260916 · candidateHead: 0b8e30700b640c1e778bcfacae95c52f81f3abab
-- lastVerifiedAt: 2026-09-17T17:12:49.000Z
+- lastVerifiedAt: 2026-09-17T17:14:27.034Z
 - subject: docs(taste): the Maribou Room plan, 210 points, agreed and sharpened; the Work opening recomposed; the walk measured
 
 ## candidates ready for verdict / fold
@@ -94,10 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## running lanes
 - C · claude-fable-5-1 · BUILDER — F26 inside the integrated fold — the landscape title breaking mid-word at widths 700–844: one divisor or wrap rule with a no-broken-word probe over 203 sizes (26 red on the parent → 0), F25 and F24 probes re-run, eye-check at three sizes; one commit on fold-int, no push, five claims appended to the fold's record (pid 22130 · log /tmp/claude-c-f26.log)
-- FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff
-- FINISHED, UNRECORDED — pid 97998 is not in the process table and the seat has not written its outcome yet: c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor
-- FINISHED, UNRECORDED — pid 54445 is not in the process table and the seat has not written its outcome yet: c-identity r2 on c30b9a0bb8 — the Work-scoped census complete by an independent sweep, the retitle honest, served bytes re-diffed after the rename, the shadow deterministic over eight rooms, floor
-- 1 headless claude process(es) in the table at 2026-09-17T17:12:56.424Z (pid 22130 up 08:08) — 1 of them recorded as lanes above
+- 1 headless claude process(es) in the table at 2026-09-17T17:14:28.284Z (pid 22130 up 09:40) — 1 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:0x): do not reopen the Room plan, invent another constitution, or start another broad audit before the fold lands. The scoreboard audit stays paused (its nine measurements, three material censuses and 29 refutations are journaled in run wf_ddf8e9b5-96c) and resumes only after the fold's verdict.
