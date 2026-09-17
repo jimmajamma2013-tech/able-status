@@ -20,15 +20,6 @@
       "pid": 39452,
       "log": "/tmp/claude-c-int-verdict.log",
       "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916"
-    },
-    {
-      "account": "local",
-      "model": "devstral:24b (Ollama, 127.0.0.1)",
-      "role": "TRIAGE",
-      "task": "the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens",
-      "pid": 36063,
-      "log": "/tmp/local-triage.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-identity"
     }
   ],
   "blockers": [
@@ -94,6 +85,7 @@
   },
   "passed": [
     "the founder's Room plan (210 points), the Work-opening recomposition, the hybrid Room (link-in-bio speed + breadth + depth + one continuous world), the real Maribou world, the canonical visual rule, the balance, the lettering decision, the standing material scan and the anti-template-but-still-Able gate are all baked on canonical at 338ab707f1; the taste file carries each",
+    "the local lane's first real job: devstral triaged the 286 unread Work-identity groups (JOIN 156 · AMBIGUOUS 4 · NOT 126) after an oracle check on the 108 human rulings (89/108 recall, 0 false joins; the 19 misses are minted-key joins) — a reading queue for the identity r4 verifier, zero Claude tokens, eleven minutes",
     "c-identity r3 PASS @ c9a1319901 — the census class made unrepresentable (generated, guarded, planted controls); FOLD-ELIGIBLE",
     "lane F r5 PASS @ 318bee7a6c — F25 closed by construction and proven at twelve sizes on no list; three verdict files received into canonical",
     "the control room is INSTALLED: 00–05 + screenshots/ on canonical at d209087f8a, mirrored whole to Drive on every publish; ABLE NOW renders from one state object (process table + capacity file)",
@@ -126,21 +118,21 @@
   "localCanonicalHead": "73d15db0457ac0330d7528e61e23261d4e990854",
   "canonicalAgree": true,
   "candidateHead": "0511c6e8d95bf41850abc04005fbabab88d16f7e",
-  "lastVerifiedAt": "2026-09-17T17:29:53.248Z",
+  "lastVerifiedAt": "2026-09-17T17:48:54.015Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "73d15db0457ac0330d7528e61e23261d4e990854",
     "subject": "docs(taste): the link-in-bio line and the two speed tests with today's measured start state; two identity verdicts"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  82%  ·  Fable  82%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 46% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T17:29:54.539Z",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  82%  ·  Fable  82%  ·  resets Sep 19 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 46% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T17:48:55.075Z",
   "machine": {
-    "derivedAt": "2026-09-17T17:29:54.540Z",
+    "derivedAt": "2026-09-17T17:48:55.076Z",
     "runningBuilders": 1,
     "runningBuilderDetail": [
       {
         "pid": "39452",
-        "elapsed": "00:34"
+        "elapsed": "19:35"
       }
     ],
     "queueDepth": {
@@ -204,11 +196,11 @@
     "capacity": {
       "codex": "Codex / Astra UNKNOWN — The provider reports a reached account limit",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
-      "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
+      "local": "Local (Ollama) devstral:24b · qwen3-coder:30b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T17:29:54.539Z",
+  "publishedAt": "2026-09-17T17:48:55.075Z",
   "statusAgeSeconds": 0,
   "runningAlive": [
     {
@@ -219,28 +211,12 @@
       "pid": 39452,
       "log": "/tmp/claude-c-int-verdict.log",
       "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916"
-    },
-    {
-      "account": "local",
-      "model": "devstral:24b (Ollama, 127.0.0.1)",
-      "role": "TRIAGE",
-      "task": "the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens",
-      "pid": 36063,
-      "log": "/tmp/local-triage.log",
-      "worktree": "/Users/jamescuthbert/able-work/c-identity"
     }
   ],
   "runningDead": [],
   "runningUnverified": [],
   "runningRendered": [
     "C · claude-opus-5 · VERIFIER — THE INTEGRATED FOLD ④ r1 on fold-int @ 0511c6e8d9 — five claims plus F26's: one hierarchy and one capability truth (plant an ordering literal), consent-zero per provider measured on the request log, nothing verified lost (the play button 14/14, F23, F25 at 19+5 sizes, F26's 203-size scan expects 0, parity 7/7, the hero into the stage), the three sizes with an honest DUAL/WIDE ruling and the anti-template-but-still-Able gate against jon-hopkins and chris-clark, the floor against canonical 73d15db0457a (pid 39452 · log /tmp/claude-c-int-verdict.log)",
-    "local · devstral:24b (Ollama, 127.0.0.1) · TRIAGE — the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens (pid 36063 · log /tmp/local-triage.log)",
-    "1 headless claude process(es) in the table at 2026-09-17T17:29:54.540Z (pid 39452 up 00:34) — 2 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T17:30:11.633Z"
-  }
+    "1 headless claude process(es) in the table at 2026-09-17T17:48:55.076Z (pid 39452 up 19:35) — 1 of them recorded as lanes above"
+  ]
 }

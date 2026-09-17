@@ -16,10 +16,7 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 1 job is running (going 00:34).
-- ⚠️ The written description below may be out of date — it lists 2 but 1 job is actually running:
-  - C · VERIFIER
-  - local · TRIAGE
+- C · VERIFIER
 
 ## Waiting for you
 
@@ -56,13 +53,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T17:29:54.539Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T17:48:55.075Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T17:29:54.539Z**
+- **publishedAt: 2026-09-17T17:48:55.075Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **1** (pid 39452 up 00:34)
+- runningBuilders: **1** (pid 39452 up 19:35)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -81,7 +78,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 73d15db0457ac0330d7528e61e23261d4e990854  (fresh `git ls-remote`)
 - localCanonicalHead: 73d15db0457ac0330d7528e61e23261d4e990854  · agrees
 - candidateBranch: fold-int-20260916 · candidateHead: 0511c6e8d95bf41850abc04005fbabab88d16f7e
-- lastVerifiedAt: 2026-09-17T17:29:53.248Z
+- lastVerifiedAt: 2026-09-17T17:48:54.015Z
 - subject: docs(taste): the link-in-bio line and the two speed tests with today's measured start state; two identity verdicts
 
 ## candidates ready for verdict / fold
@@ -97,8 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## running lanes
 - C · claude-opus-5 · VERIFIER — THE INTEGRATED FOLD ④ r1 on fold-int @ 0511c6e8d9 — five claims plus F26's: one hierarchy and one capability truth (plant an ordering literal), consent-zero per provider measured on the request log, nothing verified lost (the play button 14/14, F23, F25 at 19+5 sizes, F26's 203-size scan expects 0, parity 7/7, the hero into the stage), the three sizes with an honest DUAL/WIDE ruling and the anti-template-but-still-Able gate against jon-hopkins and chris-clark, the floor against canonical 73d15db0457a (pid 39452 · log /tmp/claude-c-int-verdict.log)
-- local · devstral:24b (Ollama, 127.0.0.1) · TRIAGE — the 286 unread Work-identity census groups classified JOIN / NOT / AMBIGUOUS as a reading queue for the identity r4 verifier — oracle-checked first on the 108 human-ruled groups (agreement printed before any unread result is trusted); 0 Claude tokens (pid 36063 · log /tmp/local-triage.log)
-- 1 headless claude process(es) in the table at 2026-09-17T17:29:54.540Z (pid 39452 up 00:34) — 2 of them recorded as lanes above
+- 1 headless claude process(es) in the table at 2026-09-17T17:48:55.076Z (pid 39452 up 19:35) — 1 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping. The chain: F26 (C, running) → the integrated fold's fresh verdict (packet ready at /tmp/packet-int-verdict.md; on C if its guard allows the moment F26 lands, else on A at ~19:40) → canonical → RETURN-EXACT + the sounding door → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit resumes only after the verdict. The local lane runs the identity triage meanwhile.
@@ -126,7 +122,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  82%  ·  Fable  82%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  82%  ·  Fable  82%  ·  resets Sep 19 at 11pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
