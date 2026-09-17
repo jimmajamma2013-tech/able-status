@@ -127,5 +127,11 @@
     "builderBand": "≤55% → 2 builder(s)"
   },
   "publishedAt": "2026-09-17T11:09:57.832Z",
-  "statusAgeSeconds": 0
+  "statusAgeSeconds": 0,
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T11:10:15.853Z"
+  }
 }
