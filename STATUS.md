@@ -27,6 +27,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T10:07:30.156Z
 - subject: docs(review): 35 findings on two branches, every one survived refutation
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T10:07:47.109Z)
+
 ## candidates ready for verdict / fold
 - cand-20260917 @ 619a17d461 — THE INTEGRATION CANDIDATE, built from CURRENT canonical cf9c7f2efd + night-consent-20260916 + night-doors-20260916, both merged with ZERO conflicts. measured on the candidate itself: npx tsc --noEmit exit 0; the three P0 suites 26/26 green (threeDoors 9, consent-wrong-topic 13, consent-wire-route 4); the three-doors test file present. Verdict IN FLIGHT.
 - night-claim-screen-20260917 @ fba480c587 — RETURNED by lane review (4 of 6 dimensions RETURN; 35 findings raised, 35 survived adversarial refutation). Does NOT enter a candidate until its fixes land.
