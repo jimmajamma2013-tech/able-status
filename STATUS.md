@@ -1,11 +1,11 @@
 # ABLE · LIVE STATUS
-_2026-09-17T10:04:32.258Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T10:07:31.552Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T10:04:32.258Z**
+- **publishedAt: 2026-09-17T10:07:31.552Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **1** (pid 9236 up 54:34)
+- runningBuilders: **2** (pid 5576 up 00:30 · pid 9236 up 57:33)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -23,26 +23,23 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - canonicalBranch: able-rebuild-v1
 - remoteCanonicalHead: cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a  (fresh `git ls-remote`)
 - localCanonicalHead: cf9c7f2efd4996d9894fe1595141d84d2f9c5c5a  · agrees
-- candidateBranch: none — four lane branches await verdicts; see machine.deliveredUnfolded · candidateHead: UNKNOWN
-- lastVerifiedAt: 2026-09-17T10:03:48.288Z
+- candidateBranch: cand-20260917 · candidateHead: 619a17d461f6ca728714aa8ad7839946f6e6eb3c
+- lastVerifiedAt: 2026-09-17T10:07:30.156Z
 - subject: docs(review): 35 findings on two branches, every one survived refutation
 
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T10:04:50.834Z)
-
 ## candidates ready for verdict / fold
-- lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
-- fold-bc-20260916 @ 4984346294 — BOTH r1 findings closed by commits (3f354a9c74 the mechanical consent law; 4984346294 the renderer obeys composeWork: per-kind section lists differ, data-emphasis carried; builder names its own residue: the demo hero lost its Able preview, the mix hero points to artist SoundCloud while the stage holds Apple/Bandcamp, quickLaunch unrendered pending lane A's resolver, desktop still a stretched phone); PUSHED; r2 RUNNING on Account B (Opus)
-- lane F Current Moment @ 36257f1b88 — r2's blockers closed by the builder (one object population + one trust rule; parity S1–S3 each planted red; the face probe 0% at 390/834/1440 and back on disk; the 834 door clear). Residue it names: the Room's receipt says film while the record block shows the 2025 album; 1440 title wraps 6px from the face box; F20/F21 open. r3 RUNNING (Account B, Opus)
+- cand-20260917 @ 619a17d461 — THE INTEGRATION CANDIDATE, built from CURRENT canonical cf9c7f2efd + night-consent-20260916 + night-doors-20260916, both merged with ZERO conflicts. measured on the candidate itself: npx tsc --noEmit exit 0; the three P0 suites 26/26 green (threeDoors 9, consent-wrong-topic 13, consent-wire-route 4); the three-doors test file present. Verdict IN FLIGHT.
+- night-claim-screen-20260917 @ fba480c587 — RETURNED by lane review (4 of 6 dimensions RETURN; 35 findings raised, 35 survived adversarial refutation). Does NOT enter a candidate until its fixes land.
+- ci-p2-ci-waste-20260917 @ f4bdfae07f and ci-p2-lanes-ci-20260917 — RETURNED on coverage loss (three cron tests now pass on a commented-out line; axe-gate reachable by nothing automatic).
 
 ## running lanes
-- product queue builder · p0-play-button (founder-reported P0: the film charges a second tap) — worktree /Users/jamescuthbert/able-work/night-p0-play-button
-- ci queue builder · p2-lanes-ci — worktree /Users/jamescuthbert/able-work/ci-p2-lanes-ci
+- Account A · FRESH VERIFIER on the frozen integration candidate 619a17d461 (five claims: consent enforced on the send path · three doors reachable by a finger at 320/375 · removal door reaches the real flow with its subject · nothing forbidden painted or printed · the merge itself honest) — log /tmp/cand-verify.log
+- Account A · builder p0-play-button (the founder-reported P0: the film charges a second tap) — worktree /Users/jamescuthbert/able-work/night-p0-play-button
 
 ## blockers
-- 5 delivered-but-unfolded branches · 5 verdicts pending — integration is behind the builders, which is the exact condition GPT rule 1 pauses the queue on
-- Greptile has posted nothing since 2026-09-06 (0 reviews/comments on the standing window PR #28 across ~700 canonical commits) — James: check app.greptile.com connection + credits
-- 7 pre-existing red vitest census cases identical at canonical, B and C — owed to the sound-language / counted-noun lanes
-- pre-push mobile-asset-budget is RED on canonical's own chunks (97918 496KB, 80042 430KB, throttled hero 4106ms>4000) — pre-existing, identical sizes on canonical and candidate builds; pushes use the documented PUSH_GUARD_SKIP=1; owner B-218; never widen the budget
+- THE PRODUCT AND CI QUEUES ARE PAUSED BY RULE, not by failure — 14 packets held in QUEUE/tasks-paused.txt and tasks-ci-paused.txt, none lost. They resume when delivered-but-unfolded drops below 2.
+- night-claim-screen and the two ci branches are RETURNED with grounded findings — full record docs/audits/cold-review/2026-09-17-lane-review-claim-screen-and-ci-waste.md
+- OWED: one bounded independent verdict on scripts/publish-status.mjs — the status bridge has now taken four consecutive cold-review escapes and is the founder-facing surface least entitled to self-certify
 
 ## needs James
 - GPT's GitHub connector: the private repo has ONE collaborator (jimmajamma2013-tech); the ChatGPT GitHub App must be installed on THAT account with able-music selected (github.com/settings/installations → ChatGPT → Configure). Until then GPT reads the PUBLIC mirror: https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md
@@ -50,9 +47,9 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - which Claude capacity to buy · actions 949–1000
 
 ## next actions (in order)
-- PAUSE the product queue: 5 delivered-but-unfolded branches against GPT rule 1 threshold of 2
-- verdicts on the four lane branches, then fold in the order in docs/audits/2026-09-17-the-fold/INTEGRATION-MAP.md (doors BEFORE claim-screen, or the three-doors P0 is erased)
-- the binding verdict is on the POST-RECONCILIATION integration candidate, not the lane branch (GPT rule 2)
+- the candidate verdict lands → PASS folds cand-20260917 to canonical (doors land BEFORE claim-screen, which is what stops the three-doors P0 being erased) → deliveredUnfolded drops 5 to 3
+- then the RETURNED branches get fix rounds against the findings, and re-enter as a NEW candidate from the canonical of that moment — never re-verified as stale lanes
+- then the queue resumes
 
 ## meters
 ```
