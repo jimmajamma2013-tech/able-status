@@ -251,5 +251,11 @@
     "FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff",
     "FINISHED, UNRECORDED — pid 97998 is not in the process table and the seat has not written its outcome yet: c-identity r1 on cd7efdbd11 — five claims: the census is complete (independent grep), one facade with no caller migrated and equal outputs on real Maribou objects, the shadow ledger records a planted disagreement, nothing reaches a fan page (served HTML byte-identical), floor",
     "1 headless claude process(es) in the table at 2026-09-17T15:43:26.405Z (pid 82986 up 21:28) — 1 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T15:43:43.930Z"
+  }
 }
