@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-3 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 6 finished pieces of work are waiting to be checked and added in.
+5 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 6 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,14 +16,15 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 3 jobs are running (going 25:22, going 25:22, going 18:55).
-- ⚠️ The written description below may be out of date — it lists 6 but 3 jobs are actually running:
+- 5 jobs are running (going 28:11, going 21:44, going 01:27, going 00:10, going 00:10).
+- ⚠️ The written description below may be out of date — it lists 7 but 5 jobs are actually running:
   - A · Fable · in-session BUILDER
   - A · Fable · in-session BUILDER
   - A · Fable · VERIFIER on cand-play-20260917 @ 2223ef94fe
   - A · Fable · BUILDER on cand-claim-20260917 @ 0345ac0544
   - C · Fable · lane F fix round
-  - C · Fable · Bandcamp numeric ids through the promotion path
+  - C · Fable · VERIFIER: Bandcamp ids r1 on 3499e78b57
+  - C · Fable · BUILDER: Phase 4 points 46–49
 
 ## Waiting for you
 
@@ -33,7 +34,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **3 jobs** being built right now
+- **5 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **6 finished pieces** waiting to be checked and added in
 - Claude account A has used **31%** of its week — it refills **Sep 18 at 7pm**
@@ -60,13 +61,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T14:11:14.854Z · published by fold-root-20260916 (controller · Account B root, Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T14:14:03.711Z · published by fold-root-20260916 (controller · Account B root, Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T14:11:14.854Z**
+- **publishedAt: 2026-09-17T14:14:03.711Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **3** (pid 40179 up 25:22 · pid 40181 up 25:22 · pid 48461 up 18:55)
+- runningBuilders: **5** (pid 40179 up 28:11 · pid 48461 up 21:44 · pid 82942 up 01:27 · pid 84767 up 00:10 · pid 84769 up 00:10)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -85,15 +86,14 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: f1af69381774c9ba20ce9b480032d1933e8edb61  (fresh `git ls-remote`)
 - localCanonicalHead: f1af69381774c9ba20ce9b480032d1933e8edb61  · agrees
 - candidateBranch: cand-play-20260917 · candidateHead: 2223ef94fe042720164ee364dad17efa45625d59
-- lastVerifiedAt: 2026-09-17T14:11:13.891Z
+- lastVerifiedAt: 2026-09-17T14:14:02.750Z
 - subject: feat(capacity): the reserve floors become a machine — no account is driven to zero before its reset
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T14:11:30.911Z)
 
 ## candidates ready for verdict / fold
 - cand-play-20260917 @ 2223ef94fe — canonical + the play-button P0. Clean merge, 7 src files plus useFilmStart.ts and two new tests. VERDICT IN FLIGHT on A.
 - cand-claim-20260917 @ 0345ac0544 — canonical + consent-P0 + three-doors-P0, both clean, three-doors test present. Its two known defects are being fixed now, then it needs ONE fresh verdict on the post-fix SHA.
 - night-claim-screen-20260917 @ fba480c587 — RETURNED by lane review (35 findings, all survived adversarial refutation). Does not enter a candidate until its fixes land.
+- BANDCAMP-IDS @ 3499e78b57 — 17/17 album refs resolved through the promotion path, both controls, ids on ProviderObjectRef; PUSHED; builder's honest residue: the Work view's eye-check is red before AND after (126→169 P0, all inside provider iframes — an instrument question), tracks proven on a fixture only, the promotion gate not widened. r1 RUNNING on C.
 
 ## running lanes
 - A · Fable · in-session BUILDER (the Account A seat's) — fold-bc r2's one blocker B3: the renderer re-sorts a band composeWork had ordered (served on mother-2020) — in /Users/jamescuthbert/able-work/fold-bc-20260916
@@ -101,7 +101,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - A · Fable · VERIFIER on cand-play-20260917 @ 2223ef94fe — the founder-reported play-button P0, merged onto current canonical with zero conflicts. Five claims: the defect gone measured the way it was found (both engines, tap not mouse), the working tap not broken, pause + reduced motion, the new tests actually discriminate, floor. Log /tmp/night-verify-play.log
 - A · Fable · BUILDER on cand-claim-20260917 @ 0345ac0544 — closing the two defects two separate reviews found independently: the cleared domain ablemusic.co in a user-facing removal door, and the demoted phosphor green on the claim route; plus the three doors above the fold at 320 and 360. Log /tmp/night-fix-claim.log
 - C · Fable · lane F fix round (the other seat) — closing r3 F22 (the face collision moved to unmeasured sizes) and F23 (the record block outranking the lead)
-- C · Fable · Bandcamp numeric ids through the promotion path (the other seat)
+- C · Fable · VERIFIER: Bandcamp ids r1 on 3499e78b57 (five claims incl. the promotion-gate plant and the eye-check cross-origin question) — log /tmp/claude-c-bcv.log
+- C · Fable · BUILDER: Phase 4 points 46–49 — the identity-resolver census, one facade with unchanged behaviour, shadow mode + disagreement ledger over real Maribou objects (the Blackoak class) — new worktree /Users/jamescuthbert/able-work/c-identity; log /tmp/claude-c-identity.log
 
 ## blockers
 - THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure reads 4 delivered-but-unfolded product branches against a threshold of 2. It resumes when the candidates above fold.
