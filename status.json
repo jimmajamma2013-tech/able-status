@@ -64,31 +64,58 @@
     "bSeat": "fold-root-20260916 (Account B window, Opus 5 1M)",
     "cRule": "James, 2026-09-17: spend ALL of C before its Friday 22:59 reset — two lanes continuously, refilled by the A seat, down to the capacity guard's 12% floor. The control-room page's RESERVE label on C is the morning band and is superseded by this."
   },
+  "passed": [
+    "lane A provider data @ 48fe3fc28c — r3 PASS 8·7 (one hierarchy resolver, seven wrappers proved equal, the scan sees every shape)",
+    "BANDCAMP-IDS @ 3499e78b57 — r1 PASS (ids through the promotion path, both controls); folds behind the consent law",
+    "fold-bc: B1 consent law CLOSED (undecided → 0 third-party requests at three widths), B2 per-kind composition CLOSED in substance, B3 order fixed at 8275960165 (r3 running)",
+    "lane F: one candidate law for Room and Reel; parity S1–S3; the 834 door; the face probe at 13 sizes (r4 running)"
+  ],
+  "returned": [
+    "fold-bc r2 (4984346294): B3 — the renderer re-sorted one band; FIXED at 8275960165, awaiting r3",
+    "lane F r3 (36257f1b88): F22 face collision at unmeasured sizes, F23 record block outranking the lead — FIXED at 8bca66c4d0, awaiting r4; the builder names a NEW first-visit overlap at 1024×768",
+    "the 7 pre-existing red census tests (a C lane is closing them)",
+    "EYE-PROVIDER-INTERIOR: the eye counts provider iframe interiors as P0 — GATE-TRIAGE",
+    "Greptile silent since 06 Sep · GPT's private-repo grant"
+  ],
+  "doNotStart": [
+    "Phase 12+ (the reference cultural core, Film v2, the full Maribou gate) before the integrated fold ④",
+    "Materials/Bandcamp folds before the structural fold is clean",
+    "any new provider breadth before SourcePassport (Phase 6)",
+    "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
+  ],
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
   "remoteCanonicalHead": "f1af69381774c9ba20ce9b480032d1933e8edb61",
   "localCanonicalHead": "f1af69381774c9ba20ce9b480032d1933e8edb61",
   "canonicalAgree": true,
   "candidateHead": "2223ef94fe042720164ee364dad17efa45625d59",
-  "lastVerifiedAt": "2026-09-17T14:29:00.825Z",
+  "lastVerifiedAt": "2026-09-17T14:36:52.700Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "f1af69381774c9ba20ce9b480032d1933e8edb61",
     "subject": "feat(capacity): the reserve floors become a machine — no account is driven to zero before its reset"
   },
   "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  74%  ·  Fable  65%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 33% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T14:30:11.152Z",
+  "updatedAt": "2026-09-17T14:36:53.857Z",
   "machine": {
-    "derivedAt": "2026-09-17T14:30:11.152Z",
-    "runningBuilders": 2,
+    "derivedAt": "2026-09-17T14:36:53.857Z",
+    "runningBuilders": 4,
     "runningBuilderDetail": [
       {
-        "pid": "19171",
-        "elapsed": "01:19"
+        "pid": "19227",
+        "elapsed": "08:00"
       },
       {
-        "pid": "19227",
-        "elapsed": "01:18"
+        "pid": "27975",
+        "elapsed": "03:03"
+      },
+      {
+        "pid": "29822",
+        "elapsed": "01:35"
+      },
+      {
+        "pid": "29825",
+        "elapsed": "01:35"
       }
     ],
     "queueDepth": {
@@ -152,7 +179,7 @@
     },
     "builderBand": "≤55% → 2 builder(s)",
     "resets": {
-      "A": "Sep 18 at 7pm",
+      "A": "Sep 18 at 6:59pm",
       "B": "Sep 22 at 10:59pm"
     },
     "capacity": {
@@ -162,12 +189,6 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T14:30:11.152Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T14:30:27.631Z"
-  }
+  "publishedAt": "2026-09-17T14:36:53.857Z",
+  "statusAgeSeconds": 0
 }

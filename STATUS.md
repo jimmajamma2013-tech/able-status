@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 6 finished pieces of work are waiting to be checked and added in.
+4 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 6 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,8 +16,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 01:19, going 01:18).
-- ⚠️ The written description below may be out of date — it lists 7 but 2 jobs are actually running:
+- 4 jobs are running (going 08:00, going 03:03, going 01:35, going 01:35).
+- ⚠️ The written description below may be out of date — it lists 7 but 4 jobs are actually running:
   - A · Fable · in-session BUILDER
   - A · Fable · in-session BUILDER
   - A · Fable · VERIFIER on cand-play-20260917 @ 2223ef94fe
@@ -34,10 +34,10 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **2 jobs** being built right now
+- **4 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **6 finished pieces** waiting to be checked and added in
-- Claude account A has used **33%** of its week — it refills **Sep 18 at 7pm**
+- Claude account A has used **33%** of its week — it refills **Sep 18 at 6:59pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -45,7 +45,7 @@ should not be trusted. It is supposed to update itself._
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 33% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 33% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 6:59pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -61,13 +61,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T14:30:11.152Z · published by fold-root-20260916 (controller · Account B root, Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T14:36:53.857Z · published by fold-root-20260916 (controller · Account B root, Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T14:30:11.152Z**
+- **publishedAt: 2026-09-17T14:36:53.857Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 19171 up 01:19 · pid 19227 up 01:18)
+- runningBuilders: **4** (pid 19227 up 08:00 · pid 27975 up 03:03 · pid 29822 up 01:35 · pid 29825 up 01:35)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -86,10 +86,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: f1af69381774c9ba20ce9b480032d1933e8edb61  (fresh `git ls-remote`)
 - localCanonicalHead: f1af69381774c9ba20ce9b480032d1933e8edb61  · agrees
 - candidateBranch: cand-play-20260917 · candidateHead: 2223ef94fe042720164ee364dad17efa45625d59
-- lastVerifiedAt: 2026-09-17T14:29:00.825Z
+- lastVerifiedAt: 2026-09-17T14:36:52.700Z
 - subject: feat(capacity): the reserve floors become a machine — no account is driven to zero before its reset
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T14:30:27.631Z)
 
 ## candidates ready for verdict / fold
 - cand-play-20260917 @ 2223ef94fe — canonical + the play-button P0. Clean merge, 7 src files plus useFilmStart.ts and two new tests. VERDICT IN FLIGHT on A.
