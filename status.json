@@ -49,29 +49,25 @@
   "rootSeat": "⚠️ TWO SEATS OBSERVED ACTING AS ROOT: the Account B window committed 0b07d58071 on fold-bc-20260916 at 20:40 as author `t <t@t>` (set `git config user.name/email` there) and pushed it; the Account A seat (this file's author) is at 82% session and from here launches nothing new on Account A. ONE root: whichever seat James is typing in. Every launch is recorded in `running` below BEFORE it is made — read it before dispatching, never duplicate a lane.",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "c8e324222b1320644f8b3623e554e5d1a9d0de87",
-  "localCanonicalHead": "c8e324222b1320644f8b3623e554e5d1a9d0de87",
+  "remoteCanonicalHead": "336e418c11ebe71680347baa43f7992ff94717e9",
+  "localCanonicalHead": "336e418c11ebe71680347baa43f7992ff94717e9",
   "canonicalAgree": true,
   "candidateHead": "619a17d461f6ca728714aa8ad7839946f6e6eb3c",
-  "lastVerifiedAt": "2026-09-17T12:15:56.812Z",
+  "lastVerifiedAt": "2026-09-17T12:33:00.486Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "c8e324222b1320644f8b3623e554e5d1a9d0de87",
-    "subject": "feat(capacity): a local app showing every lane, and a lane with no meter says so"
+    "sha": "336e418c11ebe71680347baa43f7992ff94717e9",
+    "subject": "fix(capacity): the page blamed the server for its own bug, and three cards lied"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  26%  ·  Fable  41%  ·  resets Sep 18 at 7pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 26% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T12:16:56.059Z",
+  "meters": "C is signed in as <an account address, redacted from the public page>  ← the same one\n     So a third subscription you own is NOT reachable from this machine, and anything\n     run on profile C is charged to A. This is a login mistake, not a missing account.\n     Fix (needs the founder — it is his credential): CLAUDE_CONFIG_DIR=~/.claude-account-c claude auth login\n     and sign in as the THIRD account, not the one A already holds.\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 26% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T12:33:01.570Z",
   "machine": {
-    "derivedAt": "2026-09-17T12:16:56.060Z",
-    "runningBuilders": 2,
+    "derivedAt": "2026-09-17T12:33:01.570Z",
+    "runningBuilders": 1,
     "runningBuilderDetail": [
       {
-        "pid": "79483",
-        "elapsed": "07:16"
-      },
-      {
-        "pid": "84022",
-        "elapsed": "00:45"
+        "pid": "91636",
+        "elapsed": "03:54"
       }
     ],
     "queueDepth": {
@@ -143,14 +139,8 @@
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
       "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
-    "thirdProfile": "all three Claude accounts are separate and reachable"
+    "thirdProfile": "two of the three Claude profiles are signed into the SAME account, so one subscription is not reachable from this machine and work on that profile is billed to the wrong one. It is a login mistake, not a missing account — `npm run usage -- --all` prints which profile and the exact fix."
   },
-  "publishedAt": "2026-09-17T12:16:56.059Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T12:17:21.035Z"
-  }
+  "publishedAt": "2026-09-17T12:33:01.570Z",
+  "statusAgeSeconds": 0
 }

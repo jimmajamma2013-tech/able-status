@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 6 finished pieces of work are waiting to be checked and added in.
+1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 6 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,8 +16,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 07:16, going 00:45).
-- ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
+- 1 job is running (going 03:54).
+- ⚠️ The written description below may be out of date — it lists 0 but 1 job is actually running:
 
 
 ## Waiting for you
@@ -28,12 +28,12 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **2 jobs** being built right now
+- **1 job** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **6 finished pieces** waiting to be checked and added in
 - Claude account A has used **26%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **90%** of its week — it refills **Sep 22 at 10:59pm**
-- ⚠️ all three Claude accounts are separate and reachable
+- ⚠️ two of the three Claude profiles are signed into the SAME account, so one subscription is not reachable from this machine and work on that profile is billed to the wrong one. It is a login mistake, not a missing account — `npm run usage -- --all` prints which profile and the exact fix.
 
 ## Every model lane we can reach
 
@@ -55,13 +55,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T12:16:56.059Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T12:33:01.570Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T12:16:56.059Z**
+- **publishedAt: 2026-09-17T12:33:01.570Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 79483 up 07:16 · pid 84022 up 00:45)
+- runningBuilders: **1** (pid 91636 up 03:54)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -77,11 +77,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: c8e324222b1320644f8b3623e554e5d1a9d0de87  (fresh `git ls-remote`)
-- localCanonicalHead: c8e324222b1320644f8b3623e554e5d1a9d0de87  · agrees
+- remoteCanonicalHead: 336e418c11ebe71680347baa43f7992ff94717e9  (fresh `git ls-remote`)
+- localCanonicalHead: 336e418c11ebe71680347baa43f7992ff94717e9  · agrees
 - candidateBranch: cand-20260917 · candidateHead: 619a17d461f6ca728714aa8ad7839946f6e6eb3c
-- lastVerifiedAt: 2026-09-17T12:15:56.812Z
-- subject: feat(capacity): a local app showing every lane, and a lane with no meter says so
+- lastVerifiedAt: 2026-09-17T12:33:00.486Z
+- subject: fix(capacity): the page blamed the server for its own bug, and three cards lied
 
 ## candidates ready for verdict / fold
 - cand-20260917 @ 619a17d461 — THE INTEGRATION CANDIDATE, built from current canonical plus the consent P0 and the three-doors P0. VERDICT IN: RETURN, advisory 7/10, from a fresh instance that built none of it. PASS on 3 of 5 claims: consent IS genuinely enforced on the send path, the merge IS honest with nothing lost or double-applied, and the removal door DOES reach the real removal flow carrying its subject. RETURN on 2: after "This is mine" the other door hides below the first screen on small phones and no removal door is offered there; and the removal door lands on a page painted in the banned phosphor green that prints the cleared domain privacy@ablemusic.co. Full record: cand-20260917/VERDICT.md
@@ -107,11 +107,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## meters
 ```
-[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
-     [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
-
-[1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  26%  ·  Fable  41%  ·  resets Sep 18 at 7pm  ·  [32mgenuinely separate[0m
+C is signed in as <an account address, redacted from the public page>  ← the same one
+     So a third subscription you own is NOT reachable from this machine, and anything
+     run on profile C is charged to A. This is a login mistake, not a missing account.
+     Fix (needs the founder — it is his credential): CLAUDE_CONFIG_DIR=~/.claude-account-c claude auth login
+     and sign in as the THIRD account, not the one A already holds.
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
