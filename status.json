@@ -249,5 +249,11 @@
     "A · claude-fable-5-1 · BUILDER — THE WORK OPENING RECOMPOSED WITH QUICKLAUNCH (identity → sound → one human seam → QuickLaunch with one active mark → depth through doors; 'Listen elsewhere' retired) in quicklaunch-20260917 cut from canonical 60d0fd4cd5; task contract /tmp/packet-a-quicklaunch.md; journeys J1–J5 as Playwright on a served build; five claims for a fresh verifier (pid 85811 · log /tmp/claude-a-quicklaunch.log)",
     "A · claude-opus-5 · VERIFIER — exact Back + the sounding door r2 RE-STAMP on return-exact-20260917 @ 5dc4733dfe (the r1 fix round: one registry decides the door, the Work transport owns its stop, the sentence routed through soundLanguage): five claims on a served build at 390/834/1440, plus the builder's own disclosures attacked (the eye-checks ran before a late hook extraction; the film crossing at 1440 passed once, unexplained) (pid 3970 · log /tmp/claude-a-return-verdict-r2.log)",
     "2 headless claude process(es) in the table at 2026-09-17T21:33:30.974Z (pid 3970 up 01:14, pid 85811 up 01:02:28) — 2 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T21:33:46.476Z"
+  }
 }

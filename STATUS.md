@@ -84,6 +84,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-17T21:32:36.817Z
 - subject: docs(decisions): message 13 — can the lane move at ten, answered with the meters; the controller seat moves to Opus 5
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T21:33:46.476Z)
+
 ## candidates ready for verdict / fold
 - return-exact-20260917 @ 5dc4733dfe — the r1 RETURN closed in one round (B1 the door was inert: one registry now decides and the DOM attribute follows it; B2 the destination carries a reachable stop for the current sound; B3 the sentence composed through soundLanguage); its own floor: tsc 0, build:check 0, the walk Δscroll 0 at both widths, lineage 0, eye-check 0 P0 on three planes — the r2 re-stamp is RUNNING and decides the fold
 - THE INTEGRATED FOLD ④ @ c600dfd033 (pushed) — r1's two blockers closed at 05b9287474 (B1: the lead Work draws its people through originalOf, one-served-lineage exits 0 on the served HEAD; B2: the adapter's two stand-ins deleted, 0 hits for any table or kind derivation outside the domain, 27 of 30 releases compose identically and the three that changed are declared). Named, not proven: providers/manifestationKind.ts still derives a kind outside the domain; Deezer's embed capability disagrees with the stage; Mother draws no All-credits door; lineage does not yet ride the merge step. r2 VERDICT RUNNING on A.
