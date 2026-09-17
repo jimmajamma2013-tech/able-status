@@ -1,6 +1,7 @@
 {
-  "seat": "fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code)",
+  "seat": "fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code)",
   "readyForVerdict": [
+    "return-exact-20260917 @ 5dc4733dfe — the r1 RETURN closed in one round (B1 the door was inert: one registry now decides and the DOM attribute follows it; B2 the destination carries a reachable stop for the current sound; B3 the sentence composed through soundLanguage); its own floor: tsc 0, build:check 0, the walk Δscroll 0 at both widths, lineage 0, eye-check 0 P0 on three planes — the r2 re-stamp is RUNNING and decides the fold",
     "THE INTEGRATED FOLD ④ @ c600dfd033 (pushed) — r1's two blockers closed at 05b9287474 (B1: the lead Work draws its people through originalOf, one-served-lineage exits 0 on the served HEAD; B2: the adapter's two stand-ins deleted, 0 hits for any table or kind derivation outside the domain, 27 of 30 releases compose identically and the three that changed are declared). Named, not proven: providers/manifestationKind.ts still derives a kind outside the domain; Deezer's embed capability disagrees with the stage; Mother draws no All-credits door; lineage does not yet ride the merge step. r2 VERDICT RUNNING on A.",
     "fold-bc-20260916 @ 8275960165 — r3 PASS (B3 closed; nothing r2 held regressed); FOLD-ELIGIBLE for the integrated fold ④ only",
     "lane A provider data @ 48fe3fc28c — r3 PASS 8·7; waits in the integrated fold ④",
@@ -21,12 +22,12 @@
     },
     {
       "account": "A",
-      "model": "claude-fable-5-1",
-      "role": "BUILDER (fix round)",
-      "task": "exact Back + the sounding door r1 RETURN closes (B1 the door is inert — registry vs DOM disagree; B2 the destination carries no pause; B3 a hand-typed sound sentence) in return-exact-20260917 on 234b0a7933; ≤45 min; a different fresh instance re-stamps",
-      "log": "/tmp/claude-a-return-fix.log",
-      "worktree": "/Users/jamescuthbert/able-work/return-exact-20260917",
-      "pid": 99304
+      "model": "claude-opus-5",
+      "role": "VERIFIER",
+      "task": "exact Back + the sounding door r2 RE-STAMP on return-exact-20260917 @ 5dc4733dfe (the r1 fix round: one registry decides the door, the Work transport owns its stop, the sentence routed through soundLanguage): five claims on a served build at 390/834/1440, plus the builder's own disclosures attacked (the eye-checks ran before a late hook extraction; the film crossing at 1440 passed once, unexplained)",
+      "log": "/tmp/claude-a-return-verdict-r2.log",
+      "worktree": "/Users/jamescuthbert/able-work/verify-return-exact-r2",
+      "pid": 3970
     }
   ],
   "blockers": [
@@ -128,35 +129,31 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-17T21:24:31.139Z",
+  "updatedAt": "2026-09-17T21:33:30.974Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "de0407140ca0e555eac29055798253e075bb41ae",
-  "localCanonicalHead": "de0407140ca0e555eac29055798253e075bb41ae",
+  "remoteCanonicalHead": "1958d770173f8d3ac7da2c25212f9d79fa05f214",
+  "localCanonicalHead": "1958d770173f8d3ac7da2c25212f9d79fa05f214",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-17T21:24:30.338Z",
+  "lastVerifiedAt": "2026-09-17T21:32:36.817Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "de0407140ca0e555eac29055798253e075bb41ae",
-    "subject": "feat(scripts): fold-commit — a verified branch lands on canonical in one commit attempt, with the two proofs and the census computed"
+    "sha": "1958d770173f8d3ac7da2c25212f9d79fa05f214",
+    "subject": "docs(decisions): message 13 — can the lane move at ten, answered with the meters; the controller seat moves to Opus 5"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 60% → \u001b[1m1 builder(s)\u001b[0m · one builder + an occasional verifier\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 61% → \u001b[1m1 builder(s)\u001b[0m · one builder + an occasional verifier\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-17T21:24:31.140Z",
-    "runningBuilders": 3,
+    "derivedAt": "2026-09-17T21:33:30.974Z",
+    "runningBuilders": 2,
     "runningBuilderDetail": [
       {
-        "pid": "83757",
-        "elapsed": "01:04"
+        "pid": "3970",
+        "elapsed": "01:14"
       },
       {
         "pid": "85811",
-        "elapsed": "53:28"
-      },
-      {
-        "pid": "99304",
-        "elapsed": "42:21"
+        "elapsed": "01:02:28"
       }
     ],
     "queueDepth": {
@@ -209,7 +206,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 60,
+      "A": 61,
       "B": 91
     },
     "builderBand": "55–65% → 1 builder(s)",
@@ -220,11 +217,11 @@
     "capacity": {
       "codex": "Codex / Astra UNKNOWN — The provider reports a reached account limit",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
-      "local": "Local (Ollama) devstral:24b · qwen3-coder:30b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
+      "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T21:24:31.139Z",
+  "publishedAt": "2026-09-17T21:33:30.974Z",
   "statusAgeSeconds": 0,
   "runningAlive": [
     {
@@ -238,25 +235,19 @@
     },
     {
       "account": "A",
-      "model": "claude-fable-5-1",
-      "role": "BUILDER (fix round)",
-      "task": "exact Back + the sounding door r1 RETURN closes (B1 the door is inert — registry vs DOM disagree; B2 the destination carries no pause; B3 a hand-typed sound sentence) in return-exact-20260917 on 234b0a7933; ≤45 min; a different fresh instance re-stamps",
-      "log": "/tmp/claude-a-return-fix.log",
-      "worktree": "/Users/jamescuthbert/able-work/return-exact-20260917",
-      "pid": 99304
+      "model": "claude-opus-5",
+      "role": "VERIFIER",
+      "task": "exact Back + the sounding door r2 RE-STAMP on return-exact-20260917 @ 5dc4733dfe (the r1 fix round: one registry decides the door, the Work transport owns its stop, the sentence routed through soundLanguage): five claims on a served build at 390/834/1440, plus the builder's own disclosures attacked (the eye-checks ran before a late hook extraction; the film crossing at 1440 passed once, unexplained)",
+      "log": "/tmp/claude-a-return-verdict-r2.log",
+      "worktree": "/Users/jamescuthbert/able-work/verify-return-exact-r2",
+      "pid": 3970
     }
   ],
   "runningDead": [],
   "runningUnverified": [],
   "runningRendered": [
     "A · claude-fable-5-1 · BUILDER — THE WORK OPENING RECOMPOSED WITH QUICKLAUNCH (identity → sound → one human seam → QuickLaunch with one active mark → depth through doors; 'Listen elsewhere' retired) in quicklaunch-20260917 cut from canonical 60d0fd4cd5; task contract /tmp/packet-a-quicklaunch.md; journeys J1–J5 as Playwright on a served build; five claims for a fresh verifier (pid 85811 · log /tmp/claude-a-quicklaunch.log)",
-    "A · claude-fable-5-1 · BUILDER (fix round) — exact Back + the sounding door r1 RETURN closes (B1 the door is inert — registry vs DOM disagree; B2 the destination carries no pause; B3 a hand-typed sound sentence) in return-exact-20260917 on 234b0a7933; ≤45 min; a different fresh instance re-stamps (pid 99304 · log /tmp/claude-a-return-fix.log)",
-    "3 headless claude process(es) in the table at 2026-09-17T21:24:31.140Z (pid 83757 up 01:04, pid 85811 up 53:28, pid 99304 up 42:21) — 2 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T21:24:46.583Z"
-  }
+    "A · claude-opus-5 · VERIFIER — exact Back + the sounding door r2 RE-STAMP on return-exact-20260917 @ 5dc4733dfe (the r1 fix round: one registry decides the door, the Work transport owns its stop, the sentence routed through soundLanguage): five claims on a served build at 390/834/1440, plus the builder's own disclosures attacked (the eye-checks ran before a late hook extraction; the film crossing at 1440 passed once, unexplained) (pid 3970 · log /tmp/claude-a-return-verdict-r2.log)",
+    "2 headless claude process(es) in the table at 2026-09-17T21:33:30.974Z (pid 3970 up 01:14, pid 85811 up 01:02:28) — 2 of them recorded as lanes above"
+  ]
 }
