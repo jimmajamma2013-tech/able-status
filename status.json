@@ -244,5 +244,11 @@
     "C · claude-fable-5-1 · VERIFIER — c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff (pid 70388 · log /tmp/claude-c-census-v.log)",
     "FINISHED, UNRECORDED — pid 72737 is not in the process table and the seat has not written its outcome yet: the 2026-09-14 local-model trial, run for the first time (its 09-14 runs all failed on Node 18 resolving localhost to ::1; the runner is pointed at 127.0.0.1): three oracle-checked tasks per model, then scoring against the committed oracles",
     "2 headless claude process(es) in the table at 2026-09-17T15:15:01.887Z (pid 70387 up 07:25, pid 70388 up 07:25) — 2 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-17T15:15:24.201Z"
+  }
 }
