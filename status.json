@@ -58,25 +58,25 @@
   "localCanonicalHead": "11dc4a4bc4e7d467db139399d3b5ce32e3fe132a",
   "canonicalAgree": true,
   "candidateHead": "UNKNOWN",
-  "lastVerifiedAt": "2026-09-17T09:44:52.954Z",
+  "lastVerifiedAt": "2026-09-17T09:45:53.404Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "11dc4a4bc4e7d467db139399d3b5ce32e3fe132a",
     "subject": "docs(fold): four branches measured by trial merge — one collision, and its cause"
   },
-  "meters": "resets Sep 22 at 11pm   \u001b[2m11% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 25% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T09:44:53.848Z",
+  "meters": "resets Sep 22 at 11pm   \u001b[2m11% of the week left · the labour lane — heavy work belongs here\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 25% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T09:45:54.511Z",
   "machine": {
-    "derivedAt": "2026-09-17T09:44:53.848Z",
+    "derivedAt": "2026-09-17T09:45:54.511Z",
     "runningBuilders": 2,
     "runningBuilderDetail": [
       {
         "pid": "9236",
-        "elapsed": "34:55"
+        "elapsed": "35:56"
       },
       {
         "pid": "74614",
-        "elapsed": "58:22"
+        "elapsed": "59:23"
       }
     ],
     "queueDepth": {
@@ -129,12 +129,6 @@
     },
     "builderBand": "≤55% → 2 builder(s)"
   },
-  "publishedAt": "2026-09-17T09:44:53.848Z",
-  "statusAgeSeconds": 0,
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T09:45:09.981Z"
-  }
+  "publishedAt": "2026-09-17T09:45:54.511Z",
+  "statusAgeSeconds": 0
 }

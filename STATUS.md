@@ -1,11 +1,11 @@
 # ABLE · LIVE STATUS
-_2026-09-17T09:44:53.848Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T09:45:54.511Z · published by fold-root-20260916 (Account A root, Claude Opus 5 1M) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T09:44:53.848Z**
+- **publishedAt: 2026-09-17T09:45:54.511Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 9236 up 34:55 · pid 74614 up 58:22)
+- runningBuilders: **2** (pid 9236 up 35:56 · pid 74614 up 59:23)
 - queueDepth: product **13** · ci **1**
 - queueNext: product `p3-authority` · ci `p2-gates`
 - deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ 97111c83d1 (+2) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
@@ -22,10 +22,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 11dc4a4bc4e7d467db139399d3b5ce32e3fe132a  (fresh `git ls-remote`)
 - localCanonicalHead: 11dc4a4bc4e7d467db139399d3b5ce32e3fe132a  · agrees
 - candidateBranch: none — four lane branches await verdicts; see machine.deliveredUnfolded · candidateHead: UNKNOWN
-- lastVerifiedAt: 2026-09-17T09:44:52.954Z
+- lastVerifiedAt: 2026-09-17T09:45:53.404Z
 - subject: docs(fold): four branches measured by trial merge — one collision, and its cause
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T09:45:09.981Z)
 
 ## candidates ready for verdict / fold
 - lane A provider data @ c5e927bac0 (+ its r3 verdict) — r3 PASS 8·7: step ① CLOSED; folds in the integrated fold ④ (hard gate there: providerOrder.ts/providerCapabilities.ts absorbed into the one resolver and the capability projection)
@@ -61,7 +59,7 @@ resets Sep 22 at 11pm   [2m11% of the week left · the labour lane — heavy wo
 [1m🌐 EVERY LANE WE OWN[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
 [1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 25% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
