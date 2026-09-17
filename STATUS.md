@@ -16,8 +16,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
+- A · INTEGRATION BUILDER
 - C · BUILDER
-- C · VERIFIER
 
 ## Waiting for you
 
@@ -30,7 +30,7 @@ should not be trusted. It is supposed to update itself._
 - **2 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
-- Claude account A has used **35%** of its week — it refills **Sep 18 at 7pm**
+- Claude account A has used **36%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -38,7 +38,7 @@ should not be trusted. It is supposed to update itself._
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 35% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 36% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -54,20 +54,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-17T15:15:01.887Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-17T15:22:46.694Z · published by fable-root-a (controller · Account A root, Claude Fable 5.1, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-17T15:15:01.887Z**
+- **publishedAt: 2026-09-17T15:22:46.694Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 70387 up 07:25 · pid 70388 up 07:25)
+- runningBuilders: **2** (pid 70387 up 15:10 · pid 82986 up 00:48)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
 - verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
-- meters weekly: A **35%** · B **91%** · band: ≤55% → 2 builder(s)
+- meters weekly: A **36%** · B **91%** · band: ≤55% → 2 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -76,13 +76,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 956e614e4034bf7f26b1ed4fc5e49a6730db4501  (fresh `git ls-remote`)
-- localCanonicalHead: 956e614e4034bf7f26b1ed4fc5e49a6730db4501  · agrees
+- remoteCanonicalHead: d209087f8a03874eb5d49295c7433e88d1f95749  (fresh `git ls-remote`)
+- localCanonicalHead: d209087f8a03874eb5d49295c7433e88d1f95749  · agrees
 - candidateBranch: fold-int-20260916 · candidateHead: NOT ON REMOTE
-- lastVerifiedAt: 2026-09-17T15:14:09.803Z
-- subject: feat(film): the founder's dead play button is folded to canonical — the film mounts on the first tap (cand-play r1 PASS)
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-17T15:15:24.201Z)
+- lastVerifiedAt: 2026-09-17T15:22:45.757Z
+- subject: docs(control-room): the room is installed — 02 and 05 land, the screenshots mirror, ABLE NOW has one state object
 
 ## candidates ready for verdict / fold
 - c-census-green-20260917 @ 99b432933a (product commit b0f860a404) — the seven standing red census tests closed by routing through the one language composer; builder confidence 8/10, not self-certified; r1 VERDICT RUNNING on C
@@ -96,10 +94,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - LANE MATERIALS — STRANDED again: 26 dirty files in /Users/jamescuthbert/Able/.claude/worktrees/agent-ad409ed963fb3ce99, no commit (its in-session builder died with the 14:40Z window kill); needs a resume builder
 
 ## running lanes
+- A · claude-opus-5 · INTEGRATION BUILDER — the integrated fold ④ — rebuild fold-int-20260916 from canonical d209087f8a by merge, merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp bff0ffcb77 (known conflicts: actSpec.ts, four eye-check receipts, SEATS.md), then the hard gate: providerOrder.ts and providerCapabilities.ts absorbed into resolveProviderHierarchy and the domain capability projection; proof floor at 390/834/1440; RECORD.md with five claims; no self-certification (pid 82986 · log /tmp/claude-a-int.log)
 - C · claude-fable-5-1 · BUILDER — lane F r5 — the r4 work order: F25 the title x/y-disjoint from the consent notice by construction, F25's first-visit probe on the public route (red on the parent, green after), F24 three more sizes (pid 70387 · log /tmp/claude-c-f6.log)
-- C · claude-fable-5-1 · VERIFIER — c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff (pid 70388 · log /tmp/claude-c-census-v.log)
-- FINISHED, UNRECORDED — pid 72737 is not in the process table and the seat has not written its outcome yet: the 2026-09-14 local-model trial, run for the first time (its 09-14 runs all failed on Node 18 resolving localhost to ::1; the runner is pointed at 127.0.0.1): three oracle-checked tasks per model, then scoring against the committed oracles
-- 2 headless claude process(es) in the table at 2026-09-17T15:15:01.887Z (pid 70387 up 07:25, pid 70388 up 07:25) — 2 of them recorded as lanes above
+- FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the local-model trial: a deterministic scorer against the committed oracles for devstral · qwen3-coder · gpt-oss on tasks A/B/C, then the six empty REPORT.md sections filled with measured numbers
+- 2 headless claude process(es) in the table at 2026-09-17T15:22:46.694Z (pid 70387 up 15:10, pid 82986 up 00:48) — 2 of them recorded as lanes above
 
 ## blockers
 - THE PRODUCT QUEUE IS STILL PAUSED BY RULE — 14 packets held in QUEUE/tasks-paused.txt, none lost. Backpressure counts delivered-but-unfolded product branches (lane A · fold-bc · Bandcamp · c-census · c-identity = 5) against a threshold of 2. The integrated fold ④ is the one action that clears it.
@@ -113,11 +112,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - which Claude capacity to buy · actions 949–1000
 
 ## next actions (in order)
-- COMMIT → PUSH → DRIVE-MIRROR the complete control room (02 NORTH STAR, 05 VISUAL NORTH STAR, screenshots/, the standing instruction in 00) so every account boots from the same doorway — in progress on this seat
-- the integrated fold ④: merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp 3499e78b57 into fold-int-20260916 (by merge, from current canonical), then ONE builder absorbs lane B's providerOrder.ts and providerCapabilities.ts into lane A's resolver and capability projection (the hard gate), proof floor at 390/834/1440 DUAL and WIDE, one integrated verdict with the attached acceptances, fold to canonical
-- lane F r5 lands → fresh verdict → joins ④ (or the next fold); the c-census verdict lands → PASS folds with ④; c-identity gets its verdict on C (Opus)
-- resume the two stranded builders on A within its band of two: Materials (26 files → one commit → verdict) and the cand-claim fix (25 staged → commit → re-cut the candidate → ONE verdict → fold)
-- backpressure clears → the 14-packet 310-point queue resumes on A; then ⑤ Materials / Bandcamp folds and ⑥ the reference Work
+- the integrated fold ④ lands on fold-int-20260916 → push by reference → ONE fresh adversarial verdict (Fable on A, five claims, the attached acceptances: QuickLaunch present or named for ⑥ · real proof at 390/834/1440 DUAL and WIDE · lane A's federation pieces survive · consent-zero · the play button still mounts on the first tap) → PASS folds to canonical → backpressure drops
+- the c-census verdict (C) → PASS folds with or right after ④; c-identity @ cd7efdbd11 (pushed) gets its verdict on A Fable once the scorer finishes (A band: two)
+- lane F r5 lands (C) → fresh verdict → joins the next fold
+- resume the two stranded builders on A within its band: Materials (26 files → one commit → verdict) and the cand-claim fix (25 staged → commit → re-cut → ONE verdict → fold); at most one product branch waiting for integration from here
+- backpressure clears → the 14-packet 310-point queue resumes on A; then ⑤ Materials / Bandcamp and ⑥ the reference Work — the founder's ten-step order in 00
 
 ## meters
 ```
@@ -125,11 +124,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  77%  ·  Fable  71%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  78%  ·  Fable  72%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 35% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 36% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```

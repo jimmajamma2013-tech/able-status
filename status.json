@@ -13,6 +13,15 @@
   ],
   "running": [
     {
+      "account": "A",
+      "model": "claude-opus-5",
+      "role": "INTEGRATION BUILDER",
+      "task": "the integrated fold ④ — rebuild fold-int-20260916 from canonical d209087f8a by merge, merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp bff0ffcb77 (known conflicts: actSpec.ts, four eye-check receipts, SEATS.md), then the hard gate: providerOrder.ts and providerCapabilities.ts absorbed into resolveProviderHierarchy and the domain capability projection; proof floor at 390/834/1440; RECORD.md with five claims; no self-certification",
+      "pid": 82986,
+      "log": "/tmp/claude-a-int.log",
+      "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916"
+    },
+    {
       "account": "C",
       "model": "claude-fable-5-1",
       "role": "BUILDER",
@@ -31,13 +40,11 @@
       "worktree": "/Users/jamescuthbert/able-work/c-census"
     },
     {
-      "account": "local",
-      "model": "devstral:24b · qwen3-coder:30b · gpt-oss:20b",
-      "role": "TRIAL",
-      "task": "the 2026-09-14 local-model trial, run for the first time (its 09-14 runs all failed on Node 18 resolving localhost to ::1; the runner is pointed at 127.0.0.1): three oracle-checked tasks per model, then scoring against the committed oracles",
-      "pid": 72737,
-      "log": "/tmp/local-trial.log",
-      "worktree": "/Users/jamescuthbert/able-work/codex-continuation-20260913/docs/audits/2026-09-14-local-model-trial"
+      "account": "A",
+      "model": "claude-sonnet-5 (in-session)",
+      "role": "SCORER",
+      "task": "the local-model trial: a deterministic scorer against the committed oracles for devstral · qwen3-coder · gpt-oss on tasks A/B/C, then the six empty REPORT.md sections filled with measured numbers",
+      "log": "/tmp/local-trial.log"
     }
   ],
   "blockers": [
@@ -52,11 +59,11 @@
     "which Claude capacity to buy · actions 949–1000"
   ],
   "next": [
-    "COMMIT → PUSH → DRIVE-MIRROR the complete control room (02 NORTH STAR, 05 VISUAL NORTH STAR, screenshots/, the standing instruction in 00) so every account boots from the same doorway — in progress on this seat",
-    "the integrated fold ④: merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp 3499e78b57 into fold-int-20260916 (by merge, from current canonical), then ONE builder absorbs lane B's providerOrder.ts and providerCapabilities.ts into lane A's resolver and capability projection (the hard gate), proof floor at 390/834/1440 DUAL and WIDE, one integrated verdict with the attached acceptances, fold to canonical",
-    "lane F r5 lands → fresh verdict → joins ④ (or the next fold); the c-census verdict lands → PASS folds with ④; c-identity gets its verdict on C (Opus)",
-    "resume the two stranded builders on A within its band of two: Materials (26 files → one commit → verdict) and the cand-claim fix (25 staged → commit → re-cut the candidate → ONE verdict → fold)",
-    "backpressure clears → the 14-packet 310-point queue resumes on A; then ⑤ Materials / Bandcamp folds and ⑥ the reference Work"
+    "the integrated fold ④ lands on fold-int-20260916 → push by reference → ONE fresh adversarial verdict (Fable on A, five claims, the attached acceptances: QuickLaunch present or named for ⑥ · real proof at 390/834/1440 DUAL and WIDE · lane A's federation pieces survive · consent-zero · the play button still mounts on the first tap) → PASS folds to canonical → backpressure drops",
+    "the c-census verdict (C) → PASS folds with or right after ④; c-identity @ cd7efdbd11 (pushed) gets its verdict on A Fable once the scorer finishes (A band: two)",
+    "lane F r5 lands (C) → fresh verdict → joins the next fold",
+    "resume the two stranded builders on A within its band: Materials (26 files → one commit → verdict) and the cand-claim fix (25 staged → commit → re-cut → ONE verdict → fold); at most one product branch waiting for integration from here",
+    "backpressure clears → the 14-packet 310-point queue resumes on A; then ⑤ Materials / Bandcamp and ⑥ the reference Work — the founder's ten-step order in 00"
   ],
   "candidateBranch": "fold-int-20260916",
   "resume": {
@@ -68,6 +75,13 @@
     ],
     "integratedFoldWorktree": "/Users/jamescuthbert/able-work/fold-int-20260916 — branch fold-int-20260916, clean at d0e43d00c9; rebuild it from current canonical by merge before ④",
     "headlessBuilders": [
+      {
+        "account": "A",
+        "pid": 82986,
+        "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916",
+        "log": "/tmp/claude-a-int.log",
+        "task": "the integrated fold ④ (Opus)"
+      },
       {
         "account": "C",
         "pid": 70387,
@@ -93,6 +107,7 @@
     "cRule": "James, 2026-09-17: spend ALL of C before its Friday 22:59 reset — two lanes continuously, refilled by the A seat, down to the capacity guard's 12% floor. At ≤25% of the week left the guard names Opus; the next C dispatches use claude-opus-5."
   },
   "passed": [
+    "the control room is INSTALLED: 00–05 + screenshots/ on canonical at d209087f8a, mirrored whole to Drive on every publish; ABLE NOW renders from one state object (process table + capacity file)",
     "cand-play (the founder-reported play button) FOLDED to canonical at 956e614e40 — r1 PASS on 2223ef94fe; the fold's src/tests tree byte-identical to the verified SHA; eye-check re-run PASS 0 P0 on the served fold build",
     "fold-bc r3 PASS @ 8275960165 — B3 closed on the served page and defended by a test that fails by name for three different re-sorts; FOLD-ELIGIBLE for ④",
     "lane A provider data @ 48fe3fc28c — r3 PASS 8·7 (one hierarchy resolver, seven wrappers proved equal, the scan sees every shape)",
@@ -115,29 +130,29 @@
   ],
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "956e614e4034bf7f26b1ed4fc5e49a6730db4501",
-  "localCanonicalHead": "956e614e4034bf7f26b1ed4fc5e49a6730db4501",
+  "remoteCanonicalHead": "d209087f8a03874eb5d49295c7433e88d1f95749",
+  "localCanonicalHead": "d209087f8a03874eb5d49295c7433e88d1f95749",
   "canonicalAgree": true,
   "candidateHead": "NOT ON REMOTE",
-  "lastVerifiedAt": "2026-09-17T15:14:09.803Z",
+  "lastVerifiedAt": "2026-09-17T15:22:45.757Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "956e614e4034bf7f26b1ed4fc5e49a6730db4501",
-    "subject": "feat(film): the founder's dead play button is folded to canonical — the film mounts on the first tap (cand-play r1 PASS)"
+    "sha": "d209087f8a03874eb5d49295c7433e88d1f95749",
+    "subject": "docs(control-room): the room is installed — 02 and 05 land, the screenshots mirror, ABLE NOW has one state object"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  77%  ·  Fable  71%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 35% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
-  "updatedAt": "2026-09-17T15:15:01.887Z",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  78%  ·  Fable  72%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 36% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "updatedAt": "2026-09-17T15:22:46.694Z",
   "machine": {
-    "derivedAt": "2026-09-17T15:15:01.887Z",
+    "derivedAt": "2026-09-17T15:22:46.694Z",
     "runningBuilders": 2,
     "runningBuilderDetail": [
       {
         "pid": "70387",
-        "elapsed": "07:25"
+        "elapsed": "15:10"
       },
       {
-        "pid": "70388",
-        "elapsed": "07:25"
+        "pid": "82986",
+        "elapsed": "00:48"
       }
     ],
     "queueDepth": {
@@ -190,7 +205,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 35,
+      "A": 36,
       "B": 91
     },
     "builderBand": "≤55% → 2 builder(s)",
@@ -205,9 +220,18 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-17T15:15:01.887Z",
+  "publishedAt": "2026-09-17T15:22:46.694Z",
   "statusAgeSeconds": 0,
   "runningAlive": [
+    {
+      "account": "A",
+      "model": "claude-opus-5",
+      "role": "INTEGRATION BUILDER",
+      "task": "the integrated fold ④ — rebuild fold-int-20260916 from canonical d209087f8a by merge, merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp bff0ffcb77 (known conflicts: actSpec.ts, four eye-check receipts, SEATS.md), then the hard gate: providerOrder.ts and providerCapabilities.ts absorbed into resolveProviderHierarchy and the domain capability projection; proof floor at 390/834/1440; RECORD.md with five claims; no self-certification",
+      "pid": 82986,
+      "log": "/tmp/claude-a-int.log",
+      "worktree": "/Users/jamescuthbert/able-work/fold-int-20260916"
+    },
     {
       "account": "C",
       "model": "claude-fable-5-1",
@@ -216,7 +240,9 @@
       "pid": 70387,
       "log": "/tmp/claude-c-f6.log",
       "worktree": "/Users/jamescuthbert/Able/.claude/worktrees/agent-a4b8bacec2f27ab91"
-    },
+    }
+  ],
+  "runningDead": [
     {
       "account": "C",
       "model": "claude-fable-5-1",
@@ -227,28 +253,20 @@
       "worktree": "/Users/jamescuthbert/able-work/c-census"
     }
   ],
-  "runningDead": [
+  "runningUnverified": [
     {
-      "account": "local",
-      "model": "devstral:24b · qwen3-coder:30b · gpt-oss:20b",
-      "role": "TRIAL",
-      "task": "the 2026-09-14 local-model trial, run for the first time (its 09-14 runs all failed on Node 18 resolving localhost to ::1; the runner is pointed at 127.0.0.1): three oracle-checked tasks per model, then scoring against the committed oracles",
-      "pid": 72737,
-      "log": "/tmp/local-trial.log",
-      "worktree": "/Users/jamescuthbert/able-work/codex-continuation-20260913/docs/audits/2026-09-14-local-model-trial"
+      "account": "A",
+      "model": "claude-sonnet-5 (in-session)",
+      "role": "SCORER",
+      "task": "the local-model trial: a deterministic scorer against the committed oracles for devstral · qwen3-coder · gpt-oss on tasks A/B/C, then the six empty REPORT.md sections filled with measured numbers",
+      "log": "/tmp/local-trial.log"
     }
   ],
-  "runningUnverified": [],
   "runningRendered": [
+    "A · claude-opus-5 · INTEGRATION BUILDER — the integrated fold ④ — rebuild fold-int-20260916 from canonical d209087f8a by merge, merge lane A 48fe3fc28c + fold-bc 8275960165 + Bandcamp bff0ffcb77 (known conflicts: actSpec.ts, four eye-check receipts, SEATS.md), then the hard gate: providerOrder.ts and providerCapabilities.ts absorbed into resolveProviderHierarchy and the domain capability projection; proof floor at 390/834/1440; RECORD.md with five claims; no self-certification (pid 82986 · log /tmp/claude-a-int.log)",
     "C · claude-fable-5-1 · BUILDER — lane F r5 — the r4 work order: F25 the title x/y-disjoint from the consent notice by construction, F25's first-visit probe on the public route (red on the parent, green after), F24 three more sizes (pid 70387 · log /tmp/claude-c-f6.log)",
-    "C · claude-fable-5-1 · VERIFIER — c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff (pid 70388 · log /tmp/claude-c-census-v.log)",
-    "FINISHED, UNRECORDED — pid 72737 is not in the process table and the seat has not written its outcome yet: the 2026-09-14 local-model trial, run for the first time (its 09-14 runs all failed on Node 18 resolving localhost to ::1; the runner is pointed at 127.0.0.1): three oracle-checked tasks per model, then scoring against the committed oracles",
-    "2 headless claude process(es) in the table at 2026-09-17T15:15:01.887Z (pid 70387 up 07:25, pid 70388 up 07:25) — 2 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-17T15:15:24.201Z"
-  }
+    "FINISHED, UNRECORDED — pid 70388 is not in the process table and the seat has not written its outcome yet: c-census r1 on 99b432933a — five claims: the class shrinks (45→43, no baseline raised), sound strings byte-identical on the served build, counted strings never on a fan page, floor reproduced at the parent, escapes true of the diff",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): the local-model trial: a deterministic scorer against the committed oracles for devstral · qwen3-coder · gpt-oss on tasks A/B/C, then the six empty REPORT.md sections filled with measured numbers",
+    "2 headless claude process(es) in the table at 2026-09-17T15:22:46.694Z (pid 70387 up 15:10, pid 82986 up 00:48) — 2 of them recorded as lanes above"
+  ]
 }
