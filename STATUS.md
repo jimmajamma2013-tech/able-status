@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-Nothing is being built at this moment, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,7 +16,9 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 ## Being worked on right now
 
-- Nothing is being built at this moment.
+- 2 jobs are running (going 01:19, going 01:19).
+- ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
+
 
 ## Waiting for you
 
@@ -30,7 +32,7 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 ## The numbers, in plain words
 
-- **0 jobs** being built right now
+- **2 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
 - Claude account A has used **83%** of its week — it refills **Sep 18 at 7pm**
@@ -57,13 +59,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T10:54:18.786Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T10:58:43.521Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T10:54:18.786Z**
+- **publishedAt: 2026-09-18T10:58:43.521Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **0**
+- runningBuilders: **2** (pid 51439 up 01:19 · pid 51441 up 01:19)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -79,27 +81,23 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 77773e08741040ca4b77b27d9f685d04b3578683  (fresh `git ls-remote`)
-- localCanonicalHead: 77773e08741040ca4b77b27d9f685d04b3578683  · agrees
+- remoteCanonicalHead: ba05715639e2ae68f0432c544ed0463d46deee46  (fresh `git ls-remote`)
+- localCanonicalHead: ba05715639e2ae68f0432c544ed0463d46deee46  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T10:54:17.642Z
-- subject: docs(reel): the nine-stage Reel census lands and is published for GPT; the second Step 2 brief baked verbatim
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T10:54:35.406Z)
+- lastVerifiedAt: 2026-09-18T10:57:51.466Z
+- subject: docs(decisions): GPT's Film V2 result and the agreed GPT order, baked verbatim with root's disposition
 
 ## candidates ready for verdict / fold
 - none
 
 ## running lanes
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r2 VERIFIER (a different fresh instance): does 'is this Able's own image' now hold against every hostile spelling a browser would send to Google?
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): THE 100-INSTRUCTION ATTACK (GPT's Step 1 brief, one bounded pass): every instruction of the 17 Sept master directive attacked with the brief's nine columns and questions A–I, the four external sources opened, a skeptic on every status; result = a new decision + durable deltas into 12-PROCESS; a fresh verifier follows
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): BACKLOG MERGE r2 (builder): RETURNED 7·6 on two small blockers — the claim page 500s on a mixed-case address ('Maribou-State') canonical served, and one test still pinned the dead removal mailbox
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS VERIFIER: the finger's own tap through a label to a real switch on the sound toggles, first-frame press on four doors, a probe page for the founder's phone
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): SPOTIFY VERIFIER: missing Spotify values are UNKNOWN, never zero (factory seat's slice)
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT: PR #37's other nine findings, 'Otherside · Video' losing its Official marker first
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): THE REEL NINE-STAGE CENSUS (read-only sweep, the founder's first Reel task): what exists, what runs, and what exists but is never invoked, for visual understanding → hook → scenes → difference test → words/selector → destination awareness → landing continuity → People frames → quality evaluator; plus what a visitor gets from the Film today. Every seat touching Reel code now loads 08-REELS first, by a path-triggered rule
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it
-- 0 headless claude process(es) in the table at 2026-09-18T10:54:18.786Z — 0 of them recorded as lanes above
+- 2 headless claude process(es) in the table at 2026-09-18T10:58:43.521Z (pid 51439 up 01:19, pid 51441 up 01:19) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -119,6 +117,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - THE GPT ATTACKS (no credits needed — GPT runs through your chat): the queue and the exact documents are in the Control Room's for-gpt-review folder in Drive. Attack 1 (the 100-instruction directive) and attack 3 (02/05 restamp) are ready now; attack 2 (Film V2 vs current code) follows the nine-stage census; paste GPT's findings back and root routes them
 
 ## next actions (in order)
+- THE FILM, after GPT closes Step 2 with its gap map: the census (docs/audits/2026-09-18-reel-nine-stage-census/CENSUS.md) found the Film is one held frame — the analysis receipts that let it move are gitignored and absent where it is served, the seven compiled scenes never play, and it starts Otherside when nothing was playing. First slice (held behind the 310-point order's Phase 12): a deterministic compileFilmPlan printed as data, visible Film unchanged
 - the micro-interactions and haptics builder, from the research's packet (its paths go to the factory seat first)
 - the Room's own DUAL/WIDE: the tablet Room is one stacked column on every screen; at 1440 the record, the timeline and Music already sit side by side but the Elsewhere links and the Public Record sit in one left column (measured on scrolled screens; Gemini's second opinion in docs/plans/reviews/ROOM-DUAL-WIDE-20260918-R2-GEMINI-REVIEW.md)
 - the remaining backlog, triaged: night-claim-screen (35 findings, fixes not started), b-250-physical-live-data (physical editions belong to the Work), b-maker-origin-door, and three B branches sharing one 25-file base
