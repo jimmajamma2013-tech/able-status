@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T19:46:28.014Z
 - subject: docs(lessons): a verifier killed itself by grepping the process list for a serve command its own packet contained
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T19:46:51.683Z)
+
 ## candidates ready for verdict / fold
 - none
 
