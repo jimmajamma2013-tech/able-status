@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T11:34:52.635Z
 - subject: docs(decisions): "the visible Room is behind the specification" baked; the build lanes go to visible Phase 12
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T11:35:09.982Z)
+
 ## candidates ready for verdict / fold
 - none
 
