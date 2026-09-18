@@ -1,25 +1,7 @@
 {
   "seat": "fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code)",
-  "readyForVerdict": [
-    "THE INTEGRATED FOLD ④ @ c600dfd033 (pushed) — r1's two blockers closed at 05b9287474 (B1: the lead Work draws its people through originalOf, one-served-lineage exits 0 on the served HEAD; B2: the adapter's two stand-ins deleted, 0 hits for any table or kind derivation outside the domain, 27 of 30 releases compose identically and the three that changed are declared). Named, not proven: providers/manifestationKind.ts still derives a kind outside the domain; Deezer's embed capability disagrees with the stage; Mother draws no All-credits door; lineage does not yet ride the merge step. r2 VERDICT RUNNING on A.",
-    "fold-bc-20260916 @ 8275960165 — r3 PASS (B3 closed; nothing r2 held regressed); FOLD-ELIGIBLE for the integrated fold ④ only",
-    "lane A provider data @ 48fe3fc28c — r3 PASS 8·7; waits in the integrated fold ④",
-    "BANDCAMP-IDS @ 3499e78b57 (origin/worktree-agent-afa25af8ff9958d25) — r1 PASS; folds behind the consent law in ④",
-    "cand-claim-20260917 @ 0345ac0544 — the two-defect fix is STRANDED as 25 staged files in /Users/jamescuthbert/able-work/cand-claim (its builder died with the 14:40Z window kill); needs a resume builder to commit, then ONE fresh verdict",
-    "night-claim-screen-20260917 @ fba480c587 — RETURNED by lane review (35 findings); does not enter a candidate until its fixes land",
-    "LANE MATERIALS — STRANDED again: 26 dirty files in /Users/jamescuthbert/Able/.claude/worktrees/agent-ad409ed963fb3ce99, no commit (its in-session builder died with the 14:40Z window kill); needs a resume builder"
-  ],
-  "running": [
-    {
-      "account": "A",
-      "model": "claude-opus-5",
-      "role": "VERIFIER",
-      "task": "DUAL at 834 and WIDE at 1440, r1, on dual-wide-20260918 @ d0391b777d — the dimension capping product at 4. The builder recomposed the Work into two columns and WITHDREW the Room (its own opening already has tablet and desktop layouts; the frame pushed 159 px of content). The root seat measured this SHA first: the Work RECOMPOSED at 834 and 1440 (2 columns, widest band 0.58 of the viewport) where canonical is STRETCHED, the Room unchanged, 390 untouched. The verifier weighs the builder's own doubt — the artwork appearing twice at the top of a Work",
-      "log": "/tmp/claude-a-dual-wide-verdict.log",
-      "worktree": "/Users/jamescuthbert/able-work/verify-dual-wide",
-      "pid": 8055
-    }
-  ],
+  "readyForVerdict": [],
+  "running": [],
   "blockers": [
     "THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.",
     "ACCOUNT A IS AT ITS SESSION CEILING (77% of the five-hour window; the guard's ceiling is 78%): no new builder or in-session fan-out on A until the window rolls (~19:40 BST). The root seat's own work on A stays light (git reconciliation, packets, publishing). Account C carries the identity r3 builder and sits ~8% above its weekly floor; Account B rests.",
@@ -30,17 +12,18 @@
   ],
   "needsJames": [
     "GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): \"The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings.\" Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.",
+    "THE AUDIO WARM-UP RULING (the last consent breach): arriving at the phone Room tells Apple a visitor came, because the first song is pre-fetched so the first tap is instant. Either Able serves that pre-fetch itself (privacy kept, the tap stays fast, Able pays the bytes) or the pre-fetch waits for a first gesture (privacy kept, the first tap is slower). Which?",
     "GITHUB BRANCH PROTECTION on able-rebuild-v1 needs GITHUB PRO first — measured: gh api …/branches/able-rebuild-v1/protection answers \"Upgrade to GitHub Pro or make this repository public to enable this feature\" (the repo is private on the free plan). So: on the same billing visit, upgrade the jimmajamma2013-tech account to GitHub Pro (about $4/month), then settings/branches → rule for able-rebuild-v1 → block force pushes and deletions. This is the control that cannot be talked around; four verifiers each routed around a local hook. ~4 minutes with the Actions fix.",
     "OPENAI CREDITS (blocks the cross-family GPT attack; the key is on disk): platform.openai.com/settings/organization/billing → add credits. ~2 minutes.",
     "REPORTED, not asked: the repo-local git identity `t <t@t>` was removed at 20:5x; commits are authored James Cuthbert from 27b5d6a99c on. One line restores the placeholder if it was deliberate.",
     "WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later."
   ],
   "next": [
-    "the DUAL/WIDE verdict (A, Opus, running) decides whether the Work's two-column recomposition folds on its own; the Room's DUAL/WIDE becomes its own slice either way",
-    "ONE SLICE, TWO LAWS: route the room's images (and the arrival hero) through Able's own origin — closes the definitive Room's seven third-party requests AND the hero's 4,153 ms, re-measured by the consent spec and node scripts/mobile-asset-budget.mjs; packet to be written from docs/audits/2026-09-18-two-gates-one-cause/RECORD.md",
-    "the consent fork on the Room's audio warm-up — packet written; warm through Able's own origin only if the tap stays instant, otherwise report numbers for a founder ruling",
+    "the Room's own DUAL/WIDE — the Room is still STRETCHED at 834 and one column at 1440 on canonical; its own slice, with a design ruling on which layout wins, since the Room already has wide layouts of its own",
+    "fold the two first-party-image decisions into one boundary every raw img passes (the image verdict's first obligation), and the Work's carried items ③ N4 N5 in one visual slice",
+    "the next boot slice: one kernel line telling seats to open files with the Read tool before editing (N2), and Skill on the builder and verifier agents (N1)",
     "Materials from the REAL sleeve → the Groove List → People/Relationship → Film V2",
-    "the factory branch after a PASS on its exact repaired SHA (r1–r5 RETURNED; r6 running against 24028bb5d0); its lane gate returned and fixed on canonical at a3aaff1d58 — the seat must prefix CLAUDE_LANE=A-FACTORY · the two-day comparison 2026-09-19 ~21:00 BST"
+    "the two-day comparison 2026-09-19 ~21:00 BST, from real first-turn usage and the probes, never a remembered number"
   ],
   "candidateBranch": "c-census-green-20260917",
   "resume": {
@@ -104,10 +87,13 @@
     "THE TWO SPEED TESTS ARE PROVEN AND DUAL/WIDE IS MEASURED (scripts/room-composition-probe.mjs, self-test 8/8, committed at d8e558e3a7): on canonical, Spotify and Apple are 1 tap and 2.1 screens from arrival, Bandcamp/YouTube/Instagram 1 tap and 4.7 screens down, tickets and store honestly absent, load 2,491 ms, 46 doors; and the Room at 834 and the Deluxe Work at 834 AND 1440 are STRETCHED — one column carrying the 390 block order, the founder's named hard failure and the dimension that caps product at 4. The hand-written speed-test JSON is retired as a source; the 19 September comparison re-runs the script",
     "EXACT BACK AND THE SOUNDING DOOR ARE ON CANONICAL at a40c31a835 (fold of return-exact-20260917 @ 5dc4733dfe; r1 RETURN product 6 closed in one round, r2 PASS product 8 · assurance 9, docs/audits/cold-review/2026-09-17-return-exact-r2.md): the founder's two phone defects are answered — Back lands instantly at the touched place, and while sound plays every plane carries one door to the sounding object through which the stop is reachable. The fold was the first to use scripts/fold-identity.mjs: 18 of the branch's 21 src/tests paths carry its certified bytes and the 3 that do not are named on fold-resolved lines in the body forever. Carried, not closed: the film crossing at 1440 (two passes, no mechanism) and consent-zero on the Room, which the verifier found independently",
     "THE WORK OPENING WITH QUICKLAUNCH IS ON CANONICAL at 562b67d3ef (r1 PASS product 8 · assurance 9, docs/audits/cold-review/2026-09-17-quicklaunch-r1.md): identity → sound → one human seam → one active provider mark with the rest quiet text → doors, 'Listen elsewhere' retired. Its verdict's merge condition was met by measurement on the merged tree — the failing count fell from 20 to 14 with no new class, three eye-checks PASS 0 P0, the consent probe unchanged — and fold-identity named the five files git merged with the exact-Back fold's certified changes",
-    "THE EYE CAN NOW SAY IT COULD NOT MEASURE A PAGE (26e658f827): a served build whose JS chunks answered 400 had passed three eye-checks at 0 P0 and read CLEAN on every consent probe while Play did nothing; scripts/eye-check.mjs now raises its existing INVALID EVIDENCE verdict (exit 2) with a hydration clause, planted both ways. The factory seat named the class: an instrument that cannot say 'I could not measure this' will say something else, and be believed — its consent gate, this seat's consent spec and the eye all shared it within one hour, and all three can now refuse"
+    "THE EYE CAN NOW SAY IT COULD NOT MEASURE A PAGE (26e658f827): a served build whose JS chunks answered 400 had passed three eye-checks at 0 P0 and read CLEAN on every consent probe while Play did nothing; scripts/eye-check.mjs now raises its existing INVALID EVIDENCE verdict (exit 2) with a hydration clause, planted both ways. The factory seat named the class: an instrument that cannot say 'I could not measure this' will say something else, and be believed — its consent gate, this seat's consent spec and the eye all shared it within one hour, and all three can now refuse",
+    "THE ROOM'S IMAGES COME FROM ABLE'S OWN ORIGIN — on canonical at 22a194dd7d (r1 PASS product 7 · assurance 8): the definitive Room stops telling Apple and Google a stranger arrived, and the arrival photograph now lands under its 4,000 ms Fast-4G budget in six runs of six. Carried: the first-party-image decision now lives in two files and the next slice in the room must merge them into one",
+    "THE WORK BECOMES TWO PANES AT 834 AND 1440 — on canonical at a2fcda752c (r2 PASS product 4 · assurance 8): the Work half of DUAL/WIDE; re-measured on canonical after the fold, RECOMPOSED at both widths, the phone at 390 unchanged. Product 4 is the honest number: carried by name are the artwork appearing twice (③), the Back band detached (N4), the flat black rail (N5), the Room's own DUAL/WIDE, and two guard gaps (NB1, NB2)",
+    "THE BOOT REPAIR — on canonical at 0c8910190f (r2 PASS product 8 · assurance 6): a first session turn falls from 181,287 to 68,419 input tokens, measured from real usage records; npm run boot-cost now counts what loads and reads 37.0k INVESTIGATE, within about 5% of reality. The trade-off (four documents leave every session's first turn, all still named in CLAUDE.md and AGENTS.md) is in docs/audits/2026-09-18-factory-fold-ruling/RECORD.md. Carried: N1 Skill for builder and verifier; N2 path-scoped rules do not fire on cat/sed — one kernel line owed"
   ],
   "returned": [
-    "⛔ TWO CONSENT-ZERO BREACHES, one of them also the hero-budget breach: (a) /maribou-state contacts audio-ssl.itunes.apple.com on arrival (the warm-up at src/app/lab/prototype/phone/useWalkingSound.ts:90-99); (b) /lab/room/maribou-state/definitive loads Apple artwork and four YouTube thumbnails as <img> before any finger — found by the factory seat's gate on its first run. (b) is the SAME host and fetch shape as the arrival hero, which arrives at 4,153 ms against a 4,000 ms phone budget, three and a half seconds of it the trip to is1-ssl.mzstatic.com rather than bytes. One cause, two gates, two laws; Able's own cover proxy is the answer these paths bypass. The budget stays at 4000 ms. Records: docs/audits/2026-09-17-room-composition/RECORD.md · docs/audits/2026-09-18-two-gates-one-cause/RECORD.md · tests/e2e/mechanics/consent-zero-arrival.spec.ts (6 failed · 3 passed, with a hydration instrument check)",
+    "CONSENT-ZERO: one breach remains — the phone Room's arrival warm-up fetches audio-ssl.itunes.apple.com before any touch (src/app/lab/prototype/phone/useWalkingSound.ts:90-99). tests/e2e/mechanics/consent-zero-arrival.spec.ts reads 6 passed · 3 failed on canonical 0c8910190f, the three being exactly this. Its fix needs the founder's ruling on the fork: warm through Able's own origin if the tap stays instant, or accept a slower first tap",
     "⛔ CONSENT-ZERO BREACH ON THE ROOM, found by measurement on canonical 1958d77017 and now carried by a planted test: /maribou-state contacts audio-ssl.itunes.apple.com before ANY touch, at 390, 834 and 1440 (the Deluxe Work passes at all three). Cause: the deliberate arrival warm-up at src/app/lab/prototype/phone/useWalkingSound.ts:90-99 (landed 2026-09-11 in 8a54e24da2); the <audio> is preload=none and innocent. tests/e2e/mechanics/consent-zero-arrival.spec.ts is committed RED on purpose (3 failed · 3 passed) with a positive control. The fix is a product fork — the grounded candidate is warming through Able's own origin, which audioBus.ts:428 already uses — and belongs to a builder with a founder ruling, not to the seat that found it. Record: docs/audits/2026-09-17-room-composition/RECORD.md",
     "the integrated fold r1 (0511c6e8d9) RETURN: B1 the lead Work has no door to its people (originalOf missing on the Work document); B2 the adapter's two stand-ins beside the canonical modules. Carried, named: DUAL/WIDE on the Work; QuickLaunch (⑥); the sleeve's right-edge band, the black back chip, the '·Film' spacing, the empty consent well; Jon Hopkins' legacy public route with raw ids; three census reds not determinable in the fold's checkout",
     "lane F r4 RETURN closed at 318bee7a6c pending r5's verdict; the builder names the landscape title size as a taste call for the verifier",
@@ -124,33 +110,24 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T01:58:43.189Z",
+  "updatedAt": "2026-09-18T08:08:37.435Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d",
-  "localCanonicalHead": "bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d",
+  "remoteCanonicalHead": "0c8910190f3d9ee4c4417d94129caa7a5d986ee5",
+  "localCanonicalHead": "0c8910190f3d9ee4c4417d94129caa7a5d986ee5",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T01:57:40.966Z",
+  "lastVerifiedAt": "2026-09-18T08:07:45.946Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d",
-    "subject": "docs(decisions): the two-day baseline's boot figure is an under-count, corrected in place with the original row kept"
+    "sha": "0c8910190f3d9ee4c4417d94129caa7a5d986ee5",
+    "subject": "feat(fold): the boot repair lands — a first session turn falls from 181k to 68k tokens (r2 PASS 8·6)"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 68% → \u001b[1m0 builder(s)\u001b[0m · architect / integrator / reviewer only\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 71% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T01:58:43.190Z",
-    "runningBuilders": 2,
-    "runningBuilderDetail": [
-      {
-        "pid": "11295",
-        "elapsed": "23:32"
-      },
-      {
-        "pid": "27271",
-        "elapsed": "13:40"
-      }
-    ],
+    "derivedAt": "2026-09-18T08:08:37.435Z",
+    "runningBuilders": 0,
+    "runningBuilderDetail": [],
     "queueDepth": {
       "product": 0,
       "ci": 0
@@ -201,10 +178,10 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 68,
+      "A": 71,
       "B": 91
     },
-    "builderBand": "65–70% → 0 builder(s)",
+    "builderBand": "70%+ → 0 builder(s)",
     "resets": {
       "A": "Sep 18 at 7pm",
       "B": "Sep 22 at 10:59pm"
@@ -216,29 +193,12 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T01:58:43.189Z",
+  "publishedAt": "2026-09-18T08:08:37.435Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
-  "runningDead": [
-    {
-      "account": "A",
-      "model": "claude-opus-5",
-      "role": "VERIFIER",
-      "task": "DUAL at 834 and WIDE at 1440, r1, on dual-wide-20260918 @ d0391b777d — the dimension capping product at 4. The builder recomposed the Work into two columns and WITHDREW the Room (its own opening already has tablet and desktop layouts; the frame pushed 159 px of content). The root seat measured this SHA first: the Work RECOMPOSED at 834 and 1440 (2 columns, widest band 0.58 of the viewport) where canonical is STRETCHED, the Room unchanged, 390 untouched. The verifier weighs the builder's own doubt — the artwork appearing twice at the top of a Work",
-      "log": "/tmp/claude-a-dual-wide-verdict.log",
-      "worktree": "/Users/jamescuthbert/able-work/verify-dual-wide",
-      "pid": 8055
-    }
-  ],
+  "runningDead": [],
   "runningUnverified": [],
   "runningRendered": [
-    "FINISHED, UNRECORDED — pid 8055 is not in the process table and the seat has not written its outcome yet: DUAL at 834 and WIDE at 1440, r1, on dual-wide-20260918 @ d0391b777d — the dimension capping product at 4. The builder recomposed the Work into two columns and WITHDREW the Room (its own opening already has tablet and desktop layouts; the frame pushed 159 px of content). The root seat measured this SHA first: the Work RECOMPOSED at 834 and 1440 (2 columns, widest band 0.58 of the viewport) where canonical is STRETCHED, the Room unchanged, 390 untouched. The verifier weighs the builder's own doubt — the artwork appearing twice at the top of a Work",
-    "2 headless claude process(es) in the table at 2026-09-18T01:58:43.190Z (pid 11295 up 23:32, pid 27271 up 13:40) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T01:58:59.672Z"
-  }
+    "0 headless claude process(es) in the table at 2026-09-18T08:08:37.435Z — 0 of them recorded as lanes above"
+  ]
 }
