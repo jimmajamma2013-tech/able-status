@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-Nothing is being built at this moment, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+5 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,7 +16,9 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 ## Being worked on right now
 
-- Nothing is being built at this moment.
+- 5 jobs are running (going 29:32, going 18:13, going 18:13, going 12:19, going 12:19).
+- ⚠️ The written description below may be out of date — it lists 0 but 5 jobs are actually running:
+
 
 ## Waiting for you
 
@@ -29,10 +31,10 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 ## The numbers, in plain words
 
-- **0 jobs** being built right now
+- **5 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
-- Claude account A has used **71%** of its week — it refills **Sep 18 at 7pm**
+- Claude account A has used **74%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -40,7 +42,7 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 71% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 74% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -56,20 +58,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T08:08:37.435Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T08:41:05.902Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T08:08:37.435Z**
+- **publishedAt: 2026-09-18T08:41:05.902Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **0**
+- runningBuilders: **5** (pid 9221 up 29:32 · pid 26972 up 18:13 · pid 26974 up 18:13 · pid 70049 up 12:19 · pid 70052 up 12:19)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
 - verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
-- meters weekly: A **71%** · B **91%** · band: 70%+ → 0 builder(s)
+- meters weekly: A **74%** · B **91%** · band: 70%+ → 0 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -78,17 +80,22 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 0c8910190f3d9ee4c4417d94129caa7a5d986ee5  (fresh `git ls-remote`)
-- localCanonicalHead: 0c8910190f3d9ee4c4417d94129caa7a5d986ee5  · agrees
+- remoteCanonicalHead: 7432bb68d575b5516e1e2d1b446f3e8067a1f142  (fresh `git ls-remote`)
+- localCanonicalHead: 7432bb68d575b5516e1e2d1b446f3e8067a1f142  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T08:07:45.946Z
-- subject: feat(fold): the boot repair lands — a first session turn falls from 181k to 68k tokens (r2 PASS 8·6)
+- lastVerifiedAt: 2026-09-18T08:40:07.791Z
+- subject: docs(root): the founder's two-tab read baked verbatim, the relayed factory assessment, a live interventions log
 
 ## candidates ready for verdict / fold
 - none
 
 ## running lanes
-- 0 headless claude process(es) in the table at 2026-09-18T08:08:37.435Z — 0 of them recorded as lanes above
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): VERIFIER for the factory seat's boot slice (Opus on A, lane verify-boot-2) — Read-before-edit kernel line, law 1 quoted exactly, Skill for builder and verifier
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A): triage of Greptile's 14 findings on the already-merged PR #37 and a Supabase disk-budget risk, then the Spotify unknown-not-zero slice
+- 5 headless claude process(es) in the table at 2026-09-18T08:41:05.903Z (pid 9221 up 29:32, pid 26972 up 18:13, pid 26974 up 18:13, pid 70049 up 12:19, pid 70052 up 12:19) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -107,11 +114,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later.
 
 ## next actions (in order)
-- the Room's own DUAL/WIDE — the Room is still STRETCHED at 834 and one column at 1440 on canonical; its own slice, with a design ruling on which layout wins, since the Room already has wide layouts of its own
-- fold the two first-party-image decisions into one boundary every raw img passes (the image verdict's first obligation), and the Work's carried items ③ N4 N5 in one visual slice
-- the next boot slice: one kernel line telling seats to open files with the Read tool before editing (N2), and Skill on the builder and verifier agents (N1)
-- Materials from the REAL sleeve → the Groove List → People/Relationship → Film V2
-- the two-day comparison 2026-09-19 ~21:00 BST, from real first-turn usage and the probes, never a remembered number
+- the micro-interactions and haptics builder, from the research's packet (its paths go to the factory seat first)
+- the Room's own DUAL/WIDE: the tablet Room is one stacked column on every screen; at 1440 the record, the timeline and Music already sit side by side but the Elsewhere links and the Public Record sit in one left column (measured on scrolled screens; Gemini's second opinion in docs/plans/reviews/ROOM-DUAL-WIDE-20260918-R2-GEMINI-REVIEW.md)
+- the remaining backlog, triaged: night-claim-screen (35 findings, fixes not started), b-250-physical-live-data (physical editions belong to the Work), b-maker-origin-door, and three B branches sharing one 25-file base
+- the local models' first job, once the image boundary folds: move the raw images on the Work's doors (MusicStartHere, MusicReleaseList, MusicVideosView, NowPlayingMini, ExperienceObjectRail, MediaObjectLead) through the one boundary, checked by tsc, a grep and the consent spec
+- Materials from the REAL sleeve, now that Maribou's material census exists (docs/audits/2026-09-18-maribou-material-census/CENSUS.md) → the Groove List → People/Relationship → Film V2; the two-day comparison 2026-09-19 ~21:00 BST
 
 ## meters
 ```
@@ -124,6 +131,6 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 71% → [1m0 builder(s)[0m · preserve for blockers until Codex and the second Claude account return
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 74% → [1m0 builder(s)[0m · preserve for blockers until Codex and the second Claude account return
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```

@@ -1,7 +1,13 @@
 {
   "seat": "fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code)",
   "readyForVerdict": [],
-  "running": [],
+  "running": [
+    "ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list",
+    "CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical",
+    "VERIFIER for the factory seat's boot slice (Opus on A, lane verify-boot-2) — Read-before-edit kernel line, law 1 quoted exactly, Skill for builder and verifier",
+    "HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James",
+    "FACTORY SEAT (other tab, Opus on A): triage of Greptile's 14 findings on the already-merged PR #37 and a Supabase disk-budget risk, then the Spotify unknown-not-zero slice"
+  ],
   "blockers": [
     "THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.",
     "ACCOUNT A IS AT ITS SESSION CEILING (77% of the five-hour window; the guard's ceiling is 78%): no new builder or in-session fan-out on A until the window rolls (~19:40 BST). The root seat's own work on A stays light (git reconciliation, packets, publishing). Account C carries the identity r3 builder and sits ~8% above its weekly floor; Account B rests.",
@@ -19,11 +25,11 @@
     "WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later."
   ],
   "next": [
-    "the Room's own DUAL/WIDE — the Room is still STRETCHED at 834 and one column at 1440 on canonical; its own slice, with a design ruling on which layout wins, since the Room already has wide layouts of its own",
-    "fold the two first-party-image decisions into one boundary every raw img passes (the image verdict's first obligation), and the Work's carried items ③ N4 N5 in one visual slice",
-    "the next boot slice: one kernel line telling seats to open files with the Read tool before editing (N2), and Skill on the builder and verifier agents (N1)",
-    "Materials from the REAL sleeve → the Groove List → People/Relationship → Film V2",
-    "the two-day comparison 2026-09-19 ~21:00 BST, from real first-turn usage and the probes, never a remembered number"
+    "the micro-interactions and haptics builder, from the research's packet (its paths go to the factory seat first)",
+    "the Room's own DUAL/WIDE: the tablet Room is one stacked column on every screen; at 1440 the record, the timeline and Music already sit side by side but the Elsewhere links and the Public Record sit in one left column (measured on scrolled screens; Gemini's second opinion in docs/plans/reviews/ROOM-DUAL-WIDE-20260918-R2-GEMINI-REVIEW.md)",
+    "the remaining backlog, triaged: night-claim-screen (35 findings, fixes not started), b-250-physical-live-data (physical editions belong to the Work), b-maker-origin-door, and three B branches sharing one 25-file base",
+    "the local models' first job, once the image boundary folds: move the raw images on the Work's doors (MusicStartHere, MusicReleaseList, MusicVideosView, NowPlayingMini, ExperienceObjectRail, MediaObjectLead) through the one boundary, checked by tsc, a grep and the consent spec",
+    "Materials from the REAL sleeve, now that Maribou's material census exists (docs/audits/2026-09-18-maribou-material-census/CENSUS.md) → the Groove List → People/Relationship → Film V2; the two-day comparison 2026-09-19 ~21:00 BST"
   ],
   "candidateBranch": "c-census-green-20260917",
   "resume": {
@@ -97,12 +103,12 @@
     "⛔ CONSENT-ZERO BREACH ON THE ROOM, found by measurement on canonical 1958d77017 and now carried by a planted test: /maribou-state contacts audio-ssl.itunes.apple.com before ANY touch, at 390, 834 and 1440 (the Deluxe Work passes at all three). Cause: the deliberate arrival warm-up at src/app/lab/prototype/phone/useWalkingSound.ts:90-99 (landed 2026-09-11 in 8a54e24da2); the <audio> is preload=none and innocent. tests/e2e/mechanics/consent-zero-arrival.spec.ts is committed RED on purpose (3 failed · 3 passed) with a positive control. The fix is a product fork — the grounded candidate is warming through Able's own origin, which audioBus.ts:428 already uses — and belongs to a builder with a founder ruling, not to the seat that found it. Record: docs/audits/2026-09-17-room-composition/RECORD.md",
     "the integrated fold r1 (0511c6e8d9) RETURN: B1 the lead Work has no door to its people (originalOf missing on the Work document); B2 the adapter's two stand-ins beside the canonical modules. Carried, named: DUAL/WIDE on the Work; QuickLaunch (⑥); the sleeve's right-edge band, the black back chip, the '·Film' spacing, the empty consent well; Jon Hopkins' legacy public route with raw ids; three census reds not determinable in the fold's checkout",
     "lane F r4 RETURN closed at 318bee7a6c pending r5's verdict; the builder names the landscape title size as a taste call for the verifier",
-    "night-claim-screen (fba480c587) — 35 findings, all survived refutation; fixes not started",
     "local models: qwen3-coder fabricated on the -moz- probe for the second time in two trials — usable ONLY where an oracle discards its answer; gpt-oss needs a larger output budget or non-reasoning mode before it can be assessed",
     "EYE-PROVIDER-INTERIOR: the eye counts provider iframe interiors as P0 — GATE-TRIAGE owed",
     "cold-review-skip and plan-skip are at consecutive use 7 on the phone WatchAct/PassageV1 file set — the escape census itself asks whether those gates are still reachable there; GATE-TRIAGE owed",
     "Greptile silent since 06 Sep · GPT's private-repo grant",
-    "the software-factory branch — RETURNED THREE TIMES by three fresh Opus seats (r1 3·4, r2 4·4, r3 3·3; docs/audits/2026-09-17-software-factory/VERDICT-r{1,2,3}.md on factory-20260917 @ a38e78876e): every guard decided on a sample of strings; the repair replaces the decision core with an argv tokeniser (90 planted cases); it folds only after a verifier PASSES the exact repaired SHA, behind exact Back, in the order"
+    "the software-factory branch — RETURNED THREE TIMES by three fresh Opus seats (r1 3·4, r2 4·4, r3 3·3; docs/audits/2026-09-17-software-factory/VERDICT-r{1,2,3}.md on factory-20260917 @ a38e78876e): every guard decided on a sample of strings; the repair replaces the decision core with an argv tokeniser (90 planted cases); it folds only after a verifier PASSES the exact repaired SHA, behind exact Back, in the order",
+    "night-claim-screen (fba480c587) — 35 findings, all survived refutation; fixes not started. A SEPARATE claim-trust fix (closing the cand-20260917 RETURN) was nearly finished yesterday by a builder that died before committing; its work is now in the backlog integration lane"
   ],
   "doNotStart": [
     "Phase 12+ (the reference cultural core, Film v2, the full Maribou gate) before the integrated fold ④",
@@ -110,24 +116,45 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T08:08:37.435Z",
+  "updatedAt": "2026-09-18T08:41:05.902Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "0c8910190f3d9ee4c4417d94129caa7a5d986ee5",
-  "localCanonicalHead": "0c8910190f3d9ee4c4417d94129caa7a5d986ee5",
+  "remoteCanonicalHead": "7432bb68d575b5516e1e2d1b446f3e8067a1f142",
+  "localCanonicalHead": "7432bb68d575b5516e1e2d1b446f3e8067a1f142",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T08:07:45.946Z",
+  "lastVerifiedAt": "2026-09-18T08:40:07.791Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "0c8910190f3d9ee4c4417d94129caa7a5d986ee5",
-    "subject": "feat(fold): the boot repair lands — a first session turn falls from 181k to 68k tokens (r2 PASS 8·6)"
+    "sha": "7432bb68d575b5516e1e2d1b446f3e8067a1f142",
+    "subject": "docs(root): the founder's two-tab read baked verbatim, the relayed factory assessment, a live interventions log"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 71% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 74% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T08:08:37.435Z",
-    "runningBuilders": 0,
-    "runningBuilderDetail": [],
+    "derivedAt": "2026-09-18T08:41:05.903Z",
+    "runningBuilders": 5,
+    "runningBuilderDetail": [
+      {
+        "pid": "9221",
+        "elapsed": "29:32"
+      },
+      {
+        "pid": "26972",
+        "elapsed": "18:13"
+      },
+      {
+        "pid": "26974",
+        "elapsed": "18:13"
+      },
+      {
+        "pid": "70049",
+        "elapsed": "12:19"
+      },
+      {
+        "pid": "70052",
+        "elapsed": "12:19"
+      }
+    ],
     "queueDepth": {
       "product": 0,
       "ci": 0
@@ -178,7 +205,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 71,
+      "A": 74,
       "B": 91
     },
     "builderBand": "70%+ → 0 builder(s)",
@@ -193,18 +220,33 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T08:08:37.435Z",
+  "publishedAt": "2026-09-18T08:41:05.902Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
-  "runningUnverified": [],
-  "runningRendered": [
-    "0 headless claude process(es) in the table at 2026-09-18T08:08:37.435Z — 0 of them recorded as lanes above"
+  "runningUnverified": [
+    {
+      "task": "ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list"
+    },
+    {
+      "task": "CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical"
+    },
+    {
+      "task": "VERIFIER for the factory seat's boot slice (Opus on A, lane verify-boot-2) — Read-before-edit kernel line, law 1 quoted exactly, Skill for builder and verifier"
+    },
+    {
+      "task": "HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James"
+    },
+    {
+      "task": "FACTORY SEAT (other tab, Opus on A): triage of Greptile's 14 findings on the already-merged PR #37 and a Supabase disk-budget risk, then the Spotify unknown-not-zero slice"
+    }
   ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T08:08:53.740Z"
-  }
+  "runningRendered": [
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): VERIFIER for the factory seat's boot slice (Opus on A, lane verify-boot-2) — Read-before-edit kernel line, law 1 quoted exactly, Skill for builder and verifier",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A): triage of Greptile's 14 findings on the already-merged PR #37 and a Supabase disk-budget risk, then the Spotify unknown-not-zero slice",
+    "5 headless claude process(es) in the table at 2026-09-18T08:41:05.903Z (pid 9221 up 29:32, pid 26972 up 18:13, pid 26974 up 18:13, pid 70049 up 12:19, pid 70052 up 12:19) — 0 of them recorded as lanes above"
+  ]
 }
