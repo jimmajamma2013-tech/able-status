@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T14:57:00.971Z
 - subject: docs(canon): provider precedence follows intent — 02 §3, 03 point 101 annotated, the brief re-exported (#68)
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T14:58:28.379Z)
+
 ## candidates ready for verdict / fold
 - none
 
