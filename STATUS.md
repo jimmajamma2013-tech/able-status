@@ -87,6 +87,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T10:19:24.802Z
 - subject: feat(fold): the provider stage stops overstating — no 'full album', no money claim from a buy door (PASS 8·7)
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T10:22:46.161Z)
+
 ## candidates ready for verdict / fold
 - none
 
