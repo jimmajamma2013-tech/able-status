@@ -87,6 +87,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T10:57:51.466Z
 - subject: docs(decisions): GPT's Film V2 result and the agreed GPT order, baked verbatim with root's disposition
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T10:59:00.134Z)
+
 ## candidates ready for verdict / fold
 - none
 
