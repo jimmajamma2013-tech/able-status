@@ -16,6 +16,7 @@
   "needsJames": [
     "TWO MINUTES ON YOUR iPHONE: the haptic check page (link in root's message) — five taps, screenshot the grey box; and tell root your iOS version and whether Reduce Motion is on",
     "THREE RULINGS, one line each: (1) should Reduce Motion stop switching off the buzz? (2) the audio warm-up — Able serves it or it waits for the first tap? (3) may Able release the old Lane B file claims (B is your reserve and its scheduled jobs are now off)?",
+    "TOOL LOGINS for the instrument matrix (each unlocks one row; none blocks today's build): a real Sentry project key (the Sentry code is already wired — the key in the settings is a placeholder) · a free Replay login · Greptile TREX switched on · a BrowserStack account for real-iPhone testing · Figma sign-in if we use it",
     "GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): \"The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings.\" Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.",
     "THE AUDIO WARM-UP RULING (the last consent breach): arriving at the phone Room tells Apple a visitor came, because the first song is pre-fetched so the first tap is instant. Either Able serves that pre-fetch itself (privacy kept, the tap stays fast, Able pays the bytes) or the pre-fetch waits for a first gesture (privacy kept, the first tap is slower). Which?",
     "SUPABASE DISK IO: your message says a disk-budget risk was flagged; no seat has seen it and nothing in the repo records it. If Supabase emailed you, forward the numbers. To let a seat read it directly, run `supabase login` once in a terminal (only you can sign in)",
@@ -120,31 +121,31 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T11:35:57.946Z",
+  "updatedAt": "2026-09-18T11:40:36.123Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "5403446a5748988bfec2a6b8e953604b6f656f8e",
-  "localCanonicalHead": "5403446a5748988bfec2a6b8e953604b6f656f8e",
+  "remoteCanonicalHead": "ff0561f6c293b2cb490922e05c7515f99232aa8d",
+  "localCanonicalHead": "ff0561f6c293b2cb490922e05c7515f99232aa8d",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T11:35:56.862Z",
+  "lastVerifiedAt": "2026-09-18T11:40:34.712Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "5403446a5748988bfec2a6b8e953604b6f656f8e",
-    "subject": "docs(control-room): 02 and 05 restamped — the North Stars hold permanent truth; current state and vendor policy move out"
+    "sha": "ff0561f6c293b2cb490922e05c7515f99232aa8d",
+    "subject": "docs(process): the instrument matrix — which tool for which job — and \"I want all this 11 out of 10\" baked"
   },
   "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 84% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T11:35:57.946Z",
+    "derivedAt": "2026-09-18T11:40:36.123Z",
     "runningBuilders": 2,
     "runningBuilderDetail": [
       {
         "pid": "21580",
-        "elapsed": "15:12"
+        "elapsed": "19:51"
       },
       {
         "pid": "21582",
-        "elapsed": "15:12"
+        "elapsed": "19:51"
       }
     ],
     "queueDepth": {
@@ -212,7 +213,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T11:35:57.946Z",
+  "publishedAt": "2026-09-18T11:40:36.123Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -227,12 +228,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit",
-    "2 headless claude process(es) in the table at 2026-09-18T11:35:57.946Z (pid 21580 up 15:12, pid 21582 up 15:12) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T11:36:14.801Z"
-  }
+    "2 headless claude process(es) in the table at 2026-09-18T11:40:36.123Z (pid 21580 up 19:51, pid 21582 up 19:51) — 0 of them recorded as lanes above"
+  ]
 }
