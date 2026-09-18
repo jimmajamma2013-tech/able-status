@@ -16,20 +16,20 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 14:08, going 14:08).
+- 2 jobs are running (going 15:12, going 15:12).
 - ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
 
 
 ## Waiting for you
 
-- TWO MINUTES ON YOUR iPHONE: open the haptic check page root sent you and follow its five steps; screenshot the grey box. And one ruling: should Reduce Motion stop switching off the tick
+- TWO MINUTES ON YOUR iPHONE: the haptic check page
+- THREE RULINGS, one line each:
 - GITHUB ACTIONS — the cause is now GitHub's own sentence
 - THE AUDIO WARM-UP RULING
 - SUPABASE DISK IO: your message says a disk-budget risk was flagged; no seat has seen it and nothing in the repo records it. If Supabase emailed you, forward the numbers. To let a seat read it directly, run `supabase login` once in a terminal
 - GITHUB BRANCH PROTECTION on able-rebuild-v1 needs GITHUB PRO first — measured: gh api …/branches/able-rebuild-v1/protection answers "Upgrade to GitHub Pro or make this repository public to enable this feature"
 - REPORTED, not asked: the repo-local git identity `t <t@t>` was removed at 20:5x; commits are authored James Cuthbert from 27b5d6a99c on. One line restores the placeholder if it was deliberate.
 - WHEN THE FACTORY FOLDS
-- THE GPT ATTACKS
 
 ## The numbers, in plain words
 
@@ -60,13 +60,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T11:34:53.887Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T11:35:57.946Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T11:34:53.887Z**
+- **publishedAt: 2026-09-18T11:35:57.946Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 21580 up 14:08 · pid 21582 up 14:08)
+- runningBuilders: **2** (pid 21580 up 15:12 · pid 21582 up 15:12)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -82,25 +82,19 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 1cb5603e30e412148fed74f45f4b002b9bd5a701  (fresh `git ls-remote`)
-- localCanonicalHead: 1cb5603e30e412148fed74f45f4b002b9bd5a701  · agrees
+- remoteCanonicalHead: 5403446a5748988bfec2a6b8e953604b6f656f8e  (fresh `git ls-remote`)
+- localCanonicalHead: 5403446a5748988bfec2a6b8e953604b6f656f8e  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T11:34:52.635Z
-- subject: docs(decisions): "the visible Room is behind the specification" baked; the build lanes go to visible Phase 12
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T11:35:09.982Z)
+- lastVerifiedAt: 2026-09-18T11:35:56.862Z
+- subject: docs(control-room): 02 and 05 restamped — the North Stars hold permanent truth; current state and vendor policy move out
 
 ## candidates ready for verdict / fold
 - none
 
 ## running lanes
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r2 VERIFIER (a different fresh instance): does 'is this Able's own image' now hold against every hostile spelling a browser would send to Google?
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): THE 100-INSTRUCTION ATTACK (GPT's Step 1 brief, one bounded pass): every instruction of the 17 Sept master directive attacked with the brief's nine columns and questions A–I, the four external sources opened, a skeptic on every status; result = a new decision + durable deltas into 12-PROCESS; a fresh verifier follows
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): BACKLOG MERGE r2 (builder): RETURNED 7·6 on two small blockers — the claim page 500s on a mixed-case address ('Maribou-State') canonical served, and one test still pinned the dead removal mailbox
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT: PR #37's other nine findings, 'Otherside · Video' losing its Official marker first
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it
-- 2 headless claude process(es) in the table at 2026-09-18T11:34:53.887Z (pid 21580 up 14:08, pid 21582 up 14:08) — 0 of them recorded as lanes above
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit
+- 2 headless claude process(es) in the table at 2026-09-18T11:35:57.946Z (pid 21580 up 15:12, pid 21582 up 15:12) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -111,23 +105,21 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - OWED: one bounded independent verdict on the status bridge itself (oldest open debt on this seat). And the kernel §2 names claimSoundOwner/releaseSoundOwner in audioBus.ts which do not exist in src/ — a doc-vs-code mismatch the cand-play verifier found.
 
 ## needs James
-- TWO MINUTES ON YOUR iPHONE: open the haptic check page root sent you and follow its five steps; screenshot the grey box. And one ruling: should Reduce Motion stop switching off the tick (GPT's proposal — today's code switches it off)?
+- TWO MINUTES ON YOUR iPHONE: the haptic check page (link in root's message) — five taps, screenshot the grey box; and tell root your iOS version and whether Reduce Motion is on
+- THREE RULINGS, one line each: (1) should Reduce Motion stop switching off the buzz? (2) the audio warm-up — Able serves it or it waits for the first tap? (3) may Able release the old Lane B file claims (B is your reserve and its scheduled jobs are now off)?
 - GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): "The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings." Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.
 - THE AUDIO WARM-UP RULING (the last consent breach): arriving at the phone Room tells Apple a visitor came, because the first song is pre-fetched so the first tap is instant. Either Able serves that pre-fetch itself (privacy kept, the tap stays fast, Able pays the bytes) or the pre-fetch waits for a first gesture (privacy kept, the first tap is slower). Which?
 - SUPABASE DISK IO: your message says a disk-budget risk was flagged; no seat has seen it and nothing in the repo records it. If Supabase emailed you, forward the numbers. To let a seat read it directly, run `supabase login` once in a terminal (only you can sign in)
 - GITHUB BRANCH PROTECTION on able-rebuild-v1 needs GITHUB PRO first — measured: gh api …/branches/able-rebuild-v1/protection answers "Upgrade to GitHub Pro or make this repository public to enable this feature" (the repo is private on the free plan). So: on the same billing visit, upgrade the jimmajamma2013-tech account to GitHub Pro (about $4/month), then settings/branches → rule for able-rebuild-v1 → block force pushes and deletions. This is the control that cannot be talked around; four verifiers each routed around a local hook. ~4 minutes with the Actions fix.
 - REPORTED, not asked: the repo-local git identity `t <t@t>` was removed at 20:5x; commits are authored James Cuthbert from 27b5d6a99c on. One line restores the placeholder if it was deliberate.
 - WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later.
-- THE GPT ATTACKS (no credits needed — GPT runs through your chat): the queue and the exact documents are in the Control Room's for-gpt-review folder in Drive. Attack 1 (the 100-instruction directive) and attack 3 (02/05 restamp) are ready now; attack 2 (Film V2 vs current code) follows the nine-stage census; paste GPT's findings back and root routes them
 
 ## next actions (in order)
-- FEEL, in GPT's order: ① touch truth — every flagship control answers on the first frame, haptics only on sound/selection/media-expand, a drag never commits (planted test) · ② time truth — no spinner before 300 ms, Play/Pause from real playback, Reduced Motion crossfades instead of cutting · ③ the Room responds to sound — people credited on the sounding track come forward by name, the rest quieten, one travel clock
-- THE FILM, after GPT closes Step 2 with its gap map: the census (docs/audits/2026-09-18-reel-nine-stage-census/CENSUS.md) found the Film is one held frame — the analysis receipts that let it move are gitignored and absent where it is served, the seven compiled scenes never play, and it starts Otherside when nothing was playing. First slice (held behind the 310-point order's Phase 12): a deterministic compileFilmPlan printed as data, visible Film unchanged
-- the micro-interactions and haptics builder, from the research's packet (its paths go to the factory seat first)
-- the Room's own DUAL/WIDE: the tablet Room is one stacked column on every screen; at 1440 the record, the timeline and Music already sit side by side but the Elsewhere links and the Public Record sit in one left column (measured on scrolled screens; Gemini's second opinion in docs/plans/reviews/ROOM-DUAL-WIDE-20260918-R2-GEMINI-REVIEW.md)
-- the remaining backlog, triaged: night-claim-screen (35 findings, fixes not started), b-250-physical-live-data (physical editions belong to the Work), b-maker-origin-door, and three B branches sharing one 25-file base
-- the local models' first job, once the image boundary folds: move the raw images on the Work's doors (MusicStartHere, MusicReleaseList, MusicVideosView, NowPlayingMini, ExperienceObjectRail, MediaObjectLead) through the one boundary, checked by tsc, a grep and the consent spec
-- Materials from the REAL sleeve, now that Maribou's material census exists (docs/audits/2026-09-18-maribou-material-census/CENSUS.md) → the Groove List → People/Relationship → Film V2; the two-day comparison 2026-09-19 ~21:00 BST
+- VERIFIERS, one or two at a time as the five-hour window allows (it read 72% at 12:33): the backlog merge's r3 (a test fix), the second review-findings slice, Spotify packet two, the instruments (handshake gate + Capacity Room), the vitest register
+- VISIBLE PHASE 12 (the founder's routing, adopted): the Groove List → the reference People and the Holly/Matt Relationships as real doors → the Room's own tablet/desktop layout → the Deluxe 2LP as a real object
+- FEEL, in GPT's order: touch truth → time truth → the Room responds to sound
+- THE FILM, behind Phase 12: compileFilmPlan printed as data first (GPT Step 2 and the census agree)
+- THE TWO-DAY COMPARISON 2026-09-19 ~21:00 BST
 
 ## meters
 ```
