@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T11:47:25.143Z
 - subject: docs(haptics): the tick is FELT on the founder's iPhone — "everything worked as hoped"
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T11:47:47.114Z)
+
 ## candidates ready for verdict / fold
 - none
 
