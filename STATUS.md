@@ -16,7 +16,7 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 8 jobs are running (going 01:03:06, going 01:03:06, going 11:46, going 11:46, going 11:46, going 11:46, going 11:46, going 11:46).
+- 8 jobs are running (going 32:08, going 32:08, going 30:53, going 30:53, going 01:01:43, going 01:01:43, going 01:01:43, going 01:01:43).
 - ⚠️ The written description below may be out of date — it lists 0 but 8 jobs are actually running:
 
 
@@ -36,7 +36,7 @@ should not be trusted. It is supposed to update itself._
 - **8 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
-- Claude account A has used **89%** of its week — it refills **Sep 18 at 7pm**
+- Claude account A has used **91%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -44,7 +44,7 @@ should not be trusted. It is supposed to update itself._
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 89% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 91% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -60,20 +60,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T13:40:26.701Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T14:30:23.170Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T13:40:26.701Z**
+- **publishedAt: 2026-09-18T14:30:23.170Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **8** (pid 20229 up 01:03:06 · pid 20231 up 01:03:06 · pid 74489 up 11:46 · pid 74492 up 11:46 · pid 74494 up 11:46 · pid 74500 up 11:46 · pid 74502 up 11:46 · pid 74507 up 11:46)
+- runningBuilders: **8** (pid 18010 up 32:08 · pid 18012 up 32:08 · pid 20589 up 30:53 · pid 20591 up 30:53 · pid 74492 up 01:01:43 · pid 74500 up 01:01:43 · pid 74502 up 01:01:43 · pid 74507 up 01:01:43)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3)
 - verdictsPending: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587
-- meters weekly: A **89%** · B **91%** · band: 70%+ → 0 builder(s)
+- meters weekly: A **91%** · B **91%** · band: 70%+ → 0 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -82,13 +82,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 1584046d0141c0a8af38f304af20ba2edb0a6783  (fresh `git ls-remote`)
-- localCanonicalHead: 1584046d0141c0a8af38f304af20ba2edb0a6783  · agrees
+- remoteCanonicalHead: ba9e56fd668b0e807e5c4dfc4e4787d4656d40a2  (fresh `git ls-remote`)
+- localCanonicalHead: ba9e56fd668b0e807e5c4dfc4e4787d4656d40a2  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T13:39:00.279Z
-- subject: docs(decisions): same Room, different entrance state — the Entry Director reconciliation (#61, #62)
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T13:40:43.318Z)
+- lastVerifiedAt: 2026-09-18T14:30:22.134Z
+- subject: docs(canon): nudges, participation and the entrance state are now in both north stars (#67)
 
 ## candidates ready for verdict / fold
 - none
@@ -96,7 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit
-- 8 headless claude process(es) in the table at 2026-09-18T13:40:26.702Z (pid 20229 up 01:03:06, pid 20231 up 01:03:06, pid 74489 up 11:46, pid 74492 up 11:46, pid 74494 up 11:46, pid 74500 up 11:46, pid 74502 up 11:46, pid 74507 up 11:46) — 0 of them recorded as lanes above
+- 8 headless claude process(es) in the table at 2026-09-18T14:30:23.170Z (pid 18010 up 32:08, pid 18012 up 32:08, pid 20589 up 30:53, pid 20591 up 30:53, pid 74492 up 01:01:43, pid 74500 up 01:01:43, pid 74502 up 01:01:43, pid 74507 up 01:01:43) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -129,11 +127,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  86%  ·  Fable  89%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  87%  ·  Fable  91%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 86% → [1m0 builder(s)[0m · preserve for blockers until Codex and the second Claude account return
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 87% → [1m0 builder(s)[0m · preserve for blockers until Codex and the second Claude account return
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
