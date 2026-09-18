@@ -16,7 +16,7 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 17:31, going 07:39).
+- 2 jobs are running (going 23:32, going 13:40).
 - ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
 
 
@@ -57,13 +57,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T01:52:42.015Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T01:58:43.189Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T01:52:42.015Z**
+- **publishedAt: 2026-09-18T01:58:43.189Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 11295 up 17:31 · pid 27271 up 07:39)
+- runningBuilders: **2** (pid 11295 up 23:32 · pid 27271 up 13:40)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -82,7 +82,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d  (fresh `git ls-remote`)
 - localCanonicalHead: bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T01:52:41.334Z
+- lastVerifiedAt: 2026-09-18T01:57:40.966Z
 - subject: docs(decisions): the two-day baseline's boot figure is an under-count, corrected in place with the original row kept
 
 ## candidates ready for verdict / fold
@@ -96,7 +96,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## running lanes
 - FINISHED, UNRECORDED — pid 8055 is not in the process table and the seat has not written its outcome yet: DUAL at 834 and WIDE at 1440, r1, on dual-wide-20260918 @ d0391b777d — the dimension capping product at 4. The builder recomposed the Work into two columns and WITHDREW the Room (its own opening already has tablet and desktop layouts; the frame pushed 159 px of content). The root seat measured this SHA first: the Work RECOMPOSED at 834 and 1440 (2 columns, widest band 0.58 of the viewport) where canonical is STRETCHED, the Room unchanged, 390 untouched. The verifier weighs the builder's own doubt — the artwork appearing twice at the top of a Work
-- 2 headless claude process(es) in the table at 2026-09-18T01:52:42.015Z (pid 11295 up 17:31, pid 27271 up 07:39) — 0 of them recorded as lanes above
+- 2 headless claude process(es) in the table at 2026-09-18T01:58:43.190Z (pid 11295 up 23:32, pid 27271 up 13:40) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
