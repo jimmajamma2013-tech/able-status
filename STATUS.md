@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T14:30:22.134Z
 - subject: docs(canon): nudges, participation and the entrance state are now in both north stars (#67)
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T14:31:19.792Z)
+
 ## candidates ready for verdict / fold
 - none
 
