@@ -86,6 +86,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T08:40:07.791Z
 - subject: docs(root): the founder's two-tab read baked verbatim, the relayed factory assessment, a live interventions log
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T08:41:21.873Z)
+
 ## candidates ready for verdict / fold
 - none
 

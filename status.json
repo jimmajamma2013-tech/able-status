@@ -248,5 +248,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A): triage of Greptile's 14 findings on the already-merged PR #37 and a Supabase disk-budget risk, then the Spotify unknown-not-zero slice",
     "5 headless claude process(es) in the table at 2026-09-18T08:41:05.903Z (pid 9221 up 29:32, pid 26972 up 18:13, pid 26974 up 18:13, pid 70049 up 12:19, pid 70052 up 12:19) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-18T08:41:21.873Z"
+  }
 }
