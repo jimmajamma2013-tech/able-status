@@ -85,6 +85,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T10:54:17.642Z
 - subject: docs(reel): the nine-stage Reel census lands and is published for GPT; the second Step 2 brief baked verbatim
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T10:54:35.406Z)
+
 ## candidates ready for verdict / fold
 - none
 
