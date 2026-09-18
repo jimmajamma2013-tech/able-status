@@ -18,6 +18,7 @@
     "OWED: one bounded independent verdict on the status bridge itself (oldest open debt on this seat). And the kernel §2 names claimSoundOwner/releaseSoundOwner in audioBus.ts which do not exist in src/ — a doc-vs-code mismatch the cand-play verifier found."
   ],
   "needsJames": [
+    "TWO MINUTES ON YOUR iPHONE: open the haptic check page root sent you and follow its five steps; screenshot the grey box. And one ruling: should Reduce Motion stop switching off the tick (GPT's proposal — today's code switches it off)?",
     "GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): \"The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings.\" Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.",
     "THE AUDIO WARM-UP RULING (the last consent breach): arriving at the phone Room tells Apple a visitor came, because the first song is pre-fetched so the first tap is instant. Either Able serves that pre-fetch itself (privacy kept, the tap stays fast, Able pays the bytes) or the pre-fetch waits for a first gesture (privacy kept, the first tap is slower). Which?",
     "SUPABASE DISK IO: your message says a disk-budget risk was flagged; no seat has seen it and nothing in the repo records it. If Supabase emailed you, forward the numbers. To let a seat read it directly, run `supabase login` once in a terminal (only you can sign in)",
@@ -27,6 +28,7 @@
     "THE GPT ATTACKS (no credits needed — GPT runs through your chat): the queue and the exact documents are in the Control Room's for-gpt-review folder in Drive. Attack 1 (the 100-instruction directive) and attack 3 (02/05 restamp) are ready now; attack 2 (Film V2 vs current code) follows the nine-stage census; paste GPT's findings back and root routes them"
   ],
   "next": [
+    "FEEL, in GPT's order: ① touch truth — every flagship control answers on the first frame, haptics only on sound/selection/media-expand, a drag never commits (planted test) · ② time truth — no spinner before 300 ms, Play/Pause from real playback, Reduced Motion crossfades instead of cutting · ③ the Room responds to sound — people credited on the sounding track come forward by name, the rest quieten, one travel clock",
     "THE FILM, after GPT closes Step 2 with its gap map: the census (docs/audits/2026-09-18-reel-nine-stage-census/CENSUS.md) found the Film is one held frame — the analysis receipts that let it move are gitignored and absent where it is served, the seven compiled scenes never play, and it starts Otherside when nothing was playing. First slice (held behind the 310-point order's Phase 12): a deterministic compileFilmPlan printed as data, visible Film unchanged",
     "the micro-interactions and haptics builder, from the research's packet (its paths go to the factory seat first)",
     "the Room's own DUAL/WIDE: the tablet Room is one stacked column on every screen; at 1440 the record, the timeline and Music already sit side by side but the Elsewhere links and the Public Record sit in one left column (measured on scrolled screens; Gemini's second opinion in docs/plans/reviews/ROOM-DUAL-WIDE-20260918-R2-GEMINI-REVIEW.md)",
@@ -124,39 +126,31 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T11:05:35.538Z",
+  "updatedAt": "2026-09-18T11:34:53.887Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "59f0924bcda8d30f478ec7523f030c43ff86da1a",
-  "localCanonicalHead": "59f0924bcda8d30f478ec7523f030c43ff86da1a",
+  "remoteCanonicalHead": "1cb5603e30e412148fed74f45f4b002b9bd5a701",
+  "localCanonicalHead": "1cb5603e30e412148fed74f45f4b002b9bd5a701",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T11:05:34.458Z",
+  "lastVerifiedAt": "2026-09-18T11:34:52.635Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "59f0924bcda8d30f478ec7523f030c43ff86da1a",
-    "subject": "docs(decisions): GPT Step 3 baked verbatim; the haptics slice's record and verdict published for GPT Step 4"
+    "sha": "1cb5603e30e412148fed74f45f4b002b9bd5a701",
+    "subject": "docs(decisions): \"the visible Room is behind the specification\" baked; the build lanes go to visible Phase 12"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 83% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 84% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T11:05:35.538Z",
-    "runningBuilders": 4,
+    "derivedAt": "2026-09-18T11:34:53.887Z",
+    "runningBuilders": 2,
     "runningBuilderDetail": [
       {
-        "pid": "51439",
-        "elapsed": "08:11"
+        "pid": "21580",
+        "elapsed": "14:08"
       },
       {
-        "pid": "51441",
-        "elapsed": "08:11"
-      },
-      {
-        "pid": "56191",
-        "elapsed": "05:51"
-      },
-      {
-        "pid": "56193",
-        "elapsed": "05:51"
+        "pid": "21582",
+        "elapsed": "14:08"
       }
     ],
     "queueDepth": {
@@ -209,7 +203,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 83,
+      "A": 86,
       "B": 91
     },
     "builderBand": "70%+ → 0 builder(s)",
@@ -224,7 +218,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T11:05:35.538Z",
+  "publishedAt": "2026-09-18T11:34:53.887Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -255,12 +249,6 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT: PR #37's other nine findings, 'Otherside · Video' losing its Official marker first",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it",
-    "4 headless claude process(es) in the table at 2026-09-18T11:05:35.538Z (pid 51439 up 08:11, pid 51441 up 08:11, pid 56191 up 05:51, pid 56193 up 05:51) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T11:05:51.700Z"
-  }
+    "2 headless claude process(es) in the table at 2026-09-18T11:34:53.887Z (pid 21580 up 14:08, pid 21582 up 14:08) — 0 of them recorded as lanes above"
+  ]
 }
