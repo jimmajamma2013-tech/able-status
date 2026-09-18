@@ -84,6 +84,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T08:07:45.946Z
 - subject: feat(fold): the boot repair lands — a first session turn falls from 181k to 68k tokens (r2 PASS 8·6)
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T08:08:53.740Z)
+
 ## candidates ready for verdict / fold
 - none
 
