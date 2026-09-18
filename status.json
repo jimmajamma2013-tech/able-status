@@ -268,5 +268,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS BUILDER (Opus on A, micro-20260918): the finger's own tap through a label to a real switch on the three sound toggles, first-frame press on the doors that ramp, a probe page for the founder's phone",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it",
     "8 headless claude process(es) in the table at 2026-09-18T09:48:03.047Z (pid 35107 up 16:49, pid 35109 up 16:49, pid 55181 up 08:49, pid 55183 up 08:49, pid 58374 up 07:52, pid 58376 up 07:52, pid 71742 up 47:55, pid 71744 up 47:55) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-18T09:48:21.425Z"
+  }
 }

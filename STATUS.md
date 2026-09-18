@@ -87,6 +87,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T09:47:54.089Z
 - subject: docs(reel): the founder's Reel ruling baked, and 08-REELS becomes a mandatory load the moment Reel code opens
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T09:48:21.425Z)
+
 ## candidates ready for verdict / fold
 - none
 
