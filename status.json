@@ -120,31 +120,31 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T11:47:26.094Z",
+  "updatedAt": "2026-09-18T12:56:14.336Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "d2f54e0de81c204323af90f113e5ace09b57b7e5",
-  "localCanonicalHead": "d2f54e0de81c204323af90f113e5ace09b57b7e5",
+  "remoteCanonicalHead": "098fced4f763753aaacc29927b75db18822bde56",
+  "localCanonicalHead": "098fced4f763753aaacc29927b75db18822bde56",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T11:47:25.143Z",
+  "lastVerifiedAt": "2026-09-18T12:56:10.597Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "d2f54e0de81c204323af90f113e5ace09b57b7e5",
-    "subject": "docs(haptics): the tick is FELT on the founder's iPhone — \"everything worked as hoped\""
+    "sha": "098fced4f763753aaacc29927b75db18822bde56",
+    "subject": "docs(decisions): the founder's Provider Participation brief, exported verbatim from Drive, with its four screenshots"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 84% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  86%  ·  Fable  88%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 86% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T11:47:26.094Z",
+    "derivedAt": "2026-09-18T12:56:14.336Z",
     "runningBuilders": 2,
     "runningBuilderDetail": [
       {
-        "pid": "21580",
-        "elapsed": "26:41"
+        "pid": "20229",
+        "elapsed": "18:54"
       },
       {
-        "pid": "21582",
-        "elapsed": "26:41"
+        "pid": "20231",
+        "elapsed": "18:54"
       }
     ],
     "queueDepth": {
@@ -175,29 +175,17 @@
         "branch": "night-claim-screen-20260917",
         "sha": "fba480c587",
         "ahead": 3
-      },
-      {
-        "branch": "night-consent-20260916",
-        "sha": "bbe92a379b",
-        "ahead": 2
-      },
-      {
-        "branch": "night-doors-20260916",
-        "sha": "1d3f87f51a",
-        "ahead": 3
       }
     ],
-    "deliveredUnfoldedCount": 5,
+    "deliveredUnfoldedCount": 3,
     "verdictsPending": [
       "ci-p2-ci-waste-20260917 @ f4bdfae07f",
       "ci-p2-lanes-ci-20260917 @ a1181e412f",
-      "night-claim-screen-20260917 @ fba480c587",
-      "night-consent-20260916 @ bbe92a379b",
-      "night-doors-20260916 @ 1d3f87f51a"
+      "night-claim-screen-20260917 @ fba480c587"
     ],
-    "verdictsPendingCount": 5,
+    "verdictsPendingCount": 3,
     "meterWeekly": {
-      "A": 86,
+      "A": 88,
       "B": 91
     },
     "builderBand": "70%+ → 0 builder(s)",
@@ -212,7 +200,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T11:47:26.094Z",
+  "publishedAt": "2026-09-18T12:56:14.336Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -227,12 +215,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit",
-    "2 headless claude process(es) in the table at 2026-09-18T11:47:26.094Z (pid 21580 up 26:41, pid 21582 up 26:41) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T11:47:47.114Z"
-  }
+    "2 headless claude process(es) in the table at 2026-09-18T12:56:14.336Z (pid 20229 up 18:54, pid 20231 up 18:54) — 0 of them recorded as lanes above"
+  ]
 }

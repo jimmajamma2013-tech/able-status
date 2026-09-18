@@ -6,17 +6,17 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
 - The build list is paused **on purpose** — not because anything broke. Nothing has been lost; every job is kept and will resume.
-- 5 pieces of finished work are waiting to be checked. That is why the list is paused: building faster than checking is how good work gets wiped out by accident.
+- 3 pieces of finished work are waiting to be checked. That is why the list is paused: building faster than checking is how good work gets wiped out by accident.
 - The second Claude account has used 91% of its week, so it is being kept in reserve for emergencies rather than doing routine work.
 
 ## Being worked on right now
 
-- 2 jobs are running (going 26:41, going 26:41).
+- 2 jobs are running (going 18:54, going 18:54).
 - ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
 
 
@@ -35,8 +35,8 @@ should not be trusted. It is supposed to update itself._
 
 - **2 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
-- **5 finished pieces** waiting to be checked and added in
-- Claude account A has used **86%** of its week — it refills **Sep 18 at 7pm**
+- **3 finished pieces** waiting to be checked and added in
+- Claude account A has used **88%** of its week — it refills **Sep 18 at 7pm**
 - Claude account B has used **91%** of its week — it refills **Sep 22 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
@@ -44,7 +44,7 @@ should not be trusted. It is supposed to update itself._
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 86% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
+| **Claude A** | 88% of its week used | The one to spend. Routine work goes here. Refills Sep 18 at 7pm. |
 | **Claude B** | 91% of its week used | Nearly spent, and its top tier is closed until it refills Sep 22 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
@@ -60,20 +60,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T11:47:26.094Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T12:56:14.336Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T11:47:26.094Z**
+- **publishedAt: 2026-09-18T12:56:14.336Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 21580 up 26:41 · pid 21582 up 26:41)
+- runningBuilders: **2** (pid 20229 up 18:54 · pid 20231 up 18:54)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
-- deliveredUnfolded: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3) · night-consent-20260916 @ bbe92a379b (+2) · night-doors-20260916 @ 1d3f87f51a (+3)
-- verdictsPending: **5** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587 · night-consent-20260916 @ bbe92a379b · night-doors-20260916 @ 1d3f87f51a
-- meters weekly: A **86%** · B **91%** · band: 70%+ → 0 builder(s)
+- deliveredUnfolded: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3)
+- verdictsPending: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587
+- meters weekly: A **88%** · B **91%** · band: 70%+ → 0 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -82,13 +82,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: d2f54e0de81c204323af90f113e5ace09b57b7e5  (fresh `git ls-remote`)
-- localCanonicalHead: d2f54e0de81c204323af90f113e5ace09b57b7e5  · agrees
+- remoteCanonicalHead: 098fced4f763753aaacc29927b75db18822bde56  (fresh `git ls-remote`)
+- localCanonicalHead: 098fced4f763753aaacc29927b75db18822bde56  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T11:47:25.143Z
-- subject: docs(haptics): the tick is FELT on the founder's iPhone — "everything worked as hoped"
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T11:47:47.114Z)
+- lastVerifiedAt: 2026-09-18T12:56:10.597Z
+- subject: docs(decisions): the founder's Provider Participation brief, exported verbatim from Drive, with its four screenshots
 
 ## candidates ready for verdict / fold
 - none
@@ -96,7 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit
-- 2 headless claude process(es) in the table at 2026-09-18T11:47:26.094Z (pid 21580 up 26:41, pid 21582 up 26:41) — 0 of them recorded as lanes above
+- 2 headless claude process(es) in the table at 2026-09-18T12:56:14.336Z (pid 20229 up 18:54, pid 20231 up 18:54) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -129,11 +127,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  86%  ·  Fable  88%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 84% → [1m0 builder(s)[0m · preserve for blockers until Codex and the second Claude account return
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 86% → [1m0 builder(s)[0m · preserve for blockers until Codex and the second Claude account return
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
