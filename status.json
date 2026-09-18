@@ -2,9 +2,11 @@
   "seat": "fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code)",
   "readyForVerdict": [],
   "running": [
-    "ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list",
-    "CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical",
-    "HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James",
+    "THE REEL NINE-STAGE CENSUS (read-only sweep, the founder's first Reel task): what exists, what runs, and what exists but is never invoked, for visual understanding → hook → scenes → difference test → words/selector → destination awareness → landing continuity → People frames → quality evaluator; plus what a visitor gets from the Film today. Every seat touching Reel code now loads 08-REELS first, by a path-triggered rule",
+    "ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel",
+    "BACKLOG MERGE VERIFIER (Opus on A): the three doors, CONSENT-P0 and the claim trust fix, merged onto today's canonical at 4be4117850",
+    "PROVIDER-TRUTH VERIFIER (Opus on A): the factory seat's fix for five of PR #37's live findings at 6137dc3c1f",
+    "HAPTICS BUILDER (Opus on A, micro-20260918): the finger's own tap through a label to a real switch on the three sound toggles, first-frame press on the doors that ramp, a probe page for the founder's phone",
     "FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it"
   ],
   "blockers": [
@@ -118,35 +120,55 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T08:47:12.250Z",
+  "updatedAt": "2026-09-18T09:48:03.047Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "19b41f48fbc23e86b2cd8957c033142034a1f49e",
-  "localCanonicalHead": "19b41f48fbc23e86b2cd8957c033142034a1f49e",
+  "remoteCanonicalHead": "2036a671596d2aaa9131fd77166fcf6688d0372b",
+  "localCanonicalHead": "2036a671596d2aaa9131fd77166fcf6688d0372b",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T08:47:11.194Z",
+  "lastVerifiedAt": "2026-09-18T09:47:54.089Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "19b41f48fbc23e86b2cd8957c033142034a1f49e",
-    "subject": "docs(cold-review): the boot slice's r1 verdict received — PASS, product 9, assurance 6"
+    "sha": "2036a671596d2aaa9131fd77166fcf6688d0372b",
+    "subject": "docs(reel): the founder's Reel ruling baked, and 08-REELS becomes a mandatory load the moment Reel code opens"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 74% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 77% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T08:47:12.250Z",
-    "runningBuilders": 3,
+    "derivedAt": "2026-09-18T09:48:03.047Z",
+    "runningBuilders": 8,
     "runningBuilderDetail": [
       {
-        "pid": "9221",
-        "elapsed": "35:39"
+        "pid": "35107",
+        "elapsed": "16:49"
       },
       {
-        "pid": "26972",
-        "elapsed": "24:20"
+        "pid": "35109",
+        "elapsed": "16:49"
       },
       {
-        "pid": "26974",
-        "elapsed": "24:20"
+        "pid": "55181",
+        "elapsed": "08:49"
+      },
+      {
+        "pid": "55183",
+        "elapsed": "08:49"
+      },
+      {
+        "pid": "58374",
+        "elapsed": "07:52"
+      },
+      {
+        "pid": "58376",
+        "elapsed": "07:52"
+      },
+      {
+        "pid": "71742",
+        "elapsed": "47:55"
+      },
+      {
+        "pid": "71744",
+        "elapsed": "47:55"
       }
     ],
     "queueDepth": {
@@ -199,7 +221,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 74,
+      "A": 77,
       "B": 91
     },
     "builderBand": "70%+ → 0 builder(s)",
@@ -214,35 +236,37 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T08:47:12.250Z",
+  "publishedAt": "2026-09-18T09:48:03.047Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
   "runningUnverified": [
     {
-      "task": "ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list"
+      "task": "THE REEL NINE-STAGE CENSUS (read-only sweep, the founder's first Reel task): what exists, what runs, and what exists but is never invoked, for visual understanding → hook → scenes → difference test → words/selector → destination awareness → landing continuity → People frames → quality evaluator; plus what a visitor gets from the Film today. Every seat touching Reel code now loads 08-REELS first, by a path-triggered rule"
     },
     {
-      "task": "CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical"
+      "task": "ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel"
     },
     {
-      "task": "HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James"
+      "task": "BACKLOG MERGE VERIFIER (Opus on A): the three doors, CONSENT-P0 and the claim trust fix, merged onto today's canonical at 4be4117850"
+    },
+    {
+      "task": "PROVIDER-TRUTH VERIFIER (Opus on A): the factory seat's fix for five of PR #37's live findings at 6137dc3c1f"
+    },
+    {
+      "task": "HAPTICS BUILDER (Opus on A, micro-20260918): the finger's own tap through a label to a real switch on the three sound toggles, first-frame press on the doors that ramp, a probe page for the founder's phone"
     },
     {
       "task": "FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it"
     }
   ],
   "runningRendered": [
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list",
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical",
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): THE REEL NINE-STAGE CENSUS (read-only sweep, the founder's first Reel task): what exists, what runs, and what exists but is never invoked, for visual understanding → hook → scenes → difference test → words/selector → destination awareness → landing continuity → People frames → quality evaluator; plus what a visitor gets from the Film today. Every seat touching Reel code now loads 08-REELS first, by a path-triggered rule",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): BACKLOG MERGE VERIFIER (Opus on A): the three doors, CONSENT-P0 and the claim trust fix, merged onto today's canonical at 4be4117850",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): PROVIDER-TRUTH VERIFIER (Opus on A): the factory seat's fix for five of PR #37's live findings at 6137dc3c1f",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS BUILDER (Opus on A, micro-20260918): the finger's own tap through a label to a real switch on the three sound toggles, first-frame press on the doors that ramp, a probe page for the founder's phone",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it",
-    "3 headless claude process(es) in the table at 2026-09-18T08:47:12.250Z (pid 9221 up 35:39, pid 26972 up 24:20, pid 26974 up 24:20) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T08:47:27.623Z"
-  }
+    "8 headless claude process(es) in the table at 2026-09-18T09:48:03.047Z (pid 35107 up 16:49, pid 35109 up 16:49, pid 55181 up 08:49, pid 55183 up 08:49, pid 58374 up 07:52, pid 58376 up 07:52, pid 71742 up 47:55, pid 71744 up 47:55) — 0 of them recorded as lanes above"
+  ]
 }
