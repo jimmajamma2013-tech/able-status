@@ -14,7 +14,6 @@
     "OWED: one bounded independent verdict on the status bridge itself (oldest open debt on this seat). And the kernel §2 names claimSoundOwner/releaseSoundOwner in audioBus.ts which do not exist in src/ — a doc-vs-code mismatch the cand-play verifier found."
   ],
   "needsJames": [
-    "TWO MINUTES ON YOUR iPHONE: the haptic check page (link in root's message) — five taps, screenshot the grey box; and tell root your iOS version and whether Reduce Motion is on",
     "THREE RULINGS, one line each: (1) should Reduce Motion stop switching off the buzz? (2) the audio warm-up — Able serves it or it waits for the first tap? (3) may Able release the old Lane B file claims (B is your reserve and its scheduled jobs are now off)?",
     "TOOL LOGINS for the instrument matrix (each unlocks one row; none blocks today's build): a real Sentry project key (the Sentry code is already wired — the key in the settings is a placeholder) · a free Replay login · Greptile TREX switched on · a BrowserStack account for real-iPhone testing · Figma sign-in if we use it",
     "GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): \"The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings.\" Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.",
@@ -99,7 +98,7 @@
     "THE BOOT REPAIR — on canonical at 0c8910190f (r2 PASS product 8 · assurance 6): a first session turn falls from 181,287 to 68,419 input tokens, measured from real usage records; npm run boot-cost now counts what loads and reads 37.0k INVESTIGATE, within about 5% of reality. The trade-off (four documents leave every session's first turn, all still named in CLAUDE.md and AGENTS.md) is in docs/audits/2026-09-18-factory-fold-ruling/RECORD.md. Carried: N1 Skill for builder and verifier; N2 path-scoped rules do not fire on cat/sed — one kernel line owed",
     "THE BOOT REPAIR'S CARRIED ITEMS — on canonical at edc84ea971, verdict received at 19b41f48fb (r1 PASS product 9 · assurance 6): kernel rule 16 'open code with the Read tool before editing'; law 1 quoted byte-for-byte; the anti-template rule whole; builder and verifier can invoke law skills; the commit gate stops about 1,234 false quote pairings. Carried to the next boot slice: R-1 and R-2 (7 of 7 re-spellings of an unquoted attribution still pass)",
     "THE PROVIDER STAGE STOPS OVERSTATING — on canonical at d25aedf472 (r1 PASS product 8 · assurance 7, built by the factory seat): Maribou's Work no longer says 'full album' without evidence ('· album' at 390/834/1440), and one tap on its Bandcamp door no longer prints 'the money reaches the artist directly' (the verifier found it live there at base); Deezer transfer only where it hands over sound; a provider script that fails shows an honest failed state and can retry; an unsaveable consent grant says so. Five of PR #37's fourteen live findings",
-    "THE FINGER'S OWN TAP REACHES A REAL SWITCH — on canonical at 903220193a (r1 PASS product 7 · assurance 8): Listen, Work Play and the sounding record route a real tap through a label to one real switch, the only way an iPhone web page can tick; four doors answer on the first frame. Not yet claimed: a tick FELT on the founder's iPhone — his thumb decides, on the shared link. Carried: the two Music track-row Play buttons do not tick yet; Listen still eases into its press",
+    "THE FINGER'S OWN TAP REACHES A REAL SWITCH — on canonical at 903220193a (r1 PASS product 7 · assurance 8): Listen, Work Play and the sounding record route a real tap through a label to one real switch, the only way an iPhone web page can tick; four doors answer on the first frame. FELT on the founder's own iPhone at 12:44 (\"everything worked as hoped\": native switch, Able's method and Maribou's Listen all ticked; a drag scrolled without ticking). Carried: the two Music track-row Play buttons do not tick yet; Listen still eases into its press",
     "SPOTIFY'S MISSING VALUES ARE UNKNOWN, NEVER ZERO — on canonical at b5b294e64e (r1 PASS product 7 · assurance 8, built by the factory seat): follower count, popularity, label and markets that Development Mode strips are unknown at capture; homonym picks declare their basis. Three sites of the same class carried to the next Spotify packet"
   ],
   "returned": [
@@ -121,31 +120,31 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T11:40:36.123Z",
+  "updatedAt": "2026-09-18T11:47:26.094Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "ff0561f6c293b2cb490922e05c7515f99232aa8d",
-  "localCanonicalHead": "ff0561f6c293b2cb490922e05c7515f99232aa8d",
+  "remoteCanonicalHead": "d2f54e0de81c204323af90f113e5ace09b57b7e5",
+  "localCanonicalHead": "d2f54e0de81c204323af90f113e5ace09b57b7e5",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T11:40:34.712Z",
+  "lastVerifiedAt": "2026-09-18T11:47:25.143Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "ff0561f6c293b2cb490922e05c7515f99232aa8d",
-    "subject": "docs(process): the instrument matrix — which tool for which job — and \"I want all this 11 out of 10\" baked"
+    "sha": "d2f54e0de81c204323af90f113e5ace09b57b7e5",
+    "subject": "docs(haptics): the tick is FELT on the founder's iPhone — \"everything worked as hoped\""
   },
   "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 84% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T11:40:36.123Z",
+    "derivedAt": "2026-09-18T11:47:26.094Z",
     "runningBuilders": 2,
     "runningBuilderDetail": [
       {
         "pid": "21580",
-        "elapsed": "19:51"
+        "elapsed": "26:41"
       },
       {
         "pid": "21582",
-        "elapsed": "19:51"
+        "elapsed": "26:41"
       }
     ],
     "queueDepth": {
@@ -213,7 +212,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T11:40:36.123Z",
+  "publishedAt": "2026-09-18T11:47:26.094Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -228,12 +227,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit",
-    "2 headless claude process(es) in the table at 2026-09-18T11:40:36.123Z (pid 21580 up 19:51, pid 21582 up 19:51) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T11:40:52.356Z"
-  }
+    "2 headless claude process(es) in the table at 2026-09-18T11:47:26.094Z (pid 21580 up 26:41, pid 21582 up 26:41) — 0 of them recorded as lanes above"
+  ]
 }

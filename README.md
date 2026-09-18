@@ -16,13 +16,12 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 19:51, going 19:51).
+- 2 jobs are running (going 26:41, going 26:41).
 - ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
 
 
 ## Waiting for you
 
-- TWO MINUTES ON YOUR iPHONE: the haptic check page
 - THREE RULINGS, one line each:
 - TOOL LOGINS for the instrument matrix
 - GITHUB ACTIONS — the cause is now GitHub's own sentence
@@ -61,13 +60,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T11:40:36.123Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T11:47:26.094Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T11:40:36.123Z**
+- **publishedAt: 2026-09-18T11:47:26.094Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 21580 up 19:51 · pid 21582 up 19:51)
+- runningBuilders: **2** (pid 21580 up 26:41 · pid 21582 up 26:41)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -83,11 +82,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: ff0561f6c293b2cb490922e05c7515f99232aa8d  (fresh `git ls-remote`)
-- localCanonicalHead: ff0561f6c293b2cb490922e05c7515f99232aa8d  · agrees
+- remoteCanonicalHead: d2f54e0de81c204323af90f113e5ace09b57b7e5  (fresh `git ls-remote`)
+- localCanonicalHead: d2f54e0de81c204323af90f113e5ace09b57b7e5  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T11:40:34.712Z
-- subject: docs(process): the instrument matrix — which tool for which job — and "I want all this 11 out of 10" baked
+- lastVerifiedAt: 2026-09-18T11:47:25.143Z
+- subject: docs(haptics): the tick is FELT on the founder's iPhone — "everything worked as hoped"
 
 ## candidates ready for verdict / fold
 - none
@@ -95,7 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit
-- 2 headless claude process(es) in the table at 2026-09-18T11:40:36.123Z (pid 21580 up 19:51, pid 21582 up 19:51) — 0 of them recorded as lanes above
+- 2 headless claude process(es) in the table at 2026-09-18T11:47:26.094Z (pid 21580 up 26:41, pid 21582 up 26:41) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -106,7 +105,6 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - OWED: one bounded independent verdict on the status bridge itself (oldest open debt on this seat). And the kernel §2 names claimSoundOwner/releaseSoundOwner in audioBus.ts which do not exist in src/ — a doc-vs-code mismatch the cand-play verifier found.
 
 ## needs James
-- TWO MINUTES ON YOUR iPHONE: the haptic check page (link in root's message) — five taps, screenshot the grey box; and tell root your iOS version and whether Reduce Motion is on
 - THREE RULINGS, one line each: (1) should Reduce Motion stop switching off the buzz? (2) the audio warm-up — Able serves it or it waits for the first tap? (3) may Able release the old Lane B file claims (B is your reserve and its scheduled jobs are now off)?
 - TOOL LOGINS for the instrument matrix (each unlocks one row; none blocks today's build): a real Sentry project key (the Sentry code is already wired — the key in the settings is a placeholder) · a free Replay login · Greptile TREX switched on · a BrowserStack account for real-iPhone testing · Figma sign-in if we use it
 - GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): "The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings." Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.
