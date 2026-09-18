@@ -2,11 +2,13 @@
   "seat": "fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code)",
   "readyForVerdict": [],
   "running": [
+    "THE 100-INSTRUCTION ATTACK (GPT's Step 1 brief, one bounded pass): every instruction of the 17 Sept master directive attacked with the brief's nine columns and questions A–I, the four external sources opened, a skeptic on every status; result = a new decision + durable deltas into 12-PROCESS; a fresh verifier follows",
+    "BACKLOG MERGE r2 (builder): RETURNED 7·6 on two small blockers — the claim page 500s on a mixed-case address ('Maribou-State') canonical served, and one test still pinned the dead removal mailbox",
+    "HAPTICS VERIFIER: the finger's own tap through a label to a real switch on the sound toggles, first-frame press on four doors, a probe page for the founder's phone",
+    "SPOTIFY VERIFIER: missing Spotify values are UNKNOWN, never zero (factory seat's slice)",
+    "FACTORY SEAT: PR #37's other nine findings, 'Otherside · Video' losing its Official marker first",
     "THE REEL NINE-STAGE CENSUS (read-only sweep, the founder's first Reel task): what exists, what runs, and what exists but is never invoked, for visual understanding → hook → scenes → difference test → words/selector → destination awareness → landing continuity → People frames → quality evaluator; plus what a visitor gets from the Film today. Every seat touching Reel code now loads 08-REELS first, by a path-triggered rule",
     "ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel",
-    "BACKLOG MERGE VERIFIER (Opus on A): the three doors, CONSENT-P0 and the claim trust fix, merged onto today's canonical at 4be4117850",
-    "PROVIDER-TRUTH VERIFIER (Opus on A): the factory seat's fix for five of PR #37's live findings at 6137dc3c1f",
-    "HAPTICS BUILDER (Opus on A, micro-20260918): the finger's own tap through a label to a real switch on the three sound toggles, first-frame press on the doors that ramp, a probe page for the founder's phone",
     "FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it"
   ],
   "blockers": [
@@ -99,7 +101,8 @@
     "THE ROOM'S IMAGES COME FROM ABLE'S OWN ORIGIN — on canonical at 22a194dd7d (r1 PASS product 7 · assurance 8): the definitive Room stops telling Apple and Google a stranger arrived, and the arrival photograph now lands under its 4,000 ms Fast-4G budget in six runs of six. Carried: the first-party-image decision now lives in two files and the next slice in the room must merge them into one",
     "THE WORK BECOMES TWO PANES AT 834 AND 1440 — on canonical at a2fcda752c (r2 PASS product 4 · assurance 8): the Work half of DUAL/WIDE; re-measured on canonical after the fold, RECOMPOSED at both widths, the phone at 390 unchanged. Product 4 is the honest number: carried by name are the artwork appearing twice (③), the Back band detached (N4), the flat black rail (N5), the Room's own DUAL/WIDE, and two guard gaps (NB1, NB2)",
     "THE BOOT REPAIR — on canonical at 0c8910190f (r2 PASS product 8 · assurance 6): a first session turn falls from 181,287 to 68,419 input tokens, measured from real usage records; npm run boot-cost now counts what loads and reads 37.0k INVESTIGATE, within about 5% of reality. The trade-off (four documents leave every session's first turn, all still named in CLAUDE.md and AGENTS.md) is in docs/audits/2026-09-18-factory-fold-ruling/RECORD.md. Carried: N1 Skill for builder and verifier; N2 path-scoped rules do not fire on cat/sed — one kernel line owed",
-    "THE BOOT REPAIR'S CARRIED ITEMS — on canonical at edc84ea971, verdict received at 19b41f48fb (r1 PASS product 9 · assurance 6): kernel rule 16 'open code with the Read tool before editing'; law 1 quoted byte-for-byte; the anti-template rule whole; builder and verifier can invoke law skills; the commit gate stops about 1,234 false quote pairings. Carried to the next boot slice: R-1 and R-2 (7 of 7 re-spellings of an unquoted attribution still pass)"
+    "THE BOOT REPAIR'S CARRIED ITEMS — on canonical at edc84ea971, verdict received at 19b41f48fb (r1 PASS product 9 · assurance 6): kernel rule 16 'open code with the Read tool before editing'; law 1 quoted byte-for-byte; the anti-template rule whole; builder and verifier can invoke law skills; the commit gate stops about 1,234 false quote pairings. Carried to the next boot slice: R-1 and R-2 (7 of 7 re-spellings of an unquoted attribution still pass)",
+    "THE PROVIDER STAGE STOPS OVERSTATING — on canonical at d25aedf472 (r1 PASS product 8 · assurance 7, built by the factory seat): Maribou's Work no longer says 'full album' without evidence ('· album' at 390/834/1440), and one tap on its Bandcamp door no longer prints 'the money reaches the artist directly' (the verifier found it live there at base); Deezer transfer only where it hands over sound; a provider script that fails shows an honest failed state and can retry; an unsaveable consent grant says so. Five of PR #37's fourteen live findings"
   ],
   "returned": [
     "PR #37 (merged 2026-09-17 19:32) — all 14 of Greptile's findings are LIVE on canonical 72d2955b01, checked by the factory seat file by file. Two break 'nothing printed exceeds its receipt' (a 'full album' caption and 'the money reaches the artist directly'), both in the provider stage and now being fixed. Still owed as a second slice: the feat. link missing its Work, the collection Play control, retained mix previews (ruled: the renderer obeys composeWork), 'Otherside · Video' losing its Official marker on Maribou now, credited names counted as people, collaborator identity dropped, literal 'feat.' wording, an eye-check CSP classification, and a probe that passes an error page",
@@ -120,51 +123,59 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T10:16:17.397Z",
+  "updatedAt": "2026-09-18T10:20:56.460Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "f3c0c076ad39037074c6d62028dedd3f1f27695f",
-  "localCanonicalHead": "f3c0c076ad39037074c6d62028dedd3f1f27695f",
+  "remoteCanonicalHead": "d25aedf472e6175a24a8a8f7eba213532c428f23",
+  "localCanonicalHead": "d25aedf472e6175a24a8a8f7eba213532c428f23",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T10:14:45.231Z",
+  "lastVerifiedAt": "2026-09-18T10:19:24.802Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "f3c0c076ad39037074c6d62028dedd3f1f27695f",
-    "subject": "docs(decisions): the Step 2 brief baked verbatim — Film V2 and the Reel compiler, one pass on the census"
+    "sha": "d25aedf472e6175a24a8a8f7eba213532c428f23",
+    "subject": "feat(fold): the provider stage stops overstating — no 'full album', no money claim from a buy door (PASS 8·7)"
   },
   "meters": "\u001b[33m  ⚠️ An UNKNOWN above is not a low reading. Do not route work on it,\u001b[0m\n\u001b[33m     and no \"spend this one\" verdict is issued while a meter is unreadable.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 80% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T10:16:17.398Z",
-    "runningBuilders": 7,
+    "derivedAt": "2026-09-18T10:20:56.460Z",
+    "runningBuilders": 9,
     "runningBuilderDetail": [
       {
+        "pid": "9021",
+        "elapsed": "02:00"
+      },
+      {
+        "pid": "9023",
+        "elapsed": "02:00"
+      },
+      {
+        "pid": "9259",
+        "elapsed": "01:55"
+      },
+      {
         "pid": "23111",
-        "elapsed": "08:39"
+        "elapsed": "13:18"
       },
       {
         "pid": "23113",
-        "elapsed": "08:39"
+        "elapsed": "13:18"
       },
       {
         "pid": "58374",
-        "elapsed": "36:06"
+        "elapsed": "40:45"
       },
       {
         "pid": "58376",
-        "elapsed": "36:06"
+        "elapsed": "40:45"
       },
       {
         "pid": "67616",
-        "elapsed": "02:45"
+        "elapsed": "07:24"
       },
       {
         "pid": "67643",
-        "elapsed": "02:45"
-      },
-      {
-        "pid": "96871",
-        "elapsed": "00:09"
+        "elapsed": "07:24"
       }
     ],
     "queueDepth": {
@@ -218,12 +229,12 @@
     "verdictsPendingCount": 5,
     "meterWeekly": {
       "A": 80,
-      "B": "UNKNOWN"
+      "B": 91
     },
     "builderBand": "70%+ → 0 builder(s)",
     "resets": {
       "A": "Sep 18 at 7pm",
-      "B": "UNKNOWN"
+      "B": "Sep 22 at 10:59pm"
     },
     "capacity": {
       "codex": "Codex / Astra UNKNOWN — The provider reports a reached account limit",
@@ -232,11 +243,26 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T10:16:17.397Z",
+  "publishedAt": "2026-09-18T10:20:56.460Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
   "runningUnverified": [
+    {
+      "task": "THE 100-INSTRUCTION ATTACK (GPT's Step 1 brief, one bounded pass): every instruction of the 17 Sept master directive attacked with the brief's nine columns and questions A–I, the four external sources opened, a skeptic on every status; result = a new decision + durable deltas into 12-PROCESS; a fresh verifier follows"
+    },
+    {
+      "task": "BACKLOG MERGE r2 (builder): RETURNED 7·6 on two small blockers — the claim page 500s on a mixed-case address ('Maribou-State') canonical served, and one test still pinned the dead removal mailbox"
+    },
+    {
+      "task": "HAPTICS VERIFIER: the finger's own tap through a label to a real switch on the sound toggles, first-frame press on four doors, a probe page for the founder's phone"
+    },
+    {
+      "task": "SPOTIFY VERIFIER: missing Spotify values are UNKNOWN, never zero (factory seat's slice)"
+    },
+    {
+      "task": "FACTORY SEAT: PR #37's other nine findings, 'Otherside · Video' losing its Official marker first"
+    },
     {
       "task": "THE REEL NINE-STAGE CENSUS (read-only sweep, the founder's first Reel task): what exists, what runs, and what exists but is never invoked, for visual understanding → hook → scenes → difference test → words/selector → destination awareness → landing continuity → People frames → quality evaluator; plus what a visitor gets from the Film today. Every seat touching Reel code now loads 08-REELS first, by a path-triggered rule"
     },
@@ -244,31 +270,18 @@
       "task": "ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel"
     },
     {
-      "task": "BACKLOG MERGE VERIFIER (Opus on A): the three doors, CONSENT-P0 and the claim trust fix, merged onto today's canonical at 4be4117850"
-    },
-    {
-      "task": "PROVIDER-TRUTH VERIFIER (Opus on A): the factory seat's fix for five of PR #37's live findings at 6137dc3c1f"
-    },
-    {
-      "task": "HAPTICS BUILDER (Opus on A, micro-20260918): the finger's own tap through a label to a real switch on the three sound toggles, first-frame press on the doors that ramp, a probe page for the founder's phone"
-    },
-    {
       "task": "FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it"
     }
   ],
   "runningRendered": [
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): THE 100-INSTRUCTION ATTACK (GPT's Step 1 brief, one bounded pass): every instruction of the 17 Sept master directive attacked with the brief's nine columns and questions A–I, the four external sources opened, a skeptic on every status; result = a new decision + durable deltas into 12-PROCESS; a fresh verifier follows",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): BACKLOG MERGE r2 (builder): RETURNED 7·6 on two small blockers — the claim page 500s on a mixed-case address ('Maribou-State') canonical served, and one test still pinned the dead removal mailbox",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS VERIFIER: the finger's own tap through a label to a real switch on the sound toggles, first-frame press on four doors, a probe page for the founder's phone",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): SPOTIFY VERIFIER: missing Spotify values are UNKNOWN, never zero (factory seat's slice)",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT: PR #37's other nine findings, 'Otherside · Video' losing its Official marker first",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): THE REEL NINE-STAGE CENSUS (read-only sweep, the founder's first Reel task): what exists, what runs, and what exists but is never invoked, for visual understanding → hook → scenes → difference test → words/selector → destination awareness → landing continuity → People frames → quality evaluator; plus what a visitor gets from the Film today. Every seat touching Reel code now loads 08-REELS first, by a path-triggered rule",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel",
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): BACKLOG MERGE VERIFIER (Opus on A): the three doors, CONSENT-P0 and the claim trust fix, merged onto today's canonical at 4be4117850",
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): PROVIDER-TRUTH VERIFIER (Opus on A): the factory seat's fix for five of PR #37's live findings at 6137dc3c1f",
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS BUILDER (Opus on A, micro-20260918): the finger's own tap through a label to a real switch on the three sound toggles, first-frame press on the doors that ramp, a probe page for the founder's phone",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it",
-    "7 headless claude process(es) in the table at 2026-09-18T10:16:17.398Z (pid 23111 up 08:39, pid 23113 up 08:39, pid 58374 up 36:06, pid 58376 up 36:06, pid 67616 up 02:45, pid 67643 up 02:45, pid 96871 up 00:09) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T10:18:07.877Z"
-  }
+    "9 headless claude process(es) in the table at 2026-09-18T10:20:56.460Z (pid 9021 up 02:00, pid 9023 up 02:00, pid 9259 up 01:55, pid 23111 up 13:18, pid 23113 up 13:18, pid 58374 up 40:45, pid 58376 up 40:45, pid 67616 up 07:24, pid 67643 up 07:24) — 0 of them recorded as lanes above"
+  ]
 }
