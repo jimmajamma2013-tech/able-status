@@ -124,31 +124,39 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T10:58:43.521Z",
+  "updatedAt": "2026-09-18T11:05:35.538Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "ba05715639e2ae68f0432c544ed0463d46deee46",
-  "localCanonicalHead": "ba05715639e2ae68f0432c544ed0463d46deee46",
+  "remoteCanonicalHead": "59f0924bcda8d30f478ec7523f030c43ff86da1a",
+  "localCanonicalHead": "59f0924bcda8d30f478ec7523f030c43ff86da1a",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T10:57:51.466Z",
+  "lastVerifiedAt": "2026-09-18T11:05:34.458Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "ba05715639e2ae68f0432c544ed0463d46deee46",
-    "subject": "docs(decisions): GPT's Film V2 result and the agreed GPT order, baked verbatim with root's disposition"
+    "sha": "59f0924bcda8d30f478ec7523f030c43ff86da1a",
+    "subject": "docs(decisions): GPT Step 3 baked verbatim; the haptics slice's record and verdict published for GPT Step 4"
   },
   "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 83% → \u001b[1m0 builder(s)\u001b[0m · preserve for blockers until Codex and the second Claude account return\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T10:58:43.521Z",
-    "runningBuilders": 2,
+    "derivedAt": "2026-09-18T11:05:35.538Z",
+    "runningBuilders": 4,
     "runningBuilderDetail": [
       {
         "pid": "51439",
-        "elapsed": "01:19"
+        "elapsed": "08:11"
       },
       {
         "pid": "51441",
-        "elapsed": "01:19"
+        "elapsed": "08:11"
+      },
+      {
+        "pid": "56191",
+        "elapsed": "05:51"
+      },
+      {
+        "pid": "56193",
+        "elapsed": "05:51"
       }
     ],
     "queueDepth": {
@@ -216,7 +224,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T10:58:43.521Z",
+  "publishedAt": "2026-09-18T11:05:35.538Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -247,12 +255,6 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT: PR #37's other nine findings, 'Otherside · Video' losing its Official marker first",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY r2 (builder, Opus on A): RETURNED 8·6 on one blocker, a prefix test that let /\\host and /<TAB>/host reach Google in a real browser; closing it plus a leaky carve-out and an empty panel",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it",
-    "2 headless claude process(es) in the table at 2026-09-18T10:58:43.521Z (pid 51439 up 01:19, pid 51441 up 01:19) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T10:59:00.134Z"
-  }
+    "4 headless claude process(es) in the table at 2026-09-18T11:05:35.538Z (pid 51439 up 08:11, pid 51441 up 08:11, pid 56191 up 05:51, pid 56193 up 05:51) — 0 of them recorded as lanes above"
+  ]
 }
