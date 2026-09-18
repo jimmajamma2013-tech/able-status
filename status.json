@@ -234,5 +234,11 @@
   "runningRendered": [
     "FINISHED, UNRECORDED — pid 8055 is not in the process table and the seat has not written its outcome yet: DUAL at 834 and WIDE at 1440, r1, on dual-wide-20260918 @ d0391b777d — the dimension capping product at 4. The builder recomposed the Work into two columns and WITHDREW the Room (its own opening already has tablet and desktop layouts; the frame pushed 159 px of content). The root seat measured this SHA first: the Work RECOMPOSED at 834 and 1440 (2 columns, widest band 0.58 of the viewport) where canonical is STRETCHED, the Room unchanged, 390 untouched. The verifier weighs the builder's own doubt — the artwork appearing twice at the top of a Work",
     "2 headless claude process(es) in the table at 2026-09-18T01:31:30.505Z (pid 32550 up 26:07, pid 49493 up 13:25) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-18T01:32:32.362Z"
+  }
 }
