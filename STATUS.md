@@ -87,6 +87,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-18T15:37:47.904Z
 - subject: docs(decisions): #74/#75 — keep Account A back until 19:00 by using the other models, and don't stop
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-18T15:41:12.389Z)
+
 ## candidates ready for verdict / fold
 - none
 
