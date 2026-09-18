@@ -124,31 +124,31 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-18T01:31:30.505Z",
+  "updatedAt": "2026-09-18T01:52:42.015Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "70330c9db82c67c183979bfb91d7754dba81f874",
-  "localCanonicalHead": "70330c9db82c67c183979bfb91d7754dba81f874",
+  "remoteCanonicalHead": "bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d",
+  "localCanonicalHead": "bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-18T01:29:44.195Z",
+  "lastVerifiedAt": "2026-09-18T01:52:41.334Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "70330c9db82c67c183979bfb91d7754dba81f874",
-    "subject": "docs(fold): the factory branch ruled — the verdict loop stops, the boot repair folds on its own narrow verdict, the tripwire stays unfolded"
+    "sha": "bce2dd6d3e64fbd4e9062bfdfb5c9a181f54c11d",
+    "subject": "docs(decisions): the two-day baseline's boot figure is an under-count, corrected in place with the original row kept"
   },
-  "meters": "\u001b[33m  ⚠️ An UNKNOWN above is not a low reading. Do not route work on it,\u001b[0m\n\u001b[33m     and no \"spend this one\" verdict is issued while a meter is unreadable.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 67% → \u001b[1m0 builder(s)\u001b[0m · architect / integrator / reviewer only\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  84%  ·  Fable  84%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 68% → \u001b[1m0 builder(s)\u001b[0m · architect / integrator / reviewer only\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-18T01:31:30.505Z",
+    "derivedAt": "2026-09-18T01:52:42.015Z",
     "runningBuilders": 2,
     "runningBuilderDetail": [
       {
-        "pid": "32550",
-        "elapsed": "26:07"
+        "pid": "11295",
+        "elapsed": "17:31"
       },
       {
-        "pid": "49493",
-        "elapsed": "13:25"
+        "pid": "27271",
+        "elapsed": "07:39"
       }
     ],
     "queueDepth": {
@@ -201,7 +201,7 @@
     ],
     "verdictsPendingCount": 5,
     "meterWeekly": {
-      "A": 67,
+      "A": 68,
       "B": 91
     },
     "builderBand": "65–70% → 0 builder(s)",
@@ -216,7 +216,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-18T01:31:30.505Z",
+  "publishedAt": "2026-09-18T01:52:42.015Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [
@@ -233,12 +233,6 @@
   "runningUnverified": [],
   "runningRendered": [
     "FINISHED, UNRECORDED — pid 8055 is not in the process table and the seat has not written its outcome yet: DUAL at 834 and WIDE at 1440, r1, on dual-wide-20260918 @ d0391b777d — the dimension capping product at 4. The builder recomposed the Work into two columns and WITHDREW the Room (its own opening already has tablet and desktop layouts; the frame pushed 159 px of content). The root seat measured this SHA first: the Work RECOMPOSED at 834 and 1440 (2 columns, widest band 0.58 of the viewport) where canonical is STRETCHED, the Room unchanged, 390 untouched. The verifier weighs the builder's own doubt — the artwork appearing twice at the top of a Work",
-    "2 headless claude process(es) in the table at 2026-09-18T01:31:30.505Z (pid 32550 up 26:07, pid 49493 up 13:25) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-18T01:32:32.362Z"
-  }
+    "2 headless claude process(es) in the table at 2026-09-18T01:52:42.015Z (pid 11295 up 17:31, pid 27271 up 07:39) — 0 of them recorded as lanes above"
+  ]
 }
