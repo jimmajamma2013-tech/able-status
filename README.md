@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-5 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
+3 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 5 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,14 +16,15 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 5 jobs are running (going 29:32, going 18:13, going 18:13, going 12:19, going 12:19).
-- ⚠️ The written description below may be out of date — it lists 0 but 5 jobs are actually running:
+- 3 jobs are running (going 35:39, going 24:20, going 24:20).
+- ⚠️ The written description below may be out of date — it lists 0 but 3 jobs are actually running:
 
 
 ## Waiting for you
 
 - GITHUB ACTIONS — the cause is now GitHub's own sentence
 - THE AUDIO WARM-UP RULING
+- SUPABASE DISK IO: your message says a disk-budget risk was flagged; no seat has seen it and nothing in the repo records it. If Supabase emailed you, forward the numbers. To let a seat read it directly, run `supabase login` once in a terminal
 - GITHUB BRANCH PROTECTION on able-rebuild-v1 needs GITHUB PRO first — measured: gh api …/branches/able-rebuild-v1/protection answers "Upgrade to GitHub Pro or make this repository public to enable this feature"
 - OPENAI CREDITS
 - REPORTED, not asked: the repo-local git identity `t <t@t>` was removed at 20:5x; commits are authored James Cuthbert from 27b5d6a99c on. One line restores the placeholder if it was deliberate.
@@ -31,7 +32,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **5 jobs** being built right now
+- **3 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **5 finished pieces** waiting to be checked and added in
 - Claude account A has used **74%** of its week — it refills **Sep 18 at 7pm**
@@ -58,13 +59,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-18T08:41:05.902Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-18T08:47:12.250Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-18T08:41:05.902Z**
+- **publishedAt: 2026-09-18T08:47:12.250Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **5** (pid 9221 up 29:32 · pid 26972 up 18:13 · pid 26974 up 18:13 · pid 70049 up 12:19 · pid 70052 up 12:19)
+- runningBuilders: **3** (pid 9221 up 35:39 · pid 26972 up 24:20 · pid 26974 up 24:20)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -80,11 +81,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 7432bb68d575b5516e1e2d1b446f3e8067a1f142  (fresh `git ls-remote`)
-- localCanonicalHead: 7432bb68d575b5516e1e2d1b446f3e8067a1f142  · agrees
+- remoteCanonicalHead: 19b41f48fbc23e86b2cd8957c033142034a1f49e  (fresh `git ls-remote`)
+- localCanonicalHead: 19b41f48fbc23e86b2cd8957c033142034a1f49e  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-18T08:40:07.791Z
-- subject: docs(root): the founder's two-tab read baked verbatim, the relayed factory assessment, a live interventions log
+- lastVerifiedAt: 2026-09-18T08:47:11.194Z
+- subject: docs(cold-review): the boot slice's r1 verdict received — PASS, product 9, assurance 6
 
 ## candidates ready for verdict / fold
 - none
@@ -92,10 +93,9 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): ONE IMAGE BOUNDARY (builder, Opus on A, lane image-boundary) — the Room decides 'is this image host a third party' in one place; Apple counts as one everywhere; malformed addresses fail to honest-empty; the image proxy cannot be redirected off its list
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): CLEAR THE OLDEST BACKLOG (integration builder, Opus on A, lane integrate-doors-consent) — the three doors on the Room (THIS IS MINE · THIS IS WRONG · I DO NOT WANT THIS HERE), CONSENT-P0 (a fan never gets a topic they did not ask for) and the orphaned claim-trust fix (23 staged files a dead builder never committed, saved as patches), all onto today's canonical
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): VERIFIER for the factory seat's boot slice (Opus on A, lane verify-boot-2) — Read-before-edit kernel line, law 1 quoted exactly, Skill for builder and verifier
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): HAPTICS AND MICRO-INTERACTIONS research (in-session, read-only): what Maribou does when touched today, what an iPhone web page can actually vibrate, what to take from the Threads screen — every claim attacked by a skeptic before it reaches James
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A): triage of Greptile's 14 findings on the already-merged PR #37 and a Supabase disk-budget risk, then the Spotify unknown-not-zero slice
-- 5 headless claude process(es) in the table at 2026-09-18T08:41:05.903Z (pid 9221 up 29:32, pid 26972 up 18:13, pid 26974 up 18:13, pid 70049 up 12:19, pid 70052 up 12:19) — 0 of them recorded as lanes above
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): FACTORY SEAT (other tab, Opus on A) — building THE PROVIDER STAGE TELLS THE TRUTH: no 'full album' caption without evidence, no 'the money reaches the artist directly' from a buy button alone, Deezer takes the sound or is not offered, provider load failures show honestly, a consent grant that cannot be saved says so (5 of PR #37's 14 live findings). Spotify unknown-not-zero waits behind it
+- 3 headless claude process(es) in the table at 2026-09-18T08:47:12.250Z (pid 9221 up 35:39, pid 26972 up 24:20, pid 26974 up 24:20) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -108,6 +108,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## needs James
 - GITHUB ACTIONS — the cause is now GitHub's own sentence (gh api …/check-runs/105264398173/annotations): "The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings." Action: github.com/settings/billing on jimmajamma2013-tech → fix the failed payment or raise the Actions spending limit → re-run one workflow on able-rebuild-v1. ~3 minutes. Until then every remote check is meaningless; the native Definition-of-Done runs locally per commit (tsc · vitest · build-check · eye-check · lineage), and the factory branch's act-based fallback (scripts/factory/ci-local.sh) is UNPROVEN until one job runs end to end.
 - THE AUDIO WARM-UP RULING (the last consent breach): arriving at the phone Room tells Apple a visitor came, because the first song is pre-fetched so the first tap is instant. Either Able serves that pre-fetch itself (privacy kept, the tap stays fast, Able pays the bytes) or the pre-fetch waits for a first gesture (privacy kept, the first tap is slower). Which?
+- SUPABASE DISK IO: your message says a disk-budget risk was flagged; no seat has seen it and nothing in the repo records it. If Supabase emailed you, forward the numbers. To let a seat read it directly, run `supabase login` once in a terminal (only you can sign in)
 - GITHUB BRANCH PROTECTION on able-rebuild-v1 needs GITHUB PRO first — measured: gh api …/branches/able-rebuild-v1/protection answers "Upgrade to GitHub Pro or make this repository public to enable this feature" (the repo is private on the free plan). So: on the same billing visit, upgrade the jimmajamma2013-tech account to GitHub Pro (about $4/month), then settings/branches → rule for able-rebuild-v1 → block force pushes and deletions. This is the control that cannot be talked around; four verifiers each routed around a local hook. ~4 minutes with the Actions fix.
 - OPENAI CREDITS (blocks the cross-family GPT attack; the key is on disk): platform.openai.com/settings/organization/billing → add credits. ~2 minutes.
 - REPORTED, not asked: the repo-local git identity `t <t@t>` was removed at 20:5x; commits are authored James Cuthbert from 27b5d6a99c on. One line restores the placeholder if it was deliberate.
