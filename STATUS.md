@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-19T11:21:11.470Z
 - subject: fold: every known vitest red names its class, and the register holds only what is red today (PASS)
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-19T11:21:35.357Z)
+
 ## candidates ready for verdict / fold
 - none
 
