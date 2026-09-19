@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-19T12:34:11.615Z
 - subject: fold: the landing, the correction and the claim all go back to the room Able ships (PASS)
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-19T12:34:36.350Z)
+
 ## candidates ready for verdict / fold
 - none
 
