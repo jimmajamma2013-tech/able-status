@@ -120,55 +120,63 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-19T14:14:14.325Z",
+  "updatedAt": "2026-09-19T14:55:09.969Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "8e4e916e6d7066ff2e5b66378a542bda608dd8e8",
-  "localCanonicalHead": "8e4e916e6d7066ff2e5b66378a542bda608dd8e8",
+  "remoteCanonicalHead": "9430b64fcbfe7dc363734cd2946e3c0b562b971c",
+  "localCanonicalHead": "9430b64fcbfe7dc363734cd2946e3c0b562b971c",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-19T14:13:11.002Z",
+  "lastVerifiedAt": "2026-09-19T14:55:06.455Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "8e4e916e6d7066ff2e5b66378a542bda608dd8e8",
-    "subject": "docs(live): the Start row is FOLDED; a stranger's typed name building a public room is parked as launch-critical"
+    "sha": "9430b64fcbfe7dc363734cd2946e3c0b562b971c",
+    "subject": "docs(live): the Elsewhere-door row is FOLDED, and names the file that draws the chip"
   },
-  "meters": "resets Sep 19 at 10:59pm   \u001b[2m9% of the week left · the third subscription — a full lane in its own right\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  91%  ·  Fable  97%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Sat, 26 Sept, 15:14  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 56% → \u001b[1m1 builder(s)\u001b[0m · one builder + an occasional verifier\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "resets Sep 19 at 10:59pm   \u001b[2m9% of the week left · the third subscription — a full lane in its own right\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  91%  ·  Fable  97%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Sat, 26 Sept, 15:55  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 59% → \u001b[1m1 builder(s)\u001b[0m · one builder + an occasional verifier\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-19T14:14:14.325Z",
-    "runningBuilders": 8,
+    "derivedAt": "2026-09-19T14:55:09.969Z",
+    "runningBuilders": 10,
     "runningBuilderDetail": [
       {
-        "pid": "11631",
-        "elapsed": "20:29"
+        "pid": "1204",
+        "elapsed": "06:24"
       },
       {
-        "pid": "11633",
-        "elapsed": "20:29"
+        "pid": "1206",
+        "elapsed": "06:24"
       },
       {
-        "pid": "24155",
-        "elapsed": "40:54"
+        "pid": "2579",
+        "elapsed": "06:12"
       },
       {
-        "pid": "24157",
-        "elapsed": "40:54"
+        "pid": "2581",
+        "elapsed": "06:12"
       },
       {
-        "pid": "45158",
-        "elapsed": "39:07"
+        "pid": "22200",
+        "elapsed": "23:06"
       },
       {
-        "pid": "45160",
-        "elapsed": "39:07"
+        "pid": "22202",
+        "elapsed": "23:06"
+      },
+      {
+        "pid": "70352",
+        "elapsed": "37:49"
+      },
+      {
+        "pid": "70354",
+        "elapsed": "37:49"
       },
       {
         "pid": "91923",
-        "elapsed": "01:07:56"
+        "elapsed": "01:48:51"
       },
       {
         "pid": "91925",
-        "elapsed": "01:07:56"
+        "elapsed": "01:48:51"
       }
     ],
     "queueDepth": {
@@ -209,7 +217,7 @@
     ],
     "verdictsPendingCount": 3,
     "meterWeekly": {
-      "A": 56,
+      "A": 59,
       "B": 91
     },
     "builderBand": "55–65% → 1 builder(s)",
@@ -218,13 +226,13 @@
       "B": "Sep 22 at 10:59pm"
     },
     "capacity": {
-      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 0% · resets Sat, 26 Sept, 15:14 · admission ALLOW",
+      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 0% · resets Sat, 26 Sept, 15:55 · admission ALLOW",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
       "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-19T14:14:14.325Z",
+  "publishedAt": "2026-09-19T14:55:09.969Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -239,12 +247,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit",
-    "8 headless claude process(es) in the table at 2026-09-19T14:14:14.325Z (pid 11631 up 20:29, pid 11633 up 20:29, pid 24155 up 40:54, pid 24157 up 40:54, pid 45158 up 39:07, pid 45160 up 39:07, pid 91923 up 01:07:56, pid 91925 up 01:07:56) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-19T14:14:31.990Z"
-  }
+    "10 headless claude process(es) in the table at 2026-09-19T14:55:09.969Z (pid 1204 up 06:24, pid 1206 up 06:24, pid 2579 up 06:12, pid 2581 up 06:12, pid 22200 up 23:06, pid 22202 up 23:06, pid 70352 up 37:49, pid 70354 up 37:49, pid 91923 up 01:48:51, pid 91925 up 01:48:51) — 0 of them recorded as lanes above"
+  ]
 }
