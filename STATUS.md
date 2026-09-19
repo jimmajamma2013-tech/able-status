@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-19T12:06:45.925Z
 - subject: docs(live): the address helper row is FOLDED; the door sweep gains the Elsewhere door's file
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-19T12:08:07.695Z)
+
 ## candidates ready for verdict / fold
 - none
 
