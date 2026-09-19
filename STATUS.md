@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-19T13:12:28.271Z
 - subject: docs(live): the person-plane row is FOLDED; two rows its verifier named are queued
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-19T13:14:40.485Z)
+
 ## candidates ready for verdict / fold
 - none
 
