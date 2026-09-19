@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-6 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
+10 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,8 +16,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 6 jobs are running (going 22:44, going 22:44, going 01:05:46, going 01:05:46, going 38:40, going 38:40).
-- ⚠️ The written description below may be out of date — it lists 0 but 6 jobs are actually running:
+- 10 jobs are running (going 31:40, going 31:40, going 07:11, going 07:11, going 04:24, going 04:24, going 04:12, going 04:12, going 47:36, going 47:36).
+- ⚠️ The written description below may be out of date — it lists 0 but 10 jobs are actually running:
 
 
 ## Waiting for you
@@ -33,7 +33,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **6 jobs** being built right now
+- **10 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
 - Claude account A has used **50%** of its week — it refills **Sep 25 at 7pm**
@@ -60,13 +60,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-19T12:34:20.010Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-19T12:43:16.601Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M from 22:5x, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-19T12:34:20.010Z**
+- **publishedAt: 2026-09-19T12:43:16.601Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **6** (pid 36476 up 22:44 · pid 36478 up 22:44 · pid 40345 up 01:05:46 · pid 40347 up 01:05:46 · pid 67300 up 38:40 · pid 67302 up 38:40)
+- runningBuilders: **10** (pid 36476 up 31:40 · pid 36478 up 31:40 · pid 55979 up 07:11 · pid 55981 up 07:11 · pid 65611 up 04:24 · pid 65614 up 04:24 · pid 66608 up 04:12 · pid 66610 up 04:12 · pid 67300 up 47:36 · pid 67302 up 47:36)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -82,11 +82,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: bf1732690ac452260cdc7b7511eea043b16d8605  (fresh `git ls-remote`)
-- localCanonicalHead: bf1732690ac452260cdc7b7511eea043b16d8605  · agrees
+- remoteCanonicalHead: 8f12bf14573c54d89af441a86639adb8cf025d60  (fresh `git ls-remote`)
+- localCanonicalHead: 8f12bf14573c54d89af441a86639adb8cf025d60  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-19T12:34:11.615Z
-- subject: fold: the landing, the correction and the claim all go back to the room Able ships (PASS)
+- lastVerifiedAt: 2026-09-19T12:42:09.978Z
+- subject: docs(live): the groove-strip row is FOLDED
 
 ## candidates ready for verdict / fold
 - none
@@ -94,7 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit
-- 6 headless claude process(es) in the table at 2026-09-19T12:34:20.011Z (pid 36476 up 22:44, pid 36478 up 22:44, pid 40345 up 01:05:46, pid 40347 up 01:05:46, pid 67300 up 38:40, pid 67302 up 38:40) — 0 of them recorded as lanes above
+- 10 headless claude process(es) in the table at 2026-09-19T12:43:16.601Z (pid 36476 up 31:40, pid 36478 up 31:40, pid 55979 up 07:11, pid 55981 up 07:11, pid 65611 up 04:24, pid 65614 up 04:24, pid 66608 up 04:12, pid 66610 up 04:12, pid 67300 up 47:36, pid 67302 up 47:36) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -128,7 +128,7 @@ resets Sep 19 at 10:59pm   [2m9% of the week left · the third subscription —
 
 [1m🌐 EVERY LANE WE OWN[0m
   [1mClaude C[0m  weekly  91%  ·  Fable  97%  ·  resets Sep 19 at 10:59pm  ·  [32mgenuinely separate[0m
-  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Sat, 26 Sept, 13:34  ·  admission ALLOW
+  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Sat, 26 Sept, 13:43  ·  admission ALLOW
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
