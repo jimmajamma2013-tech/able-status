@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-19T12:42:09.978Z
 - subject: docs(live): the groove-strip row is FOLDED
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-19T12:43:36.151Z)
+
 ## candidates ready for verdict / fold
 - none
 

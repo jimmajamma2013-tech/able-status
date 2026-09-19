@@ -248,5 +248,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit",
     "10 headless claude process(es) in the table at 2026-09-19T12:43:16.601Z (pid 36476 up 31:40, pid 36478 up 31:40, pid 55979 up 07:11, pid 55981 up 07:11, pid 65611 up 04:24, pid 65614 up 04:24, pid 66608 up 04:12, pid 66610 up 04:12, pid 67300 up 47:36, pid 67302 up 47:36) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-19T12:43:36.151Z"
+  }
 }
