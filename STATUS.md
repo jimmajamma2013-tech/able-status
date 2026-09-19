@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-19T02:05:55.714Z
 - subject: docs(parked): the capitalised-address row closes; the Music tab dock's eye-check and shared-cache test plants open
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-19T02:06:16.077Z)
+
 ## candidates ready for verdict / fold
 - none
 
