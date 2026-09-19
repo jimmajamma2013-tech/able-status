@@ -120,47 +120,55 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-19T13:29:08.148Z",
+  "updatedAt": "2026-09-19T14:14:14.325Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "3d8edc6ee6dfb734c2d6352b3a03b3b5e2a97738",
-  "localCanonicalHead": "3d8edc6ee6dfb734c2d6352b3a03b3b5e2a97738",
+  "remoteCanonicalHead": "8e4e916e6d7066ff2e5b66378a542bda608dd8e8",
+  "localCanonicalHead": "8e4e916e6d7066ff2e5b66378a542bda608dd8e8",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-19T13:27:57.541Z",
+  "lastVerifiedAt": "2026-09-19T14:13:11.002Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "3d8edc6ee6dfb734c2d6352b3a03b3b5e2a97738",
-    "subject": "docs(live): the stage-preview-note row is FOLDED"
+    "sha": "8e4e916e6d7066ff2e5b66378a542bda608dd8e8",
+    "subject": "docs(live): the Start row is FOLDED; a stranger's typed name building a public room is parked as launch-critical"
   },
-  "meters": "resets Sep 19 at 10:59pm   \u001b[2m9% of the week left · the third subscription — a full lane in its own right\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  91%  ·  Fable  97%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Sat, 26 Sept, 14:29  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 53% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "resets Sep 19 at 10:59pm   \u001b[2m9% of the week left · the third subscription — a full lane in its own right\u001b[0m\n     \u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  91%  ·  Fable  97%  ·  resets Sep 19 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Sat, 26 Sept, 15:14  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account A at weekly 56% → \u001b[1m1 builder(s)\u001b[0m · one builder + an occasional verifier\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-19T13:29:08.148Z",
-    "runningBuilders": 6,
+    "derivedAt": "2026-09-19T14:14:14.325Z",
+    "runningBuilders": 8,
     "runningBuilderDetail": [
       {
-        "pid": "10796",
-        "elapsed": "34:52"
+        "pid": "11631",
+        "elapsed": "20:29"
       },
       {
-        "pid": "10798",
-        "elapsed": "34:52"
+        "pid": "11633",
+        "elapsed": "20:29"
       },
       {
-        "pid": "66608",
-        "elapsed": "50:04"
+        "pid": "24155",
+        "elapsed": "40:54"
       },
       {
-        "pid": "66610",
-        "elapsed": "50:04"
+        "pid": "24157",
+        "elapsed": "40:54"
+      },
+      {
+        "pid": "45158",
+        "elapsed": "39:07"
+      },
+      {
+        "pid": "45160",
+        "elapsed": "39:07"
       },
       {
         "pid": "91923",
-        "elapsed": "22:50"
+        "elapsed": "01:07:56"
       },
       {
         "pid": "91925",
-        "elapsed": "22:50"
+        "elapsed": "01:07:56"
       }
     ],
     "queueDepth": {
@@ -201,22 +209,22 @@
     ],
     "verdictsPendingCount": 3,
     "meterWeekly": {
-      "A": 53,
+      "A": 56,
       "B": 91
     },
-    "builderBand": "≤55% → 2 builder(s)",
+    "builderBand": "55–65% → 1 builder(s)",
     "resets": {
       "A": "Sep 25 at 7pm",
       "B": "Sep 22 at 10:59pm"
     },
     "capacity": {
-      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 0% · resets Sat, 26 Sept, 14:29 · admission ALLOW",
+      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 0% · resets Sat, 26 Sept, 15:14 · admission ALLOW",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
       "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-19T13:29:08.148Z",
+  "publishedAt": "2026-09-19T14:14:14.325Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -231,12 +239,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): IMAGE BOUNDARY r3 (builder): the fix the second verifier prescribed — the Music page's data passes the one image check where it is created, so a disguised Google address can never reach the page; the backstop reads serialised strings properly",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): GATE REPAIR (the other tab): the three gates every slice fights — the screenshot gate treating a folder as a page, the quote checker's false alarms, and the escape counter at its limit",
-    "6 headless claude process(es) in the table at 2026-09-19T13:29:08.148Z (pid 10796 up 34:52, pid 10798 up 34:52, pid 66608 up 50:04, pid 66610 up 50:04, pid 91923 up 22:50, pid 91925 up 22:50) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-19T13:29:25.279Z"
-  }
+    "8 headless claude process(es) in the table at 2026-09-19T14:14:14.325Z (pid 11631 up 20:29, pid 11633 up 20:29, pid 24155 up 40:54, pid 24157 up 40:54, pid 45158 up 39:07, pid 45160 up 39:07, pid 91923 up 01:07:56, pid 91925 up 01:07:56) — 0 of them recorded as lanes above"
+  ]
 }
