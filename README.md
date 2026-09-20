@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
+2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,8 +16,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 1 job is running (going 06:11).
-- ⚠️ The written description below may be out of date — it lists 0 but 1 job is actually running:
+- 2 jobs are running (going 08:53, going 01:41).
+- ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
 
 
 ## Waiting for you
@@ -33,7 +33,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **1 job** being built right now
+- **2 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
 - Claude account A has used **86%** of its week — it refills **Sep 25 at 7pm**
@@ -60,13 +60,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-20T20:26:46.164Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-20T20:29:28.962Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-20T20:26:46.164Z**
+- **publishedAt: 2026-09-20T20:29:28.962Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **1** (pid 699 up 06:11)
+- runningBuilders: **2** (pid 699 up 08:53 · pid 20775 up 01:41)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -85,16 +85,16 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 9abb10383a4c6d9fe7f6fa49109c59a884415f71  (fresh `git ls-remote`)
 - localCanonicalHead: 9abb10383a4c6d9fe7f6fa49109c59a884415f71  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-20T20:25:39.415Z
+- lastVerifiedAt: 2026-09-20T20:29:27.817Z
 - subject: docs(live): person-page r3 returned on the bar, and its fold exposed a truth defect only visible merged
 
 ## candidates ready for verdict / fold
 - none
 
 ## running lanes
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-person-r3 (VERIFIER, C / Opus): person-page-to-the-bar @ d7c58db959. The question: does the person route read COMPLIANT at 390/834/1440 on the verifier own captures? r2 said NON_COMPLIANT 7.5/7.5/7/7. Log /tmp/night-c-verify-person-r3.log
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-drop-engine (BUILDER, C / Opus): room-address-drops-the-profile-engine — make the retired engine branch lazy in src/app/[slug]/page.tsx so a room visitor stops downloading 222 KB of JS they never see. Log /tmp/night-c-drop-engine.log
-- 1 headless claude process(es) in the table at 2026-09-20T20:26:46.164Z (pid 699 up 06:11) — 0 of them recorded as lanes above
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log
+- 2 headless claude process(es) in the table at 2026-09-20T20:29:28.962Z (pid 699 up 08:53, pid 20775 up 01:41) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -115,11 +115,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later.
 
 ## next actions (in order)
-- TWO BUILDERS ON C, its band maximum (C reads weekly 0% — the only full lane Able owns): person-page r3 on Opus, person-door-repoint on Fable. Root integrates; root does not build.
-- ON PASS, fold each, then dispatch the next funded rows on C: unity-repoint-claim-doors · soundcloud-player-comments-off · budget-measures-the-public-address (all S), then core-cultural-gate (M)
-- arrival-hero-announced-first is now READY — room-chronology-wide folded, so page.tsx is free. It is the row that ends the per-push budget escape
-- RECALIBRATED 2026-09-20 (founder #84/#85): docs/live/TWO-DAY-QUEUE.md RECALIBRATED block — 8 units committed, the 9th held for a double RETURN, 10 rows written OUT with their consequences named
-- NOT FUNDED this window: no-template (all three rows, so dimension 5 is out entirely), work-desktop-presence, room-lower-doors-wide, room-no-photograph, physical 404, edition-fold-door, relationship-exact-back, the two fail-open instruments, the eye tab-dock clause
+- FOUNDER #88, TWO DECISIONS: (1) the person-page bar is REPLACED — THE PERSON PAGE BAR, seven clauses, equally excellent not equally theatrical; the old "COMPLIANT >= the Maribou front page" clause is RETIRED and must never be cited. (2) The canonical public URL NEVER changes; the engine split is an ARCHITECTURE round with built-output-only acceptance. Both in docs/decisions/2026-09-20-JAMES-THE-TWO-DECISIONS-...md
+- FINISH r4 first, preserving the truth invariant — a person page must never sound another Work record. Then re-judge r3+r4 against THE PERSON PAGE BAR, not the retired one.
+- CONTINUE THE SOUNDCLOUD LANE: verdict running; fold on PASS.
+- THEN the architecture round for the engine separation. Acceptance is bytes of built JS/HTML per address plus the real /maribou-state Fast-4G budget. A source-level import check is NOT acceptance — it would have passed green while the bytes never moved.
+- Keep every account at its band and integrate before dispatching. C carries 2, A is root and builds nothing, B is spent.
 
 ## meters
 ```
