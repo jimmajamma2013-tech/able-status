@@ -220,5 +220,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, member page and the empty right column first. Log /tmp/night-c-person-page-r3.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-budget (VERIFIER, C / Opus): budget-public-address @ 3ed1ec0b25. The question put to it: should canonical accept a gate that is RED on the real address? Log /tmp/night-c-verify-budget.log",
     "2 headless claude process(es) in the table at 2026-09-20T19:04:15.596Z (pid 38697 up 01:11, pid 89781 up 41:32) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-20T19:04:35.194Z"
+  }
 }

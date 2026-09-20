@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-20T19:04:09.120Z
 - subject: fold(phone): a credited name's default door is Able's own person page — 48a6f0cc93
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-20T19:04:35.194Z)
+
 ## candidates ready for verdict / fold
 - none
 
