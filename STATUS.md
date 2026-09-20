@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-20T19:47:04.868Z
 - subject: fold(budget): the push budget measures the address a fan opens, and the route gate stops grandfathering — bec34ef765
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-20T19:47:28.712Z)
+
 ## candidates ready for verdict / fold
 - none
 
