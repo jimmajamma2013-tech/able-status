@@ -217,5 +217,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-person-r3 (VERIFIER, C / Opus): person-page-to-the-bar @ d7c58db959. The question: does the person route read COMPLIANT at 390/834/1440 on the verifier own captures? r2 said NON_COMPLIANT 7.5/7.5/7/7. Log /tmp/night-c-verify-person-r3.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-drop-engine (BUILDER, C / Opus): room-address-drops-the-profile-engine — make the retired engine branch lazy in src/app/[slug]/page.tsx so a room visitor stops downloading 222 KB of JS they never see. Log /tmp/night-c-drop-engine.log",
     "1 headless claude process(es) in the table at 2026-09-20T20:26:46.164Z (pid 699 up 06:11) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-20T20:27:05.710Z"
+  }
 }
