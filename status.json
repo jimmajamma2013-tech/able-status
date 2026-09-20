@@ -213,5 +213,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-page-r3 (BUILDER, Account C / Opus): answering the r2 RETURN on person-page-to-the-bar — composition, not truth. The five points, member page and empty right column first. Log /tmp/night-c-person-page-r3.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-door-repoint (BUILDER, Account C / Fable): person-door-repoint — every credited name on a Relationship plane lands in one Able grammar; closes 22 of 24 planes. Log /tmp/night-c-door-repoint.log",
     "1 headless claude process(es) in the table at 2026-09-20T18:37:05.079Z (pid 89781 up 14:22) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-20T18:37:24.384Z"
+  }
 }
