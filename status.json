@@ -227,5 +227,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-door-repoint (VERIFIER, C / Opus): fresh verdict on person-door-repoint @ 48a6f0cc93 — 53 planes not 24, and a test that typed the old address by hand. Log /tmp/night-c-verify-door-repoint.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): b-budget-address (BUILDER, B / Opus): budget-measures-the-public-address — the push gate stops measuring the prototype URL. B is over its band on purpose: its 9% resets Sep 22, after the target. Log /tmp/night-b-budget-address.log",
     "3 headless claude process(es) in the table at 2026-09-20T18:45:29.401Z (pid 11728 up 04:58, pid 17299 up 01:04, pid 89781 up 22:46) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-20T18:45:50.132Z"
+  }
 }

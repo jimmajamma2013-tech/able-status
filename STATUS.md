@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-20T18:45:28.412Z
 - subject: docs(live): the chronology row is FOLDED and the arrival row is unblocked
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-20T18:45:50.132Z)
+
 ## candidates ready for verdict / fold
 - none
 
