@@ -2,9 +2,8 @@
   "seat": "fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code)",
   "readyForVerdict": [],
   "running": [
-    "c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, not truth; member page and the empty right column first. Log /tmp/night-c-person-page-r3.log",
-    "c-verify-door-repoint (VERIFIER, C / Opus): fresh verdict on person-door-repoint @ 48a6f0cc93 — 53 planes not 24, and a test that typed the old address by hand. Log /tmp/night-c-verify-door-repoint.log",
-    "b-budget-address (BUILDER, B / Opus): budget-measures-the-public-address — the push gate stops measuring the prototype URL. B is over its band on purpose: its 9% resets Sep 22, after the target. Log /tmp/night-b-budget-address.log"
+    "c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, member page and the empty right column first. Log /tmp/night-c-person-page-r3.log",
+    "c-verify-budget (VERIFIER, C / Opus): budget-public-address @ 3ed1ec0b25. The question put to it: should canonical accept a gate that is RED on the real address? Log /tmp/night-c-verify-budget.log"
   ],
   "blockers": [
     "THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.",
@@ -73,6 +72,7 @@
     "cRule": "James, 2026-09-17: spend ALL of C before its Friday 22:59 reset — two lanes continuously, refilled by the A seat, down to the capacity guard's 12% floor. At ≤25% of the week left the guard names Opus; the next C dispatches use claude-opus-5."
   },
   "passed": [
+    "A CREDITED NAME'S DEFAULT DOOR IS ABLE'S OWN PERSON PAGE — on canonical at b25e8350b3 (r1 PASS, assurance 9, no blocking finding). The frozen-tree exemption set is empty. The real find was the instrument: visitors were ALREADY safe via a patch in the page file, while relationshipPersonDoor.ts still DEFAULTED to the retired shell and its own test typed the old address in by hand, so it could not fail. The new test fails both ways under the verifier's own plants. Population was 53 served planes, not the 24 the row claimed; destinations after: 51 person page, Holly Walker her room, Matt Colton his maker room, 0 old shell, 0 dead ends. Product delta exactly zero across 172 planes.",
     "THE CAREER BECOMES A COMPOSED CHRONOLOGY AT WIDTH — on canonical at 1adff40251 (r3 PASS product 7 · assurance 8.5). At 834 and 1440 the era shelf stops being a fixed-148px lateral scroller. The r2 RETURN was that a gap between two SAMPLED sleeves was drawn as a silence in the career; r3 draws a break only from heldGap, the longest run in the whole held catalogue. The verifier recounted it from the cached discographies without running the builder test: 148 careers earn the shelf, 87 false silences across 54 careers before, 0 after, real silences still at true size; 390 pixel-identical on eight rooms. Merged tree: tsc exit 0, phone suite 95 files 1,324/1,324. Receipts re-measured at 32d6faf6ef — eye-check PASS 0/0/0 at 17 widths.",
     "THE CAREER BECOMES A COMPOSED CHRONOLOGY AT WIDTH — on canonical at 1adff40251 (r3 PASS product 7 · assurance 8.5). At 834 and 1440 the era shelf stops being a fixed-148px lateral scroller. The r2 RETURN was that a gap between two SAMPLED sleeves was drawn as a silence in the career; r3 draws a break only from heldGap, the longest run in the whole held catalogue. The verifier recounted it from the cached discographies without running the builder test: 148 careers earn the shelf, 87 false silences across 54 careers before, 0 after, real silences still at true size; 390 pixel-identical on eight rooms. Merged tree: tsc exit 0, phone suite 95 files 1,324/1,324. Receipts re-measured at 32d6faf6ef — eye-check PASS 0/0/0 at 17 widths.",
     "the founder's Room plan (210 points), the Work-opening recomposition, the hybrid Room (link-in-bio speed + breadth + depth + one continuous world), the real Maribou world, the canonical visual rule, the balance, the lettering decision, the standing material scan and the anti-template-but-still-Able gate are all baked on canonical at 338ab707f1; the taste file carries each",
@@ -105,6 +105,7 @@
     "SPOTIFY'S MISSING VALUES ARE UNKNOWN, NEVER ZERO — on canonical at b5b294e64e (r1 PASS product 7 · assurance 8, built by the factory seat): follower count, popularity, label and markets that Development Mode strips are unknown at capture; homonym picks declare their basis. Three sites of the same class carried to the next Spotify packet"
   ],
   "returned": [
+    "⛔ THE PUBLIC ADDRESS IS 55% HEAVIER THAN THE PAGE EVERY PUSH HAS BEEN MEASURING. The mobile budget gate was pointed at /lab/prototype/phone?slug=… — a lab URL no fan opens. Moved to /maribou-state (B @ 3ed1ec0b25) it goes RED: images byte-identical at 828,782, but 195,024 MORE bytes of JavaScript because src/app/[slug]/page.tsx pulls the retired profile engine in beside the room, and the arrival photograph takes 5.85s on Fast-4G against a 4,000ms budget (two runs, 5,846 and 5,889) where the lab URL read 3.96s — 37ms under, i.e. never really green. The threshold was NOT touched. New queue row room-address-drops-the-profile-engine is the true dimension-7 blocker; arrival-hero-announced-first was funded to close 37ms and the real gap is ~1.85s.",
     "PR #37 (merged 2026-09-17 19:32) — all 14 of Greptile's findings are LIVE on canonical 72d2955b01, checked by the factory seat file by file. Two break 'nothing printed exceeds its receipt' (a 'full album' caption and 'the money reaches the artist directly'), both in the provider stage and now being fixed. Still owed as a second slice: the feat. link missing its Work, the collection Play control, retained mix previews (ruled: the renderer obeys composeWork), 'Otherside · Video' losing its Official marker on Maribou now, credited names counted as people, collaborator identity dropped, literal 'feat.' wording, an eye-check CSP classification, and a probe that passes an error page",
     "CONSENT-ZERO: one breach remains — the phone Room's arrival warm-up fetches audio-ssl.itunes.apple.com before any touch (src/app/lab/prototype/phone/useWalkingSound.ts:90-99). tests/e2e/mechanics/consent-zero-arrival.spec.ts reads 6 passed · 3 failed on canonical 0c8910190f, the three being exactly this. Its fix needs the founder's ruling on the fork: warm through Able's own origin if the tap stays instant, or accept a slower first tap",
     "⛔ CONSENT-ZERO BREACH ON THE ROOM, found by measurement on canonical 1958d77017 and now carried by a planted test: /maribou-state contacts audio-ssl.itunes.apple.com before ANY touch, at 390, 834 and 1440 (the Deluxe Work passes at all three). Cause: the deliberate arrival warm-up at src/app/lab/prototype/phone/useWalkingSound.ts:90-99 (landed 2026-09-11 in 8a54e24da2); the <audio> is preload=none and innocent. tests/e2e/mechanics/consent-zero-arrival.spec.ts is committed RED on purpose (3 failed · 3 passed) with a positive control. The fix is a product fork — the grounded candidate is warming through Able's own origin, which audioBus.ts:428 already uses — and belongs to a builder with a founder ruling, not to the seat that found it. Record: docs/audits/2026-09-17-room-composition/RECORD.md",
@@ -123,35 +124,31 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-20T18:45:29.401Z",
+  "updatedAt": "2026-09-20T19:04:15.596Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "0f1ab2a992da543698ff0bbe264860b4d1ae8055",
-  "localCanonicalHead": "0f1ab2a992da543698ff0bbe264860b4d1ae8055",
+  "remoteCanonicalHead": "b25e8350b37085386c1a3f69ebfa9faf696c4405",
+  "localCanonicalHead": "b25e8350b37085386c1a3f69ebfa9faf696c4405",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-20T18:45:28.412Z",
+  "lastVerifiedAt": "2026-09-20T19:04:09.120Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "0f1ab2a992da543698ff0bbe264860b4d1ae8055",
-    "subject": "docs(live): the chronology row is FOLDED and the arrival row is unblocked"
+    "sha": "b25e8350b37085386c1a3f69ebfa9faf696c4405",
+    "subject": "fold(phone): a credited name's default door is Able's own person page — 48a6f0cc93"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly   1%  ·  Fable   1%  ·  resets Sep 26 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly  91%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 1% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly   2%  ·  Fable   1%  ·  resets Sep 26 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly  93%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 2% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-20T18:45:29.401Z",
-    "runningBuilders": 3,
+    "derivedAt": "2026-09-20T19:04:15.596Z",
+    "runningBuilders": 2,
     "runningBuilderDetail": [
       {
-        "pid": "11728",
-        "elapsed": "04:58"
-      },
-      {
-        "pid": "17299",
-        "elapsed": "01:04"
+        "pid": "38697",
+        "elapsed": "01:11"
       },
       {
         "pid": "89781",
-        "elapsed": "22:46"
+        "elapsed": "41:32"
       }
     ],
     "queueDepth": {
@@ -201,37 +198,27 @@
       "B": "Sep 22 at 10:59pm"
     },
     "capacity": {
-      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 91% · resets Sat, 26 Sept, 19:20 · admission HOLD_RESERVE",
+      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 93% · resets Sat, 26 Sept, 19:20 · admission HOLD_RESERVE",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
-      "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
+      "local": "Local (Ollama) devstral:24b · qwen3-coder:30b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-20T18:45:29.401Z",
+  "publishedAt": "2026-09-20T19:04:15.596Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
   "runningUnverified": [
     {
-      "task": "c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, not truth; member page and the empty right column first. Log /tmp/night-c-person-page-r3.log"
+      "task": "c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, member page and the empty right column first. Log /tmp/night-c-person-page-r3.log"
     },
     {
-      "task": "c-verify-door-repoint (VERIFIER, C / Opus): fresh verdict on person-door-repoint @ 48a6f0cc93 — 53 planes not 24, and a test that typed the old address by hand. Log /tmp/night-c-verify-door-repoint.log"
-    },
-    {
-      "task": "b-budget-address (BUILDER, B / Opus): budget-measures-the-public-address — the push gate stops measuring the prototype URL. B is over its band on purpose: its 9% resets Sep 22, after the target. Log /tmp/night-b-budget-address.log"
+      "task": "c-verify-budget (VERIFIER, C / Opus): budget-public-address @ 3ed1ec0b25. The question put to it: should canonical accept a gate that is RED on the real address? Log /tmp/night-c-verify-budget.log"
     }
   ],
   "runningRendered": [
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, not truth; member page and the empty right column first. Log /tmp/night-c-person-page-r3.log",
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-door-repoint (VERIFIER, C / Opus): fresh verdict on person-door-repoint @ 48a6f0cc93 — 53 planes not 24, and a test that typed the old address by hand. Log /tmp/night-c-verify-door-repoint.log",
-    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): b-budget-address (BUILDER, B / Opus): budget-measures-the-public-address — the push gate stops measuring the prototype URL. B is over its band on purpose: its 9% resets Sep 22, after the target. Log /tmp/night-b-budget-address.log",
-    "3 headless claude process(es) in the table at 2026-09-20T18:45:29.401Z (pid 11728 up 04:58, pid 17299 up 01:04, pid 89781 up 22:46) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-20T18:45:50.132Z"
-  }
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, member page and the empty right column first. Log /tmp/night-c-person-page-r3.log",
+    "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-budget (VERIFIER, C / Opus): budget-public-address @ 3ed1ec0b25. The question put to it: should canonical accept a gate that is RED on the real address? Log /tmp/night-c-verify-budget.log",
+    "2 headless claude process(es) in the table at 2026-09-20T19:04:15.596Z (pid 38697 up 01:11, pid 89781 up 41:32) — 0 of them recorded as lanes above"
+  ]
 }
