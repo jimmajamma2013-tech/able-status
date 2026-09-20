@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
+1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,8 +16,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 05:43, going 05:41).
-- ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
+- 1 job is running (going 14:22).
+- ⚠️ The written description below may be out of date — it lists 0 but 1 job is actually running:
 
 
 ## Waiting for you
@@ -33,7 +33,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **2 jobs** being built right now
+- **1 job** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
 - Claude account A has used **86%** of its week — it refills **Sep 25 at 7pm**
@@ -60,13 +60,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-20T11:35:59.481Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-20T18:37:05.079Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-20T11:35:59.481Z**
+- **publishedAt: 2026-09-20T18:37:05.079Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 80183 up 05:43 · pid 80205 up 05:41)
+- runningBuilders: **1** (pid 89781 up 14:22)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -82,21 +82,19 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 420cf79076645ce2af620b1cdee6dab4b929ce60  (fresh `git ls-remote`)
-- localCanonicalHead: 420cf79076645ce2af620b1cdee6dab4b929ce60  · agrees
+- remoteCanonicalHead: 32d6faf6ef05341bdaf9cb0aadb3e2bc9c8ab4fa  (fresh `git ls-remote`)
+- localCanonicalHead: 32d6faf6ef05341bdaf9cb0aadb3e2bc9c8ab4fa  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-20T11:35:55.689Z
-- subject: docs(live): the two-day queue is recalibrated to the lanes that exist — 9 funded units, 10 rows written out
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-20T11:36:17.108Z)
+- lastVerifiedAt: 2026-09-20T18:36:06.506Z
+- subject: docs(audit): the room's receipts are re-measured on the merged tree
 
 ## candidates ready for verdict / fold
 - none
 
 ## running lanes
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): verify-chronology-r3 (fresh verdict, Account C / Opus): room-chronology-wide-20260919 @ 7cdf4f11c9 — the career becomes a composed chronology at 834 and 1440, its r2 RETURN answered. Log /tmp/night-verify-chronology-r3.log
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): verify-person-page-r2 (fresh verdict, Account C / Opus): person-page-to-the-bar-20260919 @ 6a5ddca830 — the person page sounds, says what the role was done to, and composes at width. Log /tmp/night-verify-person-page-r2.log
-- 2 headless claude process(es) in the table at 2026-09-20T11:35:59.481Z (pid 80183 up 05:43, pid 80205 up 05:41) — 0 of them recorded as lanes above
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-page-r3 (BUILDER, Account C / Opus): answering the r2 RETURN on person-page-to-the-bar — composition, not truth. The five points, member page and empty right column first. Log /tmp/night-c-person-page-r3.log
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-door-repoint (BUILDER, Account C / Fable): person-door-repoint — every credited name on a Relationship plane lands in one Able grammar; closes 22 of 24 planes. Log /tmp/night-c-door-repoint.log
+- 1 headless claude process(es) in the table at 2026-09-20T18:37:05.079Z (pid 89781 up 14:22) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -117,11 +115,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - WHEN THE FACTORY FOLDS (not before): `supabase login` in a terminal (~1 min) · `sentry-cli login` and confirm the Railway DSN (~3 min) · Replay account + MCP connection (~5 min) · Greptile dashboard: enable T-Rex for UI PRs only (~2 min) · Mobbin + Refero accounts and a full Figma seat (~10 min) · Cursor: sign in, connect GitHub, create Project ABLE (~5 min) · Conductor and Augment Intent sign-ins for the bake-off (~5 min each) · Lyssna for human taste tests, later.
 
 ## next actions (in order)
-- RECALIBRATED 2026-09-20 (founder #84): the two-day queue is re-ranked to what one account funds — docs/live/TWO-DAY-QUEUE.md, the RECALIBRATED block. 34 rows: 14 folded, 2 built and in verdict, 18 unbuilt of which 10 are written OUT. 8 units committed against the ~9 the meters fund, the ninth held for a double RETURN
-- INTEGRATE BEFORE DISPATCH (the backpressure rule): fold room-chronology-wide and person-page-to-the-bar on PASS; arrival-hero-announced-first is queued behind the chronology fold because both hold page.tsx
-- THEN the four small trust/link rows on Account C, in order: person-door-repoint (closes 22 of 24 relationship planes) · unity-repoint-claim-doors · soundcloud-player-comments-off · budget-measures-the-public-address
-- THEN core-cultural-gate — dimension 1 own done-test: the flagship walk green at 390/834/1440, re-run at every fold
-- NOT FUNDED this window and written as out: no-template (all three rows, so dimension 5 is out entirely), work-desktop-presence, room-lower-doors-wide, room-no-photograph, physical 404, edition-fold-door, relationship-exact-back, the two fail-open instruments, the eye tab-dock clause
+- TWO BUILDERS ON C, its band maximum (C reads weekly 0% — the only full lane Able owns): person-page r3 on Opus, person-door-repoint on Fable. Root integrates; root does not build.
+- ON PASS, fold each, then dispatch the next funded rows on C: unity-repoint-claim-doors · soundcloud-player-comments-off · budget-measures-the-public-address (all S), then core-cultural-gate (M)
+- arrival-hero-announced-first is now READY — room-chronology-wide folded, so page.tsx is free. It is the row that ends the per-push budget escape
+- RECALIBRATED 2026-09-20 (founder #84/#85): docs/live/TWO-DAY-QUEUE.md RECALIBRATED block — 8 units committed, the 9th held for a double RETURN, 10 rows written OUT with their consequences named
+- NOT FUNDED this window: no-template (all three rows, so dimension 5 is out entirely), work-desktop-presence, room-lower-doors-wide, room-no-photograph, physical 404, edition-fold-door, relationship-exact-back, the two fail-open instruments, the eye tab-dock clause
 
 ## meters
 ```
@@ -129,11 +127,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly   0%  ·  Fable   0%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
-  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly  89%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE
+  [1mClaude C[0m  weekly   1%  ·  Fable   1%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
+  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly  91%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 0% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 1% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
