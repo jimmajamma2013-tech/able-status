@@ -16,7 +16,7 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 01:11, going 41:32).
+- 2 jobs are running (going 01:33, going 01:30).
 - ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
 
 
@@ -60,13 +60,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-20T19:04:15.596Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-20T19:47:07.910Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-20T19:04:15.596Z**
+- **publishedAt: 2026-09-20T19:47:07.910Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 38697 up 01:11 · pid 89781 up 41:32)
+- runningBuilders: **2** (pid 64338 up 01:33 · pid 64412 up 01:30)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -82,19 +82,19 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: b25e8350b37085386c1a3f69ebfa9faf696c4405  (fresh `git ls-remote`)
-- localCanonicalHead: b25e8350b37085386c1a3f69ebfa9faf696c4405  · agrees
+- remoteCanonicalHead: 211a9d55a4f134288272b5769424ca6c62723d51  (fresh `git ls-remote`)
+- localCanonicalHead: 211a9d55a4f134288272b5769424ca6c62723d51  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-20T19:04:09.120Z
-- subject: fold(phone): a credited name's default door is Able's own person page — 48a6f0cc93
+- lastVerifiedAt: 2026-09-20T19:47:04.868Z
+- subject: fold(budget): the push budget measures the address a fan opens, and the route gate stops grandfathering — bec34ef765
 
 ## candidates ready for verdict / fold
 - none
 
 ## running lanes
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-page-r3 (BUILDER, C / Opus): answering the person-page r2 RETURN — composition, member page and the empty right column first. Log /tmp/night-c-person-page-r3.log
-- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-budget (VERIFIER, C / Opus): budget-public-address @ 3ed1ec0b25. The question put to it: should canonical accept a gate that is RED on the real address? Log /tmp/night-c-verify-budget.log
-- 2 headless claude process(es) in the table at 2026-09-20T19:04:15.596Z (pid 38697 up 01:11, pid 89781 up 41:32) — 0 of them recorded as lanes above
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-person-r3 (VERIFIER, C / Opus): person-page-to-the-bar @ d7c58db959. The question: does the person route read COMPLIANT at 390/834/1440 on the verifier own captures? r2 said NON_COMPLIANT 7.5/7.5/7/7. Log /tmp/night-c-verify-person-r3.log
+- UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-drop-engine (BUILDER, C / Opus): room-address-drops-the-profile-engine — make the retired engine branch lazy in src/app/[slug]/page.tsx so a room visitor stops downloading 222 KB of JS they never see. Log /tmp/night-c-drop-engine.log
+- 2 headless claude process(es) in the table at 2026-09-20T19:47:07.910Z (pid 64338 up 01:33, pid 64412 up 01:30) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -127,8 +127,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly   2%  ·  Fable   1%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
-  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly  93%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE
+  [1mClaude C[0m  weekly   2%  ·  Fable   2%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
+  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly  94%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
