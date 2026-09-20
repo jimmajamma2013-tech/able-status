@@ -220,5 +220,11 @@
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): verify-chronology-r3 (fresh verdict, Account C / Opus): room-chronology-wide-20260919 @ 7cdf4f11c9 — the career becomes a composed chronology at 834 and 1440, its r2 RETURN answered. Log /tmp/night-verify-chronology-r3.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): verify-person-page-r2 (fresh verdict, Account C / Opus): person-page-to-the-bar-20260919 @ 6a5ddca830 — the person page sounds, says what the role was done to, and composes at width. Log /tmp/night-verify-person-page-r2.log",
     "3 headless claude process(es) in the table at 2026-09-20T11:33:07.920Z (pid 80183 up 02:51, pid 80205 up 02:49, pid 81521 up 00:45) — 0 of them recorded as lanes above"
-  ]
+  ],
+  "publicMirror": {
+    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
+    "pushed": true,
+    "publicMirrorReadable": true,
+    "checkedAt": "2026-09-20T11:33:26.417Z"
+  }
 }
