@@ -125,31 +125,27 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-20T19:47:07.910Z",
+  "updatedAt": "2026-09-20T20:26:46.164Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
-  "remoteCanonicalHead": "211a9d55a4f134288272b5769424ca6c62723d51",
-  "localCanonicalHead": "211a9d55a4f134288272b5769424ca6c62723d51",
+  "remoteCanonicalHead": "9abb10383a4c6d9fe7f6fa49109c59a884415f71",
+  "localCanonicalHead": "9abb10383a4c6d9fe7f6fa49109c59a884415f71",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-20T19:47:04.868Z",
+  "lastVerifiedAt": "2026-09-20T20:25:39.415Z",
   "canonical": {
     "branch": "able-rebuild-v1",
-    "sha": "211a9d55a4f134288272b5769424ca6c62723d51",
-    "subject": "fold(budget): the push budget measures the address a fan opens, and the route gate stops grandfathering — bec34ef765"
+    "sha": "9abb10383a4c6d9fe7f6fa49109c59a884415f71",
+    "subject": "docs(live): person-page r3 returned on the bar, and its fold exposed a truth defect only visible merged"
   },
-  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly   2%  ·  Fable   2%  ·  resets Sep 26 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly  94%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 2% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return\u001b[0m\n     \u001b[33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly   3%  ·  Fable   2%  ·  resets Sep 26 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly  99%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 3% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-20T19:47:07.910Z",
-    "runningBuilders": 2,
+    "derivedAt": "2026-09-20T20:26:46.164Z",
+    "runningBuilders": 1,
     "runningBuilderDetail": [
       {
-        "pid": "64338",
-        "elapsed": "01:33"
-      },
-      {
-        "pid": "64412",
-        "elapsed": "01:30"
+        "pid": "699",
+        "elapsed": "06:11"
       }
     ],
     "queueDepth": {
@@ -199,13 +195,13 @@
       "B": "Sep 22 at 10:59pm"
     },
     "capacity": {
-      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 94% · resets Sat, 26 Sept, 19:20 · admission HOLD_RESERVE",
+      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 99% · resets Sat, 26 Sept, 19:20 · admission HOLD_RESERVE",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
       "local": "Local (Ollama) qwen3-coder:30b · devstral:24b · gpt-oss:20b · free (no meter) — capacity governed by RAM, one heavyweight at a time"
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-20T19:47:07.910Z",
+  "publishedAt": "2026-09-20T20:26:46.164Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -220,12 +216,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-person-r3 (VERIFIER, C / Opus): person-page-to-the-bar @ d7c58db959. The question: does the person route read COMPLIANT at 390/834/1440 on the verifier own captures? r2 said NON_COMPLIANT 7.5/7.5/7/7. Log /tmp/night-c-verify-person-r3.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-drop-engine (BUILDER, C / Opus): room-address-drops-the-profile-engine — make the retired engine branch lazy in src/app/[slug]/page.tsx so a room visitor stops downloading 222 KB of JS they never see. Log /tmp/night-c-drop-engine.log",
-    "2 headless claude process(es) in the table at 2026-09-20T19:47:07.910Z (pid 64338 up 01:33, pid 64412 up 01:30) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-09-20T19:47:28.712Z"
-  }
+    "1 headless claude process(es) in the table at 2026-09-20T20:26:46.164Z (pid 699 up 06:11) — 0 of them recorded as lanes above"
+  ]
 }

@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-2 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
+1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -16,8 +16,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 2 jobs are running (going 01:33, going 01:30).
-- ⚠️ The written description below may be out of date — it lists 0 but 2 jobs are actually running:
+- 1 job is running (going 06:11).
+- ⚠️ The written description below may be out of date — it lists 0 but 1 job is actually running:
 
 
 ## Waiting for you
@@ -33,7 +33,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **2 jobs** being built right now
+- **1 job** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
 - Claude account A has used **86%** of its week — it refills **Sep 25 at 7pm**
@@ -60,13 +60,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-20T19:47:07.910Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-20T20:26:46.164Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-20T19:47:07.910Z**
+- **publishedAt: 2026-09-20T20:26:46.164Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **2** (pid 64338 up 01:33 · pid 64412 up 01:30)
+- runningBuilders: **1** (pid 699 up 06:11)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -82,13 +82,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## canonical
 - repository: jimmajamma2013-tech/able-music
 - canonicalBranch: able-rebuild-v1
-- remoteCanonicalHead: 211a9d55a4f134288272b5769424ca6c62723d51  (fresh `git ls-remote`)
-- localCanonicalHead: 211a9d55a4f134288272b5769424ca6c62723d51  · agrees
+- remoteCanonicalHead: 9abb10383a4c6d9fe7f6fa49109c59a884415f71  (fresh `git ls-remote`)
+- localCanonicalHead: 9abb10383a4c6d9fe7f6fa49109c59a884415f71  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-20T19:47:04.868Z
-- subject: fold(budget): the push budget measures the address a fan opens, and the route gate stops grandfathering — bec34ef765
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-20T19:47:28.712Z)
+- lastVerifiedAt: 2026-09-20T20:25:39.415Z
+- subject: docs(live): person-page r3 returned on the bar, and its fold exposed a truth defect only visible merged
 
 ## candidates ready for verdict / fold
 - none
@@ -96,7 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-person-r3 (VERIFIER, C / Opus): person-page-to-the-bar @ d7c58db959. The question: does the person route read COMPLIANT at 390/834/1440 on the verifier own captures? r2 said NON_COMPLIANT 7.5/7.5/7/7. Log /tmp/night-c-verify-person-r3.log
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-drop-engine (BUILDER, C / Opus): room-address-drops-the-profile-engine — make the retired engine branch lazy in src/app/[slug]/page.tsx so a room visitor stops downloading 222 KB of JS they never see. Log /tmp/night-c-drop-engine.log
-- 2 headless claude process(es) in the table at 2026-09-20T19:47:07.910Z (pid 64338 up 01:33, pid 64412 up 01:30) — 0 of them recorded as lanes above
+- 1 headless claude process(es) in the table at 2026-09-20T20:26:46.164Z (pid 699 up 06:11) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -129,11 +127,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
      [33m⚠ B's Fable tap is exhausted — the premium tier is closed on B until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly   2%  ·  Fable   2%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
-  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly  94%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE
+  [1mClaude C[0m  weekly   3%  ·  Fable   2%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
+  [1mCodex / Astra[0m (ChatGPT subscription, gpt-6-astra)  weekly  99%  ·  resets Sat, 26 Sept, 19:20  ·  admission HOLD_RESERVE
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 2% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 3% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
