@@ -88,6 +88,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-09-20T20:29:27.817Z
 - subject: docs(live): person-page r3 returned on the bar, and its fold exposed a truth defect only visible merged
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-20T20:29:49.529Z)
+
 ## candidates ready for verdict / fold
 - none
 
