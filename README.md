@@ -6,12 +6,12 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-4 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 2 finished pieces of work are waiting to be checked and added in.
+4 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
 - The build list is paused **on purpose** — not because anything broke. Nothing has been lost; every job is kept and will resume.
-- 2 pieces of finished work are waiting to be checked. That is why the list is paused: building faster than checking is how good work gets wiped out by accident.
+- 3 pieces of finished work are waiting to be checked. That is why the list is paused: building faster than checking is how good work gets wiped out by accident.
 
 ## Being worked on right now
 
@@ -34,7 +34,7 @@ should not be trusted. It is supposed to update itself._
 
 - **4 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
-- **2 finished pieces** waiting to be checked and added in
+- **3 finished pieces** waiting to be checked and added in
 - Claude account A has used **100%** of its week — it refills **Sep 25 at 7pm**
 - Claude account B has used **UNKNOWN%** of its week — it refills **UNKNOWN**
 - ⚠️ all three Claude accounts are separate and reachable
@@ -59,10 +59,10 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-21T15:21:05.109Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-21T15:21:05.012Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-21T15:21:05.109Z**
+- **publishedAt: 2026-09-21T15:21:05.012Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
 - runningBuilders: **4** (pid 69987 up 41:35 · pid 70243 up 41:28 · pid 72795 up 37:32 · pid 78703 up 31:47)
@@ -70,8 +70,8 @@ _2026-09-21T15:21:05.109Z · published by fable-root-a (controller · Account A 
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
-- deliveredUnfolded: **2** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5)
-- verdictsPending: **2** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f
+- deliveredUnfolded: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3)
+- verdictsPending: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587
 - meters weekly: A **100%** · B **UNKNOWN%** · band: ≤55% → 2 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
@@ -84,7 +84,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 32d33512a4024a602c4e33b2ba6165ed34043a9f  (fresh `git ls-remote`)
 - localCanonicalHead: 32d33512a4024a602c4e33b2ba6165ed34043a9f  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-21T15:19:24.338Z
+- lastVerifiedAt: 2026-09-21T15:19:24.910Z
 - subject: fold(work): the record answers the hand — fec2d58bfe
 
 ## candidates ready for verdict / fold
@@ -93,7 +93,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log
-- 4 headless claude process(es) in the table at 2026-09-21T15:21:05.109Z (pid 69987 up 41:35, pid 70243 up 41:28, pid 72795 up 37:32, pid 78703 up 31:47) — 0 of them recorded as lanes above
+- 4 headless claude process(es) in the table at 2026-09-21T15:21:05.012Z (pid 69987 up 41:35, pid 70243 up 41:28, pid 72795 up 37:32, pid 78703 up 31:47) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
