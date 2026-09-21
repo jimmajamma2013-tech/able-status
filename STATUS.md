@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-5 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
+6 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -15,8 +15,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 5 jobs are running (going 01:23, going 44:02, going 43:55, going 39:59, going 34:14).
-- ⚠️ The written description below may be out of date — it lists 0 but 5 jobs are actually running:
+- 6 jobs are running (going 08:11, going 00:55, going 56:08, going 56:01, going 52:05, going 46:20).
+- ⚠️ The written description below may be out of date — it lists 0 but 6 jobs are actually running:
 
 
 ## Waiting for you
@@ -32,7 +32,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **5 jobs** being built right now
+- **6 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
 - Claude account A has used **100%** of its week — it refills **Sep 25 at 7pm**
@@ -59,13 +59,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-21T15:23:32.883Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-21T15:35:38.004Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-21T15:23:32.883Z**
+- **publishedAt: 2026-09-21T15:35:38.004Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **5** (pid 28432 up 01:23 · pid 69987 up 44:02 · pid 70243 up 43:55 · pid 72795 up 39:59 · pid 78703 up 34:14)
+- runningBuilders: **6** (pid 38019 up 08:11 · pid 50414 up 00:55 · pid 69987 up 56:08 · pid 70243 up 56:01 · pid 72795 up 52:05 · pid 78703 up 46:20)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -84,10 +84,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 32d33512a4024a602c4e33b2ba6165ed34043a9f  (fresh `git ls-remote`)
 - localCanonicalHead: 32d33512a4024a602c4e33b2ba6165ed34043a9f  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-21T15:22:00.866Z
+- lastVerifiedAt: 2026-09-21T15:34:06.080Z
 - subject: fold(work): the record answers the hand — fec2d58bfe
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-21T15:25:26.206Z)
 
 ## candidates ready for verdict / fold
 - none
@@ -95,7 +93,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log
-- 5 headless claude process(es) in the table at 2026-09-21T15:23:32.883Z (pid 28432 up 01:23, pid 69987 up 44:02, pid 70243 up 43:55, pid 72795 up 39:59, pid 78703 up 34:14) — 0 of them recorded as lanes above
+- 6 headless claude process(es) in the table at 2026-09-21T15:35:38.004Z (pid 38019 up 08:11, pid 50414 up 00:55, pid 69987 up 56:08, pid 70243 up 56:01, pid 72795 up 52:05, pid 78703 up 46:20) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -128,11 +126,11 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 [33m     and no "spend this one" verdict is issued while a meter is unreadable.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  32%  ·  Fable  47%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  33%  ·  Fable  50%  ·  resets Sep 26 at 11pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
   [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 32% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account C at weekly 33% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
