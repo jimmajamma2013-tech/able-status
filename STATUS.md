@@ -6,7 +6,7 @@ should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-4 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
+5 things are being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
@@ -15,8 +15,8 @@ should not be trusted. It is supposed to update itself._
 
 ## Being worked on right now
 
-- 4 jobs are running (going 41:35, going 41:28, going 37:32, going 31:47).
-- ⚠️ The written description below may be out of date — it lists 0 but 4 jobs are actually running:
+- 5 jobs are running (going 01:23, going 44:02, going 43:55, going 39:59, going 34:14).
+- ⚠️ The written description below may be out of date — it lists 0 but 5 jobs are actually running:
 
 
 ## Waiting for you
@@ -32,7 +32,7 @@ should not be trusted. It is supposed to update itself._
 
 ## The numbers, in plain words
 
-- **4 jobs** being built right now
+- **5 jobs** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
 - Claude account A has used **100%** of its week — it refills **Sep 25 at 7pm**
@@ -59,13 +59,13 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-21T15:21:05.012Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-21T15:23:32.883Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-21T15:21:05.012Z**
+- **publishedAt: 2026-09-21T15:23:32.883Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **4** (pid 69987 up 41:35 · pid 70243 up 41:28 · pid 72795 up 37:32 · pid 78703 up 31:47)
+- runningBuilders: **5** (pid 28432 up 01:23 · pid 69987 up 44:02 · pid 70243 up 43:55 · pid 72795 up 39:59 · pid 78703 up 34:14)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
@@ -84,10 +84,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: 32d33512a4024a602c4e33b2ba6165ed34043a9f  (fresh `git ls-remote`)
 - localCanonicalHead: 32d33512a4024a602c4e33b2ba6165ed34043a9f  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-21T15:19:24.910Z
+- lastVerifiedAt: 2026-09-21T15:22:00.866Z
 - subject: fold(work): the record answers the hand — fec2d58bfe
-
-- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-09-21T15:22:58.904Z)
 
 ## candidates ready for verdict / fold
 - none
@@ -95,7 +93,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log
-- 4 headless claude process(es) in the table at 2026-09-21T15:21:05.012Z (pid 69987 up 41:35, pid 70243 up 41:28, pid 72795 up 37:32, pid 78703 up 31:47) — 0 of them recorded as lanes above
+- 5 headless claude process(es) in the table at 2026-09-21T15:23:32.883Z (pid 28432 up 01:23, pid 69987 up 44:02, pid 70243 up 43:55, pid 72795 up 39:59, pid 78703 up 34:14) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
