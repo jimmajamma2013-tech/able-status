@@ -125,47 +125,47 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-09-21T15:35:37.736Z",
+  "updatedAt": "2026-09-21T15:35:38.004Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
   "remoteCanonicalHead": "32d33512a4024a602c4e33b2ba6165ed34043a9f",
   "localCanonicalHead": "32d33512a4024a602c4e33b2ba6165ed34043a9f",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-09-21T15:33:58.490Z",
+  "lastVerifiedAt": "2026-09-21T15:34:06.080Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "32d33512a4024a602c4e33b2ba6165ed34043a9f",
     "subject": "fold(work): the record answers the hand — fec2d58bfe"
   },
-  "meters": "\u001b[33m  ⚠️ An UNKNOWN above is not a low reading. Do not route work on it,\u001b[0m\n\u001b[33m     and no \"spend this one\" verdict is issued while a meter is unreadable.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  33%  ·  Fable  50%  ·  resets Sep 26 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  devstral:24b · qwen3-coder:30b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 33% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "\u001b[33m  ⚠️ An UNKNOWN above is not a low reading. Do not route work on it,\u001b[0m\n\u001b[33m     and no \"spend this one\" verdict is issued while a meter is unreadable.\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  33%  ·  Fable  50%  ·  resets Sep 26 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m  \u001b[31mUNKNOWN — The provider reports a reached account limit\u001b[0m\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 33% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-09-21T15:35:37.737Z",
+    "derivedAt": "2026-09-21T15:35:38.004Z",
     "runningBuilders": 6,
     "runningBuilderDetail": [
       {
         "pid": "38019",
-        "elapsed": "08:10"
+        "elapsed": "08:11"
       },
       {
         "pid": "50414",
-        "elapsed": "00:54"
+        "elapsed": "00:55"
       },
       {
         "pid": "69987",
-        "elapsed": "56:07"
+        "elapsed": "56:08"
       },
       {
         "pid": "70243",
-        "elapsed": "56:00"
+        "elapsed": "56:01"
       },
       {
         "pid": "72795",
-        "elapsed": "52:04"
+        "elapsed": "52:05"
       },
       {
         "pid": "78703",
-        "elapsed": "46:19"
+        "elapsed": "46:20"
       }
     ],
     "queueDepth": {
@@ -221,7 +221,7 @@
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-09-21T15:35:37.736Z",
+  "publishedAt": "2026-09-21T15:35:38.004Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -236,6 +236,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log",
-    "6 headless claude process(es) in the table at 2026-09-21T15:35:37.737Z (pid 38019 up 08:10, pid 50414 up 00:54, pid 69987 up 56:07, pid 70243 up 56:00, pid 72795 up 52:04, pid 78703 up 46:19) — 0 of them recorded as lanes above"
+    "6 headless claude process(es) in the table at 2026-09-21T15:35:38.004Z (pid 38019 up 08:11, pid 50414 up 00:55, pid 69987 up 56:08, pid 70243 up 56:01, pid 72795 up 52:05, pid 78703 up 46:20) — 0 of them recorded as lanes above"
   ]
 }
