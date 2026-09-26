@@ -1,21 +1,24 @@
 # ABLE — what is happening right now
 
-**Last updated 2 minutes ago.**
+**Last updated just now.**
 _If that says more than about 10 minutes while work is running, this page has fallen behind and
 should not be trusted. It is supposed to update itself._
 
 ## In one line
 
-Nothing is being built at this moment, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
+1 thing is being built right now, and the build list is deliberately on hold with 14 jobs kept safe while finished work gets checked. 3 finished pieces of work are waiting to be checked and added in.
 
 ## Is anything wrong?
 
 - The build list is paused **on purpose** — not because anything broke. Nothing has been lost; every job is kept and will resume.
 - 3 pieces of finished work are waiting to be checked. That is why the list is paused: building faster than checking is how good work gets wiped out by accident.
+- The second Claude account has used 90% of its week, so it is being kept in reserve for emergencies rather than doing routine work.
 
 ## Being worked on right now
 
-- Nothing is being built at this moment.
+- 1 job is running (going 01:17).
+- ⚠️ The written description below may be out of date — it lists 0 but 1 job is actually running:
+
 
 ## Waiting for you
 
@@ -30,19 +33,19 @@ Nothing is being built at this moment, and the build list is deliberately on hol
 
 ## The numbers, in plain words
 
-- **0 jobs** being built right now
+- **1 job** being built right now
 - **14 jobs** waiting in the list (on hold on purpose)
 - **3 finished pieces** waiting to be checked and added in
-- Claude account A has used **36%** of its week — it refills **Oct 2 at 7pm**
-- Claude account B has used **UNKNOWN%** of its week — it refills **UNKNOWN**
+- Claude account A has used **66%** of its week — it refills **Oct 2 at 7pm**
+- Claude account B has used **90%** of its week — it refills **Sep 26 at 10:59pm**
 - ⚠️ all three Claude accounts are separate and reachable
 
 ## Every model lane we can reach
 
 | Lane | State | What it means |
 |---|---|---|
-| **Claude A** | 36% of its week used | The one to spend. Routine work goes here. Refills Oct 2 at 7pm. |
-| **Claude B** | UNKNOWN% of its week used | Nearly spent, and its top tier is closed until it refills UNKNOWN. Held for emergencies only. |
+| **Claude A** | 66% of its week used | The one to spend. Routine work goes here. Refills Oct 2 at 7pm. |
+| **Claude B** | 90% of its week used | Nearly spent, and its top tier is closed until it refills Sep 26 at 10:59pm. Held for emergencies only. |
 | **Claude C** | not a separate account | Signed into the same login as A, so work on it is billed to A. One subscription is unreachable until it is signed in properly. |
 | **Codex / Astra** | limit reached | Nothing can be sent here until it resets. |
 | **Gemini · Grok · Kimi** | no meter exists | They can still be CALLED. What cannot be done is knowing how much is left — none of them publish a usage number. So they are used for bounded second opinions, never for work the build depends on. |
@@ -57,20 +60,20 @@ account look identical from the outside, and only one of them is safe to spend a
 _Everything below is the machine detail, for GPT. You do not need to read it._
 
 # ABLE · LIVE STATUS
-_2026-09-26T03:53:02.989Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
+_2026-09-26T15:17:27.584Z · published by fable-root-a (controller · Account A root, Claude Opus 5 1M, VS Code) · this file is a pointer, the evidence is in the repo_
 
 ## ⏱ FRESHNESS — read this first
-- **publishedAt: 2026-09-26T03:53:02.989Z**
+- **publishedAt: 2026-09-26T15:17:27.584Z**
 - statusAgeSeconds at publication: 0 · **recompute from publishedAt; anything over 600s while
   builders are running is STALE and this page should not be trusted as current**
-- runningBuilders: **0**
+- runningBuilders: **1** (pid 46551 up 01:17)
 - queueState: **PAUSED FOR INTEGRATION — 14 packet(s) held, not lost**
 - queueDepth (live): product **0** · ci **0**
 - queueHeld (paused, preserved): product **13** · ci **1**
 - queueNext: product `UNKNOWN` · ci `UNKNOWN`
 - deliveredUnfolded: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f (+3) · ci-p2-lanes-ci-20260917 @ a1181e412f (+5) · night-claim-screen-20260917 @ fba480c587 (+3)
 - verdictsPending: **3** — ci-p2-ci-waste-20260917 @ f4bdfae07f · ci-p2-lanes-ci-20260917 @ a1181e412f · night-claim-screen-20260917 @ fba480c587
-- meters weekly: A **36%** · B **UNKNOWN%** · band: ≤55% → 2 builder(s)
+- meters weekly: A **66%** · B **90%** · band: 65–70% → 0 builder(s)
 
 ⛔ **INTEGRATION BACKPRESSURE (James relaying GPT, 2026-09-17):** the product queue PAUSES at **2**
 delivered-but-unfolded product branches, and pauses immediately if the next packet touches a file an
@@ -82,7 +85,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - remoteCanonicalHead: db4b33b88a7f1de2887c34f8c06cf083b1992ad6  (fresh `git ls-remote`)
 - localCanonicalHead: db4b33b88a7f1de2887c34f8c06cf083b1992ad6  · agrees
 - candidateBranch: c-census-green-20260917 · candidateHead: 8f64a9d564b3b9815e6c8af0a3664af36333d297
-- lastVerifiedAt: 2026-09-26T03:51:25.998Z
+- lastVerifiedAt: 2026-09-26T15:17:26.719Z
 - subject: chore(queue): B-250 delivered → head advances to CERT-ENV
 
 ## candidates ready for verdict / fold
@@ -91,7 +94,7 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 ## running lanes
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log
 - UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log
-- 0 headless claude process(es) in the table at 2026-09-26T03:53:02.989Z — 0 of them recorded as lanes above
+- 1 headless claude process(es) in the table at 2026-09-26T15:17:27.584Z (pid 46551 up 01:17) — 0 of them recorded as lanes above
 
 ## blockers
 - THE ORDER FROM THE FOUNDER (2026-09-17 ~18:2x): keep moving through Maribou to 11/10, all models, no stopping, never reopening the Room plan or starting a broad audit. The chain, with ④ LANDED at e509cadc8b: c-census + c-identity merged onto canonical by root (one import hunk, one registry hunk) → one fresh verdict on the merged head → fast-forward → RETURN-EXACT + the sounding door (building on A) → its verdict → the Work opening with QuickLaunch → Materials from the real sleeve → Groove List → DUAL/WIDE → People/Relationship → Film V2. The scoreboard audit stays paused. B is under its weekly floor (9% left); C has 4% above its floor; A carries the builders and verdicts.
@@ -120,15 +123,15 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 
 ## meters
 ```
-[33m  ⚠️ An UNKNOWN above is not a low reading. Do not route work on it,[0m
-[33m     and no "spend this one" verdict is issued while a meter is unreadable.[0m
+[2mband 70%+ → 0 builder(s): preserve for blockers until Codex and the second Claude account return[0m
+     [33m⚠ C's Fable tap is exhausted — the premium tier is closed on C until that reset.[0m
 
 [1m🌐 EVERY LANE WE OWN[0m
-  [1mClaude C[0m  weekly  89%  ·  Fable  99%  ·  resets Sep 26 at 10:59pm  ·  [32mgenuinely separate[0m
+  [1mClaude C[0m  weekly  99%  ·  Fable 100%  ·  resets Sep 29 at 11pm  ·  [32mgenuinely separate[0m
   [1mCodex / Astra[0m  [31mUNKNOWN — The provider reports a reached account limit[0m
   [1mGemini[0m  [33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero[0m
-  [1mLocal (Ollama)[0m  qwen3-coder:30b · devstral:24b · gpt-oss:20b  ·  free (no meter) — capacity governed by RAM, one heavyweight at a time
+  [1mLocal (Ollama)[0m  [33mollama not reachable — local lane unavailable[0m
 
-[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 36% → [1m2 builder(s)[0m · two builders maximum; Opus only for genuinely hard work
+[1m🎚 THE BAND (resource mode, 2026-09-16):[0m working account A at weekly 66% → [1m0 builder(s)[0m · architect / integrator / reviewer only
    Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.
 ```
