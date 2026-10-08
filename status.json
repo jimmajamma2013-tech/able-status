@@ -125,27 +125,27 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-10-04T07:06:06.549Z",
+  "updatedAt": "2026-10-08T18:47:57.054Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
   "remoteCanonicalHead": "db4b33b88a7f1de2887c34f8c06cf083b1992ad6",
   "localCanonicalHead": "db4b33b88a7f1de2887c34f8c06cf083b1992ad6",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-10-04T07:06:05.596Z",
+  "lastVerifiedAt": "2026-10-08T18:47:47.339Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "db4b33b88a7f1de2887c34f8c06cf083b1992ad6",
     "subject": "chore(queue): B-250 delivered → head advances to CERT-ENV"
   },
-  "meters": "resets Oct 6 at 10:59pm   \u001b[2m61% of the week left · the third subscription — a full lane in its own right\u001b[0m\n     \u001b[2mband ≤55% → 2 builder(s): two builders maximum; Opus only for genuinely hard work\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  39%  ·  Fable  55%  ·  resets Oct 6 at 10:59pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly  26%  ·  resets Sat, 10 Oct, 06:20  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  \u001b[33mollama not reachable — local lane unavailable\u001b[0m\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account B at weekly 8% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "resets Oct 9 at 7pm   \u001b[2m67% of the week left · orchestration · holds the reserve that keeps both lanes alive\u001b[0m\n     \u001b[2mband ≤55% → 2 builder(s): two builders maximum; Opus only for genuinely hard work\u001b[0m\n\n\u001b[1m🌐 EVERY LANE WE OWN\u001b[0m\n  \u001b[1mClaude C\u001b[0m  weekly  19%  ·  Fable  35%  ·  resets Oct 13 at 11pm  ·  \u001b[32mgenuinely separate\u001b[0m\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly  47%  ·  resets Wed, 14 Oct, 08:10  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  \u001b[33mollama not reachable — local lane unavailable\u001b[0m\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 19% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-10-04T07:06:06.550Z",
+    "derivedAt": "2026-10-08T18:47:57.055Z",
     "runningBuilders": 1,
     "runningBuilderDetail": [
       {
-        "pid": "59705",
-        "elapsed": "05:33"
+        "pid": "17148",
+        "elapsed": "00:13"
       }
     ],
     "queueDepth": {
@@ -186,22 +186,22 @@
     ],
     "verdictsPendingCount": 3,
     "meterWeekly": {
-      "A": 10,
-      "B": 8
+      "A": 33,
+      "B": 26
     },
     "builderBand": "≤55% → 2 builder(s)",
     "resets": {
       "A": "Oct 9 at 7pm",
-      "B": "Oct 10 at 11pm"
+      "B": "Oct 10 at 10:59pm"
     },
     "capacity": {
-      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 26% · resets Sat, 10 Oct, 06:20 · admission ALLOW",
+      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 47% · resets Wed, 14 Oct, 08:10 · admission ALLOW",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
       "local": "Local (Ollama) ollama not reachable — local lane unavailable"
     },
     "thirdProfile": "all three Claude accounts are separate and reachable"
   },
-  "publishedAt": "2026-10-04T07:06:06.549Z",
+  "publishedAt": "2026-10-08T18:47:57.054Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -216,12 +216,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log",
-    "1 headless claude process(es) in the table at 2026-10-04T07:06:06.550Z (pid 59705 up 05:33) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-10-04T07:06:58.962Z"
-  }
+    "1 headless claude process(es) in the table at 2026-10-08T18:47:57.055Z (pid 17148 up 00:13) — 0 of them recorded as lanes above"
+  ]
 }
