@@ -85,6 +85,8 @@ unfolded branch touches. Builders outrunning integration is how a folded P0 gets
 - lastVerifiedAt: 2026-10-16T13:44:42.137Z
 - subject: chore(queue): B-250 delivered → head advances to CERT-ENV
 
+- publicMirrorReadable: true (unauthenticated fetch of the raw mirror, 2026-10-16T13:45:38.600Z)
+
 ## candidates ready for verdict / fold
 - none
 
