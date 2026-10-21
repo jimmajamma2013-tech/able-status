@@ -125,35 +125,43 @@
     "any new provider breadth before SourcePassport (Phase 6)",
     "Control Room (Phase 18) before three to five real artists have touched Claim/Direct"
   ],
-  "updatedAt": "2026-10-21T10:08:23.155Z",
+  "updatedAt": "2026-10-21T14:20:31.136Z",
   "repository": "jimmajamma2013-tech/able-music",
   "canonicalBranch": "able-rebuild-v1",
   "remoteCanonicalHead": "db4b33b88a7f1de2887c34f8c06cf083b1992ad6",
   "localCanonicalHead": "db4b33b88a7f1de2887c34f8c06cf083b1992ad6",
   "canonicalAgree": true,
   "candidateHead": "8f64a9d564b3b9815e6c8af0a3664af36333d297",
-  "lastVerifiedAt": "2026-10-21T10:08:15.173Z",
+  "lastVerifiedAt": "2026-10-21T14:20:20.944Z",
   "canonical": {
     "branch": "able-rebuild-v1",
     "sha": "db4b33b88a7f1de2887c34f8c06cf083b1992ad6",
     "subject": "chore(queue): B-250 delivered → head advances to CERT-ENV"
   },
-  "meters": "C is signed in as <an account address, redacted from the public page>  ← the same one\n     So a third subscription you own is NOT reachable from this machine, and anything\n     run on profile C is charged to A. This is a login mistake, not a missing account.\n     Fix (needs the founder — it is his credential): CLAUDE_CONFIG_DIR=~/.claude-account-c claude auth login\n     and sign in as the THIRD account, not the one A already holds.\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Wed, 28 Oct, 10:08  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  \u001b[33mollama not reachable — local lane unavailable\u001b[0m\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 10% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
+  "meters": "C is signed in as <an account address, redacted from the public page>  ← the same one\n     So a third subscription you own is NOT reachable from this machine, and anything\n     run on profile C is charged to A. This is a login mistake, not a missing account.\n     Fix (needs the founder — it is his credential): CLAUDE_CONFIG_DIR=~/.claude-account-c claude auth login\n     and sign in as the THIRD account, not the one A already holds.\n  \u001b[1mCodex / Astra\u001b[0m (ChatGPT subscription, gpt-6-astra)  weekly   0%  ·  resets Wed, 28 Oct, 14:20  ·  admission ALLOW\n  \u001b[1mGemini\u001b[0m  \u001b[33mUNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero\u001b[0m\n  \u001b[1mLocal (Ollama)\u001b[0m  \u001b[33mollama not reachable — local lane unavailable\u001b[0m\n\n\u001b[1m🎚 THE BAND (resource mode, 2026-09-16):\u001b[0m working account C at weekly 22% → \u001b[1m2 builder(s)\u001b[0m · two builders maximum; Opus only for genuinely hard work\n   Opus decides (architecture · reconciliation · root cause · fold verdicts) · Fable executes ratified designs · scripts prove · Codex takes bulk implementation on its reset · local and Gemini only what they have earned.",
   "machine": {
-    "derivedAt": "2026-10-21T10:08:23.155Z",
-    "runningBuilders": 3,
+    "derivedAt": "2026-10-21T14:20:31.136Z",
+    "runningBuilders": 5,
     "runningBuilderDetail": [
       {
-        "pid": "18112",
-        "elapsed": "35:51"
+        "pid": "7731",
+        "elapsed": "06:58"
       },
       {
-        "pid": "33827",
-        "elapsed": "10:53"
+        "pid": "15175",
+        "elapsed": "01:12"
       },
       {
-        "pid": "65197",
-        "elapsed": "01:18:01"
+        "pid": "81289",
+        "elapsed": "37:59"
+      },
+      {
+        "pid": "89038",
+        "elapsed": "28:00"
+      },
+      {
+        "pid": "96548",
+        "elapsed": "17:59"
       }
     ],
     "queueDepth": {
@@ -195,21 +203,21 @@
     "verdictsPendingCount": 3,
     "meterWeekly": {
       "A": "UNKNOWN",
-      "B": 84
+      "B": 88
     },
     "builderBand": "≤55% → 2 builder(s)",
     "resets": {
       "A": "UNKNOWN",
-      "B": "Oct 24 at 11pm"
+      "B": "Oct 24 at 10:59pm"
     },
     "capacity": {
-      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 0% · resets Wed, 28 Oct, 10:08 · admission ALLOW",
+      "codex": "Codex / Astra (ChatGPT subscription, gpt-6-astra) weekly 0% · resets Wed, 28 Oct, 14:20 · admission ALLOW",
       "gemini": "Gemini UNKNOWN — no hand reading at .able/state/gemini-balance.json (the API exposes no balance) — UNKNOWN, never zero",
       "local": "Local (Ollama) ollama not reachable — local lane unavailable"
     },
     "thirdProfile": "two of the three Claude profiles are signed into the SAME account, so one subscription is not reachable from this machine and work on that profile is billed to the wrong one. It is a login mistake, not a missing account — `npm run usage -- --all` prints which profile and the exact fix."
   },
-  "publishedAt": "2026-10-21T10:08:23.155Z",
+  "publishedAt": "2026-10-21T14:20:31.136Z",
   "statusAgeSeconds": 0,
   "runningAlive": [],
   "runningDead": [],
@@ -224,12 +232,6 @@
   "runningRendered": [
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-person-r4 (BUILDER, C / Opus): the merged truth defect (a person page sounding another Work preview) plus the three defects r3 measured. Told NOT to chase the retired bar. Log /tmp/night-c-person-r4.log",
     "UNVERIFIED — no pid recorded (an in-session agent or a stale entry): c-verify-soundcloud (VERIFIER, C / Opus): soundcloud-player-comments-off @ 3d82a527ac. The claim that matters: the undocumented show_comments=false parameter actually suppresses comments, measured in a real browser. Log /tmp/night-c-verify-soundcloud.log",
-    "3 headless claude process(es) in the table at 2026-10-21T10:08:23.155Z (pid 18112 up 35:51, pid 33827 up 10:53, pid 65197 up 01:18:01) — 0 of them recorded as lanes above"
-  ],
-  "publicMirror": {
-    "url": "https://raw.githubusercontent.com/jimmajamma2013-tech/able-status/main/STATUS.md",
-    "pushed": true,
-    "publicMirrorReadable": true,
-    "checkedAt": "2026-10-21T10:08:41.139Z"
-  }
+    "5 headless claude process(es) in the table at 2026-10-21T14:20:31.136Z (pid 7731 up 06:58, pid 15175 up 01:12, pid 81289 up 37:59, pid 89038 up 28:00, pid 96548 up 17:59) — 0 of them recorded as lanes above"
+  ]
 }
